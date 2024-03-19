@@ -8,7 +8,7 @@ public class AplicacionJava {
         System.out.println("jajajaj");
         System.out.println("vass");
         System.out.println("queeeeeee");
-        System.out.println("masssss");
+        System.out.println("mas");
     }
     
 }
