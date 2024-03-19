@@ -6,6 +6,7 @@ public class AplicacionJava {
         System.out.println("Que mas");
         System.out.println("Rarita");
         System.out.println("jajajaj");
+        System.out.println("vass");
     }
     
 }
