@@ -9,6 +9,9 @@ public class AplicacionJava {
         System.out.println("vass");
         System.out.println("queeeeeee");
         System.out.println("mas");
+        
+        //mi primer comentario
+        /* somos la vrg, mentira*/
     }
     
 }
