@@ -20,10 +20,20 @@ public class AplicacionVariables {
         System.out.println(numero3);
         
         // cadena de caracteres String: "que mas ve"
+        String cardena1;
+        cardena1 = "holaaaa";
+        System.out.println(cardena1);
         
         // caracteres Char: "a", "b", "A"
+        char caracter;
+        caracter ='A';
+        System.out.println(caracter);
+        
         
         // valores booleanos boolean; true - false
+        boolean opcion;
+        opcion = true;
+        System.out.println(opcion);
         
         
     }
