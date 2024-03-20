@@ -1,8 +1,11 @@
 package aplicacionvariables;
 
+import java.util.Scanner;
+
 public class AplicacionVariables {
 
     public static void main(String[] args) {
+        /*
         // enterios   int: 1 - 2 - 3 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 0
         int numero1 = 1;
         System.out.println(numero1);
@@ -34,6 +37,25 @@ public class AplicacionVariables {
         boolean opcion;
         opcion = true;
         System.out.println(opcion);
+        */
+        Scanner teclado = new Scanner(System.in);
+        
+        String nombre;
+        int edad;
+        String genero;
+        
+        System.out.print("escribe tu nombre: ");
+        nombre = teclado.nextLine();
+        System.out.print("escribe tu edad: ");
+        edad = teclado.nextInt();
+        teclado.nextLine();
+        System.out.print("escribe tu genero: ");
+        genero = teclado.nextLine();
+        
+        
+        System.out.println("el nombre es: "+ nombre);
+        System.out.println("la edad es: "+ edad);
+        System.out.println("el genero es: "+ genero);
         
         
     }
