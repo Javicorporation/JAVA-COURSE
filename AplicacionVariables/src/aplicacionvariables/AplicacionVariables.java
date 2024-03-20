@@ -8,8 +8,16 @@ public class AplicacionVariables {
         System.out.println(numero1);
         // decimales  float: 1,2 - 2,5 - 7,8 
         
+        float numero2;
+        numero2 = 2.4f;
+        System.out.println(numero2);
+        
+        
         
         // decimales largos double:  1,2 - 2,5 - 7,8
+        double numero3;
+        numero3 = 2.56;
+        System.out.println(numero3);
         
         // cadena de caracteres String: "que mas ve"
         
