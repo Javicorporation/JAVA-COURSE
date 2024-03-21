@@ -1,20 +1,25 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package ejercicio1;
 
-/**
- *
- * @author krchi
- */
+import java.util.Scanner;
+
+
 public class Ejercicio_6 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Scanner entrada = new Scanner(System.in);
+        
+        int añoActual;
+        int añoNacim;
+        
+        System.out.print("escriba el año actual: ");
+        añoActual = entrada.nextInt();
+        System.out.print("escriba el año en que nació: ");
+        añoNacim = entrada.nextInt();
+        int edad;
+        edad = añoActual-añoNacim;
+        System.out.println("su edad es de: "+edad);
     }
     
 }
