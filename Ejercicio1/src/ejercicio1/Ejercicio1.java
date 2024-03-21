@@ -7,14 +7,22 @@ public class Ejercicio1 {
     public static void main(String[] args) {
         
         Scanner teclado = new Scanner(System.in);
-        float superficie;
-        float lado;
+        int suma;
+        int num1;
+        int num2;
+        int num3;
         
-        System.out.print("escribe el lado del cuadrado: ");
-        lado = teclado.nextFloat();
-        superficie = lado * lado;
-        System.out.println("la superficie es: "+ superficie);
+        System.out.print("escribe el primer numero: ");
+        num1 = teclado.nextInt();
         
+        System.out.print("escribe el primer numero: ");
+        num2 = teclado.nextInt();
+        
+        System.out.print("escribe el primer numero: ");
+        num3 = teclado.nextInt();
+        
+        suma = num1 + num2 + num3;
+        System.out.print("el resultado es: "+suma);
     }
     
 }
