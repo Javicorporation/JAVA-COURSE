@@ -6,6 +6,8 @@ public class Condicional_8 {
     public static void main (String[] args){
 
         Scanner estrada = new Scanner(System.in);
+        int numero1;
+        int numero2;
         int numero3;
         int numero4;
         int numero5;
@@ -13,9 +15,9 @@ public class Condicional_8 {
         int numMenor;
 
         System.out.print("Escriba el primer numero: ");
-        numMayor = estrada.nextInt();
+        numero1 = estrada.nextInt();
         System.out.print("Escriba el segundo numero: ");
-        numMenor = estrada.nextInt();
+        numero2 = estrada.nextInt();
         System.out.print("Escriba el tercer numero: ");
         numero3 = estrada.nextInt();
         System.out.print("Escriba el cuarto numero: ");
@@ -23,29 +25,34 @@ public class Condicional_8 {
         System.out.print("Escriba el quinto numero: ");
         numero5 = estrada.nextInt();
 
+
+        numMayor = numero1;
+        numMenor = numero1;
+
+        if(numero2 > numMayor){
+            numMayor = numero2;
+        } else if (numero2 < numMenor) {
+            numMenor = numero2;
+        }
         if(numero3 > numMayor){
             numMayor = numero3 ;
-            System.out.printf("El numero mayore es el numero: %d", numMayor);
         } else if (numero3 < numMenor) {
             numMenor = numero3;
-            System.out.printf("el numero menor es: %d", numMenor);
         }
 
         if( numero4 > numMayor){
             numMayor = numero4 ;
-            System.out.printf("El numero mayor es: %d", numMayor);
         } else if (numero4 < numMenor ) {
-            System.out.printf("El numero menor es: %d", numMenor);
+            numMenor = numero4;
         }
 
         if (numero5 > numMayor) {
             numMayor = numero5 ;
-            System.out.printf("El numero mayor es: %d", numMayor);
         } else if (numero5 < numMenor) {
             numMenor = numero5;
-            System.out.printf("El numero menor es %d", numMenor);
         }
-
+        System.out.printf("El numero mayor es: %d", numMayor);
+        System.out.printf("El numero menor es %d", numMenor);
 
     }
 }
