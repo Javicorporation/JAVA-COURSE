@@ -23,12 +23,27 @@ public class Condicional_8 {
         System.out.print("Escriba el quinto numero: ");
         numero5 = estrada.nextInt();
 
-        if(numMayor > numero3){
-            numero3 = numMayor;
-            System.out.printf("El numero mayore es el numero: %d", numero3);
-        } else if (numMenor < numero3) {
-            numero3 = numMenor;
-            System.out.printf("el numero menor es: %d", numero3);
+        if(numero3 > numMayor){
+            numMayor = numero3 ;
+            System.out.printf("El numero mayore es el numero: %d", numMayor);
+        } else if (numero3 < numMenor) {
+            numMenor = numero3;
+            System.out.printf("el numero menor es: %d", numMenor);
+        }
+
+        if( numero4 > numMayor){
+            numMayor = numero4 ;
+            System.out.printf("El numero mayor es: %d", numMayor);
+        } else if (numero4 < numMenor ) {
+            System.out.printf("El numero menor es: %d", numMenor);
+        }
+
+        if (numero5 > numMayor) {
+            numMayor = numero5 ;
+            System.out.printf("El numero mayor es: %d", numMayor);
+        } else if (numero5 < numMenor) {
+            numMenor = numero5;
+            System.out.printf("El numero menor es %d", numMenor);
         }
 
 
