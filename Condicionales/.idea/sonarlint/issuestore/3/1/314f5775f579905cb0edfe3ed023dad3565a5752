@@ -1,14 +1,18 @@
 
-¨
-java:S1192"`Define a constant instead of duplicating this literal "el numero mayor es el numero %d" 5 times.(¥Ä¤÷şÿÿÿÿ8–ªàÄç1J$5679be68-262e-4d8d-bfa9-3d01afce7784
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î«Ù¸8†èÕÄç1J$eb3074d6-fc83-4147-b21d-876da66ff4e1
-r	java:S106"+Replace this use of System.out by a logger.(½ë¼ûÿÿÿÿ8§èÕÄç1J$a03a255c-0736-41fb-8217-b49d45b0e65a
-m	java:S106"+Replace this use of System.out by a logger.(Ôõâ€8§èÕÄç1J$1fa8034b-7ed7-4a06-ad43-588f882ab525
-m	java:S106"+Replace this use of System.out by a logger.(„ÅğÎ8¨èÕÄç1J$73ed68c7-1d97-47b5-a5d0-d6619b343644
-r	java:S106"+Replace this use of System.out by a logger.(²úÜìüÿÿÿÿ8©èÕÄç1J$7858dc17-08a6-47c4-aad8-6b6296f82c2e
-m	java:S106"+Replace this use of System.out by a logger.(‹¬ÿû8ªèÕÄç1J$8b3d39ec-de88-4440-ad7c-3b861f50d78d
-r	java:S106"+Replace this use of System.out by a logger.(¥Ä¤÷şÿÿÿÿ8«èÕÄç1J$d18da32c-30e3-4878-80cf-99dc7483a50b
-m	java:S106"+Replace this use of System.out by a logger.(µ§ø‰8°„ÚÄç1J$fafccbd8-28ab-45e8-b34a-2a8a9e4a6dcd
-m	java:S106 "+Replace this use of System.out by a logger.(½Å¤8±„ÚÄç1J$a4b0d998-df99-4feb-9a0c-f0c643cb9012
-r	java:S106""+Replace this use of System.out by a logger.(Áçˆ®ûÿÿÿÿ8³„ÚÄç1J$0c8a7ddf-74ec-4864-9ea0-e74c7b5410eb
-m	java:S106$"+Replace this use of System.out by a logger.(ÃÎ“8á©ÚÄç1J$d8066fdc-3ee4-4859-92c6-9aa6b2bcfb7f
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î«Ù¸8î…¸Åç1J$a39e63e5-1ea9-4889-9417-834822b06b91
+~
+java:S1854";Remove this useless assignment to local variable "numero5".(È¦¶‰8ü…¸Åç1J$44f42b35-f95e-4414-a6e6-2bac924c488f
+~
+java:S1854";Remove this useless assignment to local variable "numero4".(şéí8ü…¸Åç1J$9b763bc8-3dfb-4a9f-b8ab-e4f70020437a
+o
+java:S1481
+",Remove this unused "numero4" local variable.(ÍÅÈ¥8€†¸Åç1J$543f9abf-39f4-489d-916f-e6f30593af03
+o
+java:S1481",Remove this unused "numero5" local variable.(ğ÷æ¸8€†¸Åç1J$1cfc16d7-4240-4f44-9ca7-7262a5e503bc
+m	java:S106"+Replace this use of System.out by a logger.(µ€°Š8‚†¸Åç1J$d74069ff-6982-475c-ba1d-14aa44104f50
+m	java:S106"+Replace this use of System.out by a logger.(‹ÛË½8ƒ†¸Åç1J$3334cae4-d4fb-4d57-ac0c-2afdd2b714a2
+m	java:S106"+Replace this use of System.out by a logger.(¢­¼ë8„†¸Åç1J$b06676ee-d6c8-4c3c-a00b-faab33906bf0
+m	java:S106"+Replace this use of System.out by a logger.(Ä„½8„†¸Åç1J$06d28d38-b35d-435d-9561-5f813cf5a6c1
+m	java:S106"+Replace this use of System.out by a logger.(¿ÁÌ”8††¸Åç1J$e523c41d-26f5-4d93-b5b3-fefa93fd1d89
+r	java:S106"+Replace this use of System.out by a logger.(ÉÔóıÿÿÿÿ8††¸Åç1J$aa411e1f-e5ed-4588-a814-0c9fd89c4c1e
+r	java:S106"+Replace this use of System.out by a logger.(»Ã¶»üÿÿÿÿ8‡†¸Åç1J$24bc6344-5983-4f20-9c60-47f5e5a9ccae
