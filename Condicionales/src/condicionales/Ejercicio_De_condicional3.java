@@ -2,9 +2,7 @@
 package condicionales;
 
 import java.util.Scanner;
-
 public class Ejercicio_De_condicional3 {
-
     public static void main(String[] args) {
         // TODO code application logic here
         
