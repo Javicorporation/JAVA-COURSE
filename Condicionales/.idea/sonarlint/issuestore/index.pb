@@ -49,3 +49,5 @@ w
 G.idea/sonarlint/issuestore/8/d/8d83e60bc7ffff32d0b3c212f21b9f3ba9d7c685,2\c\2c88da19e372529a538c692b0b1096c383206b40
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+T
+$src/condicionales/condicional_9.java,a\2\a2e3b6ae243ccf9da572bd7a338d520983a73fad

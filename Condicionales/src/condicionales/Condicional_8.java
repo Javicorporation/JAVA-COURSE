@@ -51,8 +51,8 @@ public class Condicional_8 {
         } else if (numero5 < numMenor) {
             numMenor = numero5;
         }
-        System.out.printf("El numero mayor es: %d", numMayor);
-        System.out.printf("El numero menor es %d", numMenor);
+        System.out.println("El numero mayor es: "+ numMayor);
+        System.out.println("El numero menor es: "+ numMenor);
 
     }
 }
