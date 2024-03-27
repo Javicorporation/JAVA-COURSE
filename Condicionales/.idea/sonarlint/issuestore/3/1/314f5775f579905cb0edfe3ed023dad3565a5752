@@ -1,9 +1,9 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î«Ù¸8å ÚÆç1J$11c8d6ad-e86d-4fe4-9a73-ca56eb987e96
-m	java:S106"+Replace this use of System.out by a logger.(µ€°Š8‘¡ÚÆç1J$5a0a4869-ae19-47f7-ae35-7f8a23568cda
-m	java:S106"+Replace this use of System.out by a logger.(‹ÛË½8“¡ÚÆç1J$6031cf79-ec88-4c52-b71a-fa1b02b9d3c2
-m	java:S106"+Replace this use of System.out by a logger.(¢­¼ë8”¡ÚÆç1J$27dfe05b-2eb3-4973-a2f9-6ebde2c24089
-m	java:S106"+Replace this use of System.out by a logger.(Ä„½8”¡ÚÆç1J$8fa2d4f9-5c74-4edd-8541-cc0b60a5ab63
-m	java:S106"+Replace this use of System.out by a logger.(¿ÁÌ”8•¡ÚÆç1J$dd2513a9-ce7c-485c-82a5-7dfce80c04f6
-r	java:S1066"+Replace this use of System.out by a logger.(Ëß—Çıÿÿÿÿ8•¡ÚÆç1J$42a51b19-0e3e-4822-836d-12a3d5756337
-m	java:S1067"+Replace this use of System.out by a logger.(ê‹º¹8•¡ÚÆç1J$5b732781-7ac7-42d2-a34b-b6c41e67ed34
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î«Ù¸8å ÚÆç1J$b9bec8c5-849a-418a-a6dd-705a68c023cb
+m	java:S106"+Replace this use of System.out by a logger.(µ€°Š8‘¡ÚÆç1J$036cc8f1-fd39-46a4-8dfa-8f8935a9504c
+m	java:S106"+Replace this use of System.out by a logger.(‹ÛË½8“¡ÚÆç1J$0e265fbf-0a0f-4349-b313-b6ca25401f1e
+m	java:S106"+Replace this use of System.out by a logger.(¢­¼ë8”¡ÚÆç1J$01565b77-3a22-4e33-8142-a75abb824715
+m	java:S106"+Replace this use of System.out by a logger.(Ä„½8”¡ÚÆç1J$a26d57d6-c7d7-4d88-8ddc-48e5d39de87c
+m	java:S106"+Replace this use of System.out by a logger.(¿ÁÌ”8•¡ÚÆç1J$753c06b7-1163-4380-8bc4-4a889a96a18b
+r	java:S1066"+Replace this use of System.out by a logger.(Ëß—Çıÿÿÿÿ8•¡ÚÆç1J$07f56d12-9fb2-4882-ab68-ee26d89474b9
+m	java:S1067"+Replace this use of System.out by a logger.(ê‹º¹8•¡ÚÆç1J$74085c16-60d6-4910-88c7-e91c7e8b4954
