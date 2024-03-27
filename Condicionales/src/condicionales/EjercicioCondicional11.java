@@ -12,7 +12,7 @@ public class EjercicioCondicional11 {
         System.out.print("Escriba la segunda cadena de texto: ");
         cadena2 = entrada.next();
 
-        if (cadena1.equals(cadena2)){
+        if (cadena1.equalsIgnoreCase(cadena2)){
             System.out.println("Las cadenas son iguales");
         } else {
             System.out.println("Las cadenas son diferentes");
