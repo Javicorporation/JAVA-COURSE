@@ -51,3 +51,5 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 T
 $src/condicionales/condicional_9.java,a\2\a2e3b6ae243ccf9da572bd7a338d520983a73fad
+]
+-src/condicionales/ejercicioCondicional10.java,c\4\c44989bcb2c436fdf864814b39caa61bc0ad8ccf
