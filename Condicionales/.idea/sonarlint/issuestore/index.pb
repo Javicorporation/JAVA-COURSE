@@ -65,3 +65,5 @@ $src/condicionales/condicional_9.java,a\2\a2e3b6ae243ccf9da572bd7a338d520983a73
 -src/condicionales/EjercicioCondicional15.java,7\b\7b0992cdcb05580a63e58c58383a0738c6ec0687
 ]
 -src/condicionales/EjercicioCondicional16.java,e\4\e459b6316805d5baafa370756c65af5dfb0b1180
+]
+-src/condicionales/EjercicioCondicional17.java,c\c\cc6cdceeceaea75129b076cc0561f50b1dcd7795
