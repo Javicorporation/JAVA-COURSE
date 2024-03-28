@@ -15,11 +15,14 @@ public class EjercicioCondicional12 {
 
         System.out.print(" escribe una opcion: ");
         opcion = entrada.nextInt();
+        int base;
+        int altura;
+        double radio;
+        int baseMenor;
+        int lado1, lado2;
 
         switch (opcion){
             case 1:
-                int base;
-                int altura;
                 System.out.print("Escribe la base: ");
                 base = entrada.nextInt();
                 System.out.print("Escribe la altura: ");
@@ -28,18 +31,32 @@ public class EjercicioCondicional12 {
                 System.out.println("La area del triangulo es: "+resultado);
                 break;
             case 2:
-                double radio;
+
                 double pi =3.141516;
                 System.out.print("Escribe el radio: ");
                 radio = entrada.nextDouble();
                 resultado = pi * Math.pow(radio, 2);
                 System.out.println("El area del circulo es: "+resultado);
-
                 break;
             case 3:
+                System.out.print("escriba la base mayor: ");
+                base = entrada.nextInt();
+                System.out.print("escriba la base menor: ");
+                baseMenor = entrada.nextInt();
+                System.out.print("escriba la altura: ");
+                altura = entrada.nextInt();
+                resultado = ((base + baseMenor)/2)*altura;
+
+                System.out.println("la area del trapecio es: "+ resultado);
 
                 break;
             case 4:
+                System.out.print("escriba el primer lado: ");
+                lado1 = entrada.nextInt();
+                System.out.print("escriba el segundo lado: ");
+                lado2 = entrada.nextInt();
+                resultado = lado1 * lado2;
+                System.out.println("el area del cuadrado es: "+resultado);
 
                 break;
             case 5:
