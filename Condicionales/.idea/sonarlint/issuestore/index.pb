@@ -73,3 +73,5 @@ $src/condicionales/condicional_9.java,a\2\a2e3b6ae243ccf9da572bd7a338d520983a73
 -src/condicionales/EjercicioCondicional19.java,4\4\44f2e018360ee2e1f408494eb2c4ac93bff75703
 ]
 -src/condicionales/EjercicioCondicional20.java,7\f\7ff79f76cfde3da299635b8d66a78c2d42403a97
+]
+-src/condicionales/EjercicioCondicional21.java,4\2\42684b92fd2046944a0a1afd17c807597b03152d
