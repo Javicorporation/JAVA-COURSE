@@ -12,3 +12,5 @@ D
 EjerciciosBucles.iml,d\2\d289f15bebe4b7993e11713bbe17f87339c4838a
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+E
+src/BucleDoWhile.java,2\9\29afdd8e58076c19c8244b004472d150e73fc48a
