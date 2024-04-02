@@ -20,3 +20,9 @@ M
 .src/EjerciciosConBucles/Ejercici1DeBucles.java,e\0\e0db72a00e6d9191e4175d5974fe7d53f326318b
 ]
 -src/EjerciciosConBucles/Ejercicio2Bucles.java,7\3\733b9da271249d3d25df3044a48caca8754ee913
+\
+,src/EjerciciosConBucles/Excercise3Loops.java,d\a\da039b8f2b3fcab0c793101eeaede2c10005eefa
+\
+,src/EjerciciosConBucles/Excercise4Loops.java,3\8\3831cdf330c0c20c55f4a0651551ed7e7964e65b
+\
+,src/EjerciciosConBucles/Excercise5Loops.java,d\0\d0b1d6879fc9421ae76190401f2a2018d5feba83
