@@ -30,3 +30,7 @@ M
 ,src/EjerciciosConBucles/Excercise6Loops.java,5\e\5e78ec079165c117972450bd894ff958dc8ff2f6
 \
 ,src/EjerciciosConBucles/Excercise7Loops.java,9\d\9d026527ff74bf3bf2183edf1a45c4736a812a7c
+\
+,src/EjerciciosConBucles/Excercise8Loops.java,8\d\8d62bbcad5a048df7afa4da6e1f3c376d577e31d
+\
+,src/EjerciciosConBucles/Excercise9Loops.java,1\6\16dde640fd312cf947c9f6a68eaaf0e0f5b8a998
