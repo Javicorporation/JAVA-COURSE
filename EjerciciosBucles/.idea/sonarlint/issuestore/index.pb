@@ -26,3 +26,7 @@ M
 ,src/EjerciciosConBucles/Excercise4Loops.java,3\8\3831cdf330c0c20c55f4a0651551ed7e7964e65b
 \
 ,src/EjerciciosConBucles/Excercise5Loops.java,d\0\d0b1d6879fc9421ae76190401f2a2018d5feba83
+\
+,src/EjerciciosConBucles/Excercise6Loops.java,5\e\5e78ec079165c117972450bd894ff958dc8ff2f6
+\
+,src/EjerciciosConBucles/Excercise7Loops.java,9\d\9d026527ff74bf3bf2183edf1a45c4736a812a7c
