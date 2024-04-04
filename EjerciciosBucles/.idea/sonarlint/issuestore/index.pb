@@ -42,3 +42,7 @@ M
 -src/EjerciciosConBucles/Excercise12Loops.java,8\f\8f9d2b978936c4af2c110b1d68e18f371c0330b6
 ]
 -src/EjerciciosConBucles/Excercise13Loops.java,2\f\2f913d7b87feee7c3e9df5194e0f7394290e49fe
+]
+-src/EjerciciosConBucles/Excercise14Loops.java,9\4\94fae1c7f6e3f3421e82269ce79c73e8e3ae0e3b
+]
+-src/EjerciciosConBucles/Excercise15Loops.java,8\8\88382adf124103389d5b280ba66196b512c946ee

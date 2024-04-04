@@ -15,7 +15,7 @@ public class Excercise13Loops {
 
         System.out.println("escriba la lista 1");
         while (i <= 3){
-            System.out.println("value the list one: ");
+            System.out.print("value the list one: ");
             value1 = getting.nextInt();
             suma1 = suma1 + value1;
             i++;
@@ -23,7 +23,7 @@ public class Excercise13Loops {
         }
         System.out.println("escriba la lista 2");
         while (j <= 3) {
-            System.out.println("value the list two: ");
+            System.out.print("value the list two: ");
             value2 = getting.nextInt();
             suma2 = suma2 + value2;
             j++;
@@ -32,6 +32,14 @@ public class Excercise13Loops {
 
         System.out.println("suma 1: "+suma1);
         System.out.println("suma 2: "+suma2);
+
+        if (suma1 > suma2){
+            System.out.println("the list 1 is greater");
+        } else if (suma2 > suma1) {
+            System.out.println("the list 2 is greater");
+        }else {
+            System.out.println("son iquals");
+        }
 
     }
 }
