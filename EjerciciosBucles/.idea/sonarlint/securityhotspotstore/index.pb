@@ -48,8 +48,6 @@ M
 -src/EjerciciosConBucles/Excercise15Loops.java,8\8\88382adf124103389d5b280ba66196b512c946ee
 ]
 -src/EjerciciosConBucles/Excercise16Loops.java,8\a\8a009039a375db219acd2f4b6a3c976604adba69
-^
-.src/EjerciciosConBucles/EExcercise17Loops.java,2\1\21e8f4f1fba4c36e7fc0966adc537e0b071c593d
 ]
 -src/EjerciciosConBucles/Excercise18Loops.java,c\f\cf042128bc967e32e8ffd203215486be4ce30f97
 ]
@@ -118,3 +116,7 @@ Q.idea/sonarlint/securityhotspotstore/e/0/e0db72a00e6d9191e4175d5974fe7d53f32631
 Q.idea/sonarlint/securityhotspotstore/8/d/8d62bbcad5a048df7afa4da6e1f3c376d577e31d,2\a\2aa90db0b78cfec5d2badcda5d13a2d54e2e5038
 w
 G.idea/sonarlint/issuestore/b/0/b08f1ab659fbdd998f45c0def99188f980cc899b,f\0\f02077a62409edef2ca75d759afa0d272bb868f2
+]
+-src/EjerciciosConBucles/Excercise20Loops.java,1\2\12cd91eafe56e288f1b3a26c56b98326c1600918
+]
+-src/EjerciciosConBucles/Excersice21Loops.java,3\1\31fa6a2a0f4ae9ad4477af0fa33c60919fedb94d
