@@ -2,7 +2,7 @@ package EjerciciosConBucles;
 
 import java.util.Scanner;
 
-public class EExcercise17Loops {
+public class Excercise17Loops {
     public static void main(String[] args) {
         Scanner getting = new Scanner(System.in);
         int amountPoints;

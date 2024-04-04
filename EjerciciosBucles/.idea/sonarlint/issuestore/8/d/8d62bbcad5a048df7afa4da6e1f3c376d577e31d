@@ -1,0 +1,9 @@
+
+p
+java:S1199"-Extract this nested code block into a method.(µæ±Õ8†¹‡ê1J$08ccadeb-07a4-45cc-9451-abf338617ed1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ8‰¹‡ê1J$65734834-ff55-4a7e-b891-81a86cac6683
+~
+java:S1854";Remove this useless assignment to local variable "getting".(µæ±Õ8’¹‡ê1J$19d86297-3152-461b-a1fc-48eade55ac55
+o
+java:S1481",Remove this unused "getting" local variable.(µæ±Õ8˜¹‡ê1J$0f0971dc-f055-4bfa-9d5f-2f89c7adbe56
+r	java:S106"+Replace this use of System.out by a logger.(‚é€Şûÿÿÿÿ8Ù¿œê1J$8bb3acb7-a369-4510-ba2c-207e40f4e508

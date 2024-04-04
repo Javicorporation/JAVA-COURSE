@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ8µÕ€¸ê1J$6b61dda3-93e8-4594-82ef-98273ba6871c
+w
+java:S1481"/Remove this unused "countevent" local variable.(Òºš®ÿÿÿÿÿ8ôÔš¸ê1J$352f7133-070e-4d7f-b3d2-5cd8360f0917
+r	java:S106"+Replace this use of System.out by a logger.(©ÕÆ£ÿÿÿÿÿ8åÕ€¸ê1J$692e9ec9-e1f5-438b-bae5-3f8c0f5f401e
+m	java:S106"+Replace this use of System.out by a logger.(‚­Ç8æÕ€¸ê1J$9f63f842-05db-4851-98a6-c5c7361ae688
+
+java:S3972"7Move this "if" to a new line or add the missing "else".(¤¡é³şÿÿÿÿ8Øé”¸ê1J$8c2a7cdd-d636-486e-a946-8df24cc12feb
+
+java:S3972"7Move this "if" to a new line or add the missing "else".(û•‹ïşÿÿÿÿ8®‘•¸ê1J$fe788404-559f-46d9-bda7-fb6b3945b138
+z
+java:S3972 "7Move this "if" to a new line or add the missing "else".(²ƒÊõ8ºá•¸ê1J$49bf2216-0563-4b9c-bb9e-db8a1c2e3437
+r	java:S106$"+Replace this use of System.out by a logger.(Ñ”Æ‰şÿÿÿÿ8æÕ€¸ê1J$56af7674-c133-4f32-805f-66288c6f3548
+r	java:S106%"+Replace this use of System.out by a logger.(Éí—şÿÿÿÿ8æÕ€¸ê1J$00a8db28-04b1-4384-8f76-8177203dec6d
+l	java:S106&"+Replace this use of System.out by a logger.(‘Í¾<8çÕ€¸ê1J$b5b734b8-b1bf-4319-9f10-21c3c50581a9
+m	java:S106'"+Replace this use of System.out by a logger.(¡âàŒ8çÕ€¸ê1J$891f79a7-ce28-4856-83e2-3fdf9af2b616
