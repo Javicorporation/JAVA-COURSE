@@ -102,8 +102,6 @@ Q.idea/sonarlint/securityhotspotstore/9/d/9d026527ff74bf3bf2183edf1a45c4736a812a
 Q.idea/sonarlint/securityhotspotstore/f/e/fed04ef2f29a95ad6ca40f18cc4d7be8f1152391,c\5\c5381043dddd03261803c6ad13066a53fbaca219
 w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
-Å
-Q.idea/sonarlint/securityhotspotstore/2/1/21e8f4f1fba4c36e7fc0966adc537e0b071c593d,c\4\c409027efbe385f96b000cdbb68ce0347b076064
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
 Å
@@ -119,8 +117,14 @@ G.idea/sonarlint/issuestore/b/0/b08f1ab659fbdd998f45c0def99188f980cc899b,f\0\f0
 ]
 -src/EjerciciosConBucles/Excercise20Loops.java,1\2\12cd91eafe56e288f1b3a26c56b98326c1600918
 ]
--src/EjerciciosConBucles/Excersice21Loops.java,3\1\31fa6a2a0f4ae9ad4477af0fa33c60919fedb94d
-]
 -src/EjerciciosConBucles/Excercise22Loops.java,8\f\8f79c2b7d7c434ffeb4a68f7fcab96c828468e2a
 ]
 -src/EjerciciosConBucles/Excercise23Loops.java,7\5\7545399c773aab3f6900c33b184492312f929fff
+]
+-src/EjerciciosConBucles/Excercise24Loops.java,1\1\118ba04f3bb705eade0b21baa88bc3d9c797459c
+]
+-src/EjerciciosConBucles/Excercise21Loops.java,d\d\dd1aecdd2ede9fed9020b8c56e849983d43cc943
+]
+-src/EjerciciosConBucles/Excercise25Loops.java,d\8\d801d2b337ddee909fb467838206ceb55d83086b
+]
+-src/EjerciciosConBucles/Excercise26Loops.java,1\a\1aaf7401d07c04c45d2cfbe6f390c4d89f06412b
