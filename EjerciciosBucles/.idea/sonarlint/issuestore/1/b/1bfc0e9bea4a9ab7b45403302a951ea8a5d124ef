@@ -1,0 +1,21 @@
+
+Ÿ
+java:S11921"WDefine a constant instead of duplicating this literal "the average minor is: " 3 times.(™Öîûÿÿÿÿ8šÖ–¹ê1J$1f6bfa88-7644-4562-b77b-7a6695264cf2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ8š–¹ê1J$23f2eebe-6422-415e-9e60-719ab23583a4
+„
+java:S1659	"ADeclare "age2" and all following declarations on a separate line.(ÇÖŸ¢8½š–¹ê1J$640b2edb-6ab3-435c-9ea6-a6ba8361d842
+r	java:S106"+Replace this use of System.out by a logger.(ÊÚÎŒùÿÿÿÿ8Âš–¹ê1J$c0d7a886-cc2e-4424-ab48-a42ea27b6133
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Âš–¹ê1J$9ead3d2a-daff-4443-9e1e-36ec117c6a44
+r	java:S106"+Replace this use of System.out by a logger.(„Éò£şÿÿÿÿ8Ãš–¹ê1J$e6e1342f-5d16-4a64-9f15-8ef05489adfd
+r	java:S106!"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ãš–¹ê1J$30ccb21c-35e3-4d0a-ab5a-02a3f469ded4
+r	java:S106#"+Replace this use of System.out by a logger.(ÿÃ³éúÿÿÿÿ8Äš–¹ê1J$8376ad3b-4e89-4419-a552-5a48ba540770
+r	java:S106,"+Replace this use of System.out by a logger.(üî»‡şÿÿÿÿ8Äš–¹ê1J$7992b598-1af9-4f15-b467-bb7becb87dc5
+m	java:S106-"+Replace this use of System.out by a logger.(Œ±Ó8Åš–¹ê1J$21c7d1f9-2596-4686-8a84-84eec27457e1
+r	java:S106."+Replace this use of System.out by a logger.(ÜÉŒßúÿÿÿÿ8Æš–¹ê1J$10afdc03-5ea1-4e30-9b37-7eb2f631c907
+r	java:S1061"+Replace this use of System.out by a logger.(™Öîûÿÿÿÿ8Æš–¹ê1J$65baa306-2b68-486e-bad9-ed22d44d418b
+y
+java:S39722"7Move this "if" to a new line or add the missing "else".(‚š·k8óÖ–¹ê1J$54345698-d248-47b1-bdce-a4e263f65f33
+r	java:S1063"+Replace this use of System.out by a logger.(Èó”ûÿÿÿÿ8óÖ–¹ê1J$067b9f59-0ea3-4ac4-bfb7-226ba328e02e
+
+java:S39724"7Move this "if" to a new line or add the missing "else".(õêÅ’ÿÿÿÿÿ8õÖ–¹ê1J$ddedf43b-6353-4a31-bc38-2902174aeedf
+r	java:S1065"+Replace this use of System.out by a logger.(ŞÛÚÎüÿÿÿÿ8õÖ–¹ê1J$a65026e9-9abd-405c-9bd8-14aef40632a4
