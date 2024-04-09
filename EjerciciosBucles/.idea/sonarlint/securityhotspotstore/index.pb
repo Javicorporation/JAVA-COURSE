@@ -138,3 +138,17 @@ G.idea/sonarlint/issuestore/b/0/b08f1ab659fbdd998f45c0def99188f980cc899b,f\0\f0
 -src/EjerciciosConBucles/Excercise30Loops.java,9\b\9bda637a8f11bc538bbb04d2cc1a2cb117eadb89
 ]
 -src/EjerciciosConBucles/Excercise31Loops.java,1\3\1341cf11100be45f886b3328fae1103d949d236d
+Å
+Q.idea/sonarlint/securityhotspotstore/a/1/a1c3460e0b33521b20b4637b05537905d48d749d,2\d\2d03ed9f0d5f9ad0d392a67b0230cdffeeb2809f
+Å
+Q.idea/sonarlint/securityhotspotstore/7/b/7b52ea77e58a49c9eb5315ba015540442fb00e20,1\8\18d6eb529de747ccc99cb0305780af6d213948ce
+w
+G.idea/sonarlint/issuestore/a/1/a1c3460e0b33521b20b4637b05537905d48d749d,f\8\f89d9fe8da05353d1ec3fb911579bd89e4c9579f
+Å
+Q.idea/sonarlint/securityhotspotstore/9/b/9bda637a8f11bc538bbb04d2cc1a2cb117eadb89,f\a\fa367ebcd096df8a8c63df915d04d31247b5b63d
+Å
+Q.idea/sonarlint/securityhotspotstore/e/5/e5b319b588d6a30f4824b34a1f67430c6b34b924,8\f\8f3a5be5d1f0892daab303018c8854d3397e9fb9
+Å
+Q.idea/sonarlint/securityhotspotstore/1/3/1341cf11100be45f886b3328fae1103d949d236d,6\e\6ea01bb37c9ab73b19b755414b9be7b6e0e7f13b
+Å
+Q.idea/sonarlint/securityhotspotstore/d/2/d2c7eef7caf20ec4eed3244d3670a6234be09a61,7\e\7e5817ba3ec57fd239bb932a49d73bcf0d8149c6
