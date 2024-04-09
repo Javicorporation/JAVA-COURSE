@@ -1,6 +1,8 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿJ$c960face-5b3f-444a-8fa6-477d1a0611e8
-]
-java:S1854";Remove this useless assignment to local variable "getting".(ïÁÏôùÿÿÿÿ8œ¯áê1
-N
-java:S1481",Remove this unused "getting" local variable.(ïÁÏôùÿÿÿÿ8 ¯áê1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ8ØøÓ‡ì1J$8087bc80-bb05-455f-92d4-69cc30d884ea
+ƒ
+java:S1854";Remove this useless assignment to local variable "getting".(ïÁÏôùÿÿÿÿ8æøÓ‡ì1J$9e564405-8af0-4651-ac86-ac123f880d61
+t
+java:S1481",Remove this unused "getting" local variable.(ïÁÏôùÿÿÿÿ8ìøÓ‡ì1J$c08faf1c-da08-4e55-ae33-a0eae2dd106c
+m	java:S106"+Replace this use of System.out by a logger.(’Êİ¸8åÅØ‡ì1J$6b944513-aa4c-433a-a80d-8208d19ae2d6
+r	java:S106"+Replace this use of System.out by a logger.(»÷»ùÿÿÿÿ8æÅØ‡ì1J$c4bd0b7c-b632-4447-970f-6581d4c78573
