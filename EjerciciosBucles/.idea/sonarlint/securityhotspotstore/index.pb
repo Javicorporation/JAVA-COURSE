@@ -128,3 +128,5 @@ G.idea/sonarlint/issuestore/b/0/b08f1ab659fbdd998f45c0def99188f980cc899b,f\0\f0
 -src/EjerciciosConBucles/Excercise25Loops.java,d\8\d801d2b337ddee909fb467838206ceb55d83086b
 ]
 -src/EjerciciosConBucles/Excercise26Loops.java,1\a\1aaf7401d07c04c45d2cfbe6f390c4d89f06412b
+]
+-src/EjerciciosConBucles/Excercise27Loops.java,e\5\e5b319b588d6a30f4824b34a1f67430c6b34b924
