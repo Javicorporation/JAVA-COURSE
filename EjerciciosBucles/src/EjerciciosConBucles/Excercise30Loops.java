@@ -19,7 +19,7 @@ public class Excercise30Loops {
         if (contador == 2) {
             System.out.println("This number is: primo ");
         }else {
-            System.out.print("no lo es ");
+            System.out.print("no lo es. ");
         }
 
     }
