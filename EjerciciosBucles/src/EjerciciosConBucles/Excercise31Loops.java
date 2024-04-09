@@ -10,7 +10,7 @@ public class Excercise31Loops {
         int contador = 0;
 
         do{
-            System.out.print("write a number: ");
+            System.out.print("write a number:   ");
             number = getting.nextInt();
             contador = contador + number;
 
