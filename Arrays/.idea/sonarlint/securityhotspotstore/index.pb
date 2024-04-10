@@ -14,3 +14,7 @@ I
 src/Excercise1Arrays.java,b\3\b342dd4174c17eb9effab8cb8e479d9fd5f8a5ed
 I
 src/Excercise2Arrays.java,5\0\50d42458d433fb06f47b41380572c2a48b193d5f
+I
+src/Excercise3Arrays.java,7\4\74e9f7e2db66f1dedf498c03172c8412c8e778f2
+I
+src/Excercise4Arrays.java,b\9\b99dcad0861bacbf965bc173f4f892ff87c94ef5
