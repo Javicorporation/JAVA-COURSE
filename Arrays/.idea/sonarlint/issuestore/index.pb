@@ -28,3 +28,5 @@ I
 src/excercise8Arrays.java,c\1\c1fefdd6473d7026a70da147be516a66c5b94b77
 I
 src/Excercise9Arrays.java,c\1\c18014aae25011d2c1011f9e988121dcccdc343b
+J
+src/excercise10Arrays.java,7\4\745c1b36a05a2c7777a71f3ec5c1734861a03e28
