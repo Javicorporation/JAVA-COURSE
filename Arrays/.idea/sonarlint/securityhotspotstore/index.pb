@@ -22,3 +22,9 @@ I
 src/excercise5Arrays.java,d\a\da30f2e38f075be54b44558782ca389c5043f2ee
 I
 src/Excercise6Arrays.java,e\d\ed187bfa0de0b97471bb27d1e30854a9d350ae9c
+I
+src/Excercise7Arrays.java,0\c\0ca6c393a31266cbecbf22626b80779137a74289
+I
+src/excercise8Arrays.java,c\1\c1fefdd6473d7026a70da147be516a66c5b94b77
+I
+src/Excercise9Arrays.java,c\1\c18014aae25011d2c1011f9e988121dcccdc343b
