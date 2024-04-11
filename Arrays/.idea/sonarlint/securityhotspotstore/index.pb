@@ -18,3 +18,7 @@ I
 src/Excercise3Arrays.java,7\4\74e9f7e2db66f1dedf498c03172c8412c8e778f2
 I
 src/Excercise4Arrays.java,b\9\b99dcad0861bacbf965bc173f4f892ff87c94ef5
+I
+src/excercise5Arrays.java,d\a\da30f2e38f075be54b44558782ca389c5043f2ee
+I
+src/Excercise6Arrays.java,e\d\ed187bfa0de0b97471bb27d1e30854a9d350ae9c

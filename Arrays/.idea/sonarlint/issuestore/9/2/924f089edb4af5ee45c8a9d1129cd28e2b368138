@@ -1,10 +1,10 @@
 
 ]
-java:S1220""Move this file to a named package.8¹Ï†¨ì1J$8e443fbe-3d0d-4ec2-b923-d5870f17271a
+java:S1220""Move this file to a named package.8¹Ï†¨ì1J$8352d49b-71f3-4221-9c59-9a298a9f91c6
 ƒ
-java:S1854";Remove this useless assignment to local variable "getting".(ïÁÏôùÿÿÿÿ8ÏÏ†¨ì1J$41dad8ae-769d-4ef0-af41-5499cf1bf59d
+java:S1854";Remove this useless assignment to local variable "getting".(ïÁÏôùÿÿÿÿ8ÏÏ†¨ì1J$f1a01b4f-c539-4d8c-b0bb-42ba10475615
 t
-java:S1481",Remove this unused "getting" local variable.(ïÁÏôùÿÿÿÿ8ÜÏ†¨ì1J$0d3fac9e-1f41-477a-b45e-8f25743a7289
+java:S1481",Remove this unused "getting" local variable.(ïÁÏôùÿÿÿÿ8ÜÏ†¨ì1J$b25f187e-e05f-4f00-82d5-9fbc9b3064ba
 r
-java:S1197"*Move the array designators [] to the type.(Šúë°ûÿÿÿÿ8ŞÏ†¨ì1J$a72665df-1ee9-4eac-bec0-207541f307f6
-r	java:S106"+Replace this use of System.out by a logger.(‘Ä¸Éùÿÿÿÿ8ãÏ†¨ì1J$1f27b4ee-429c-41a9-abad-ce112376f56b
+java:S1197"*Move the array designators [] to the type.(Šúë°ûÿÿÿÿ8ŞÏ†¨ì1J$c10e08cc-bbc5-4dde-aee4-ce448eae362a
+r	java:S106"+Replace this use of System.out by a logger.(‘Ä¸Éùÿÿÿÿ8ãÏ†¨ì1J$48613804-56d5-471e-81ae-9e4d4a91bafa
