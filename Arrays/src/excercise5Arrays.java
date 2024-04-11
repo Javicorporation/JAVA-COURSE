@@ -21,14 +21,20 @@ public class excercise5Arrays {
 
         for (int i=0; i < array1.length; i++){
             if (array1[i] < 0) {
-            } else if (array1[i] > 0) {
-                
-            } else if (array1[i]%2 == 0) {
-                
-            } else if (array1[i]%2 == 1) {
-
+                negative++;
+            } if (array1[i] > 0) {
+                positive++;
+            } if (array1[i]%2 == 0 && array1[i] > 0) {
+                par++;
+            } if (array1[i]%2 == 1) {
+                impar++;
             }
         }
+
+        System.out.println("the negative is: "+negative);
+        System.out.println("the positive is: "+positive);
+        System.out.println("the par is: "+par);
+        System.out.println("the impar is: "+impar);
         
 
 
