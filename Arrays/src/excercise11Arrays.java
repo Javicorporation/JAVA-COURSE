@@ -11,7 +11,7 @@ public class excercise11Arrays {
         int arrayPlus[];
         int arrayNegative[];
 
-        System.out.print("Write a length the array:");
+        System.out.print("Write a length the array: ");
         lengthN = getting.nextInt();
 
         array1 = new int[lengthN];
@@ -29,17 +29,23 @@ public class excercise11Arrays {
         }
         arrayPlus = new int[contNumP];
         arrayNegative = new int[contNumN];
+        int posi = 0;
+        int neg = 0;
 
         for (int i = 0; i < array1.length;i++){
-            if (array1[i] < 0){
-                arrayNegative[i] = array1[i];
-                System.out.print("the array positive is: "+arrayPlus[i]);
+            if (array1[i] >= 0){
+                arrayPlus[posi] = array1[i];
+                System.out.println("the array positive is: "+arrayPlus[posi]);
+                posi++;
             }
-            if (array1[i] >= 0) {
-                arrayPlus[i] = array1[i];
-                System.out.println("the array of negative is: "+arrayNegative[i]);
+            else if (array1[i] < 0) {
+                arrayNegative[neg] = array1[i];
+                System.out.println("the array of negative is: "+arrayNegative[neg]);
+                neg++;
             }
         }
+
+
 
 
 
