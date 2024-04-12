@@ -27,6 +27,7 @@ public class excercise11Arrays {
                 contNumN++;
             }
         }
+        getting.close();
         arrayPlus = new int[contNumP];
         arrayNegative = new int[contNumN];
         int posi = 0;
@@ -45,6 +46,19 @@ public class excercise11Arrays {
             }
         }
 
+        System.out.print("[");
+        for (int i = 0; i < arrayPlus.length;i++){
+            System.out.print(arrayPlus[i]);
+            if (i < arrayPlus.length - 1) {
+                System.out.print("-");
+            }
+        }
+        System.out.println("-]");
+
+        System.out.println("");
+        for (int i = 0; i < arrayNegative.length;i++){
+            System.out.print(arrayNegative[i]);
+        }
 
 
 
