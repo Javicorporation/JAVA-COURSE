@@ -36,3 +36,5 @@ J
 src/Excercise12Arrays.java,7\7\7734eefca6411365be196cb6820437cb7ab67fa0
 J
 src/Excercise13Arrays.java,f\3\f39f0c0b45621528a1cbdeb9eb24481fb08a1907
+J
+src/Excercise14Arrays.java,e\1\e195a38ec9daf5d4da8836f2ec67d95d2e5d575b
