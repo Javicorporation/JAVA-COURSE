@@ -12,9 +12,7 @@ public class excercise10Arrays {
         System.out.print("Writea a length of array: ");
         lengthN = getting.nextInt();
         getting.nextLine();
-
         array1 = new int[lengthN];
-
 
         for (int i = 0; i < array1.length; i++){
             System.out.print("write a number: ");
@@ -22,17 +20,19 @@ public class excercise10Arrays {
         }
         getting.close();
 
-        Set<Integer> numberiguals = new HashSet<>();
-        boolean hasDuplicate = false;
+        int minor = array1[0];
+        int amountRepit = 0;
 
         for (int i = 0; i < array1.length; i++){
-            if (!numberiguals.add(array1[i])) {
-                System.out.println("numero encontrado: "+array1[i]);
-                hasDuplicate = true;
+            if (array1[i] < minor) {
+                minor = array1[i];
+            }
+            if (minor == array1[i]) {
+                amountRepit++;
             }
         }
-        if (!hasDuplicate) {
-            System.out.println("no se repiten");
-        }
+        System.out.println("the minor is: "+minor);
+        System.out.println("the amount of repit is: "+amountRepit);
+
     }
 }
