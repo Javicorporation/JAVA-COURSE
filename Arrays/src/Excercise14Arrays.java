@@ -26,18 +26,24 @@ public class Excercise14Arrays {
         }
         double heigthGreater = arrayHeigth[0];
         double heigthMinor = arrayHeigth[0];
+        String nameGreater = arrayName[0];
+        String nameMinor = arrayName[0];
+
 
         for (int i = 0; i < arrayHeigth.length; i++){
             if (arrayHeigth[i] >= heigthGreater) {
                 heigthGreater = arrayHeigth[i];
+                nameGreater = arrayName[i];
 
-            } else if (arrayHeigth[i] < heigthGreater) {
+            } else if (arrayHeigth[i] < heigthMinor) {
                 heigthMinor = arrayHeigth[i];
-
+                nameMinor = arrayName[i];
             }
+
         }
-        System.out.println("greater: "+heigthGreater);
-        System.out.println("minor: "+heigthMinor);
+        System.out.println("greater: "+heigthGreater+" and name is: "+nameGreater);
+        System.out.println("minor: "+heigthMinor+" and name is: "+nameMinor);
+
 
 
 
