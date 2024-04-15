@@ -20,6 +20,7 @@ public class Excercise13Arrays {
         }
         getting.close();
 
+        // array para invertir el array anterior
         arrayInvert = new int[arrayMain.length];
 
         for (int i = arrayMain.length-1, j = 0; i >= 0;i--,j++ ){
