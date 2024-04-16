@@ -9,13 +9,13 @@ public class Excercise13Arrays {
         int arrayInvert[];
 
 
-        System.out.println("Write a length of array: ");
+        System.out.print("Write a length of array: ");
         lengthN = getting.nextInt();
         arrayMain = new int[lengthN];
         getting.nextLine();
 
         for (int i = 0; i < arrayMain.length; i++){
-            System.out.println("write a number;");
+            System.out.print("write a number;");
             arrayMain[i] = getting.nextInt();
         }
         getting.close();
