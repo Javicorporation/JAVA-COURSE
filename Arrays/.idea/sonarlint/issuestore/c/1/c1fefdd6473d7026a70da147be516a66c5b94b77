@@ -1,0 +1,12 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÙÆ¢úÿÿÿÿ8ØÔ«÷ì1J$75e71d50-dbdc-4b05-bb55-4524e2ca5751
+]
+java:S1220""Move this file to a named package.8ÚÔ«÷ì1J$d7bcd06d-cf76-408c-bcd1-1c94e81625f6
+l
+java:S1197"*Move the array designators [] to the type.(™Ÿ·Y8úÔ«÷ì1J$c86871c5-2d1a-42c5-98ff-8ba7856f5533
+r	java:S106
+"+Replace this use of System.out by a logger.(ëÅØáýÿÿÿÿ8ûÔ«÷ì1J$4d5210be-cd7c-4515-83be-e65522be1644
+m	java:S106"+Replace this use of System.out by a logger.(ýÜïˆ8üÔ«÷ì1J$73a75678-f295-4fe5-98fb-0c478abc7a3d
+m	java:S106!"+Replace this use of System.out by a logger.(í±ª£8þÔ«÷ì1J$560cea4d-40df-4f68-8f95-a01702ab8505
+r	java:S106#"+Replace this use of System.out by a logger.(Å­ËÝúÿÿÿÿ8þÔ«÷ì1J$7cd94f89-5970-4085-a162-e77c4c0ee3a2
+m	java:S106%"+Replace this use of System.out by a logger.(Þ™ƒƒ8þÔ«÷ì1J$d2056535-6a4b-471c-b0a2-7eb22332ca9c

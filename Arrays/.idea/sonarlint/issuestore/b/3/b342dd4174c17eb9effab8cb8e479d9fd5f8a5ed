@@ -1,0 +1,11 @@
+
+]
+java:S1220""Move this file to a named package.8ËáÊÍì1J$0a47ed79-e5b5-447c-8a88-25b5467c9e44
+r
+java:S1197"*Move the array designators [] to the type.(éôâæúÿÿÿÿ8óáÊÍì1J$b36d1f3c-a803-4d63-bbbb-ef8996ed9895
+l	java:S106
+"+Replace this use of System.out by a logger.(Ä¥§8öáÊÍì1J$31b6ccb7-c81a-489f-874f-c7639b9a322c
+r	java:S106"+Replace this use of System.out by a logger.(‹§…Ôûÿÿÿÿ8øáÊÍì1J$7d91f893-5e7b-4a63-a800-312d39d126dd
+r	java:S106"+Replace this use of System.out by a logger.(«ƒãşÿÿÿÿ8úáÊÍì1J$04f56969-0d80-478f-9ce1-c72d4444633f
+n
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8úÓËÍì1J$496442f0-2401-4edf-84dc-8c8ec50a0075

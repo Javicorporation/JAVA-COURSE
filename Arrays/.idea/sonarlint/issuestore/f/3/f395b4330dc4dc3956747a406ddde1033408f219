@@ -1,0 +1,18 @@
+
+]
+java:S1220""Move this file to a named package.8äöÌïî1J$97187159-d56d-4e7f-b1e6-79ecb604ce22
+‚
+java:S3518#"?Make sure "contImpar" can't be zero before doing this division.(·óÚ8É÷Ìïî1J$6f5d9a07-37ed-41f6-b399-5f4dd399e887
+…
+java:S3518""=Make sure "contPar" can't be zero before doing this division.(ß‹ªÉşÿÿÿÿ8É÷Ìïî1J$824c249e-cfce-4004-815b-4d376f597af1
+‡
+java:S1659	"DDeclare "promPar" and all following declarations on a separate line.(Ë­ÂÍ8Î÷Ìïî1J$ac6bbed1-7ffa-4b03-8a1a-35f3250d5485
+ˆ
+java:S1659
+"EDeclare "promImpa" and all following declarations on a separate line.(ÃÔÕ8Î÷Ìïî1J$fdda1c26-cbeb-46e2-bdc4-a543d645f42e
+r
+java:S1197"*Move the array designators [] to the type.(İù»¿ûÿÿÿÿ8Ó÷Ìïî1J$6ba85989-9b4f-40f9-b6c5-10ec3072b277
+r	java:S106"+Replace this use of System.out by a logger.(ÊÍÃ»üÿÿÿÿ8Õ÷Ìïî1J$680ebb61-cb1e-4bba-962e-43a48642fe42
+l	java:S106"+Replace this use of System.out by a logger.(Ÿøn8Ö÷Ìïî1J$c8a62286-7715-4caf-b4ef-cacb713b05fc
+r	java:S106%"+Replace this use of System.out by a logger.(ó¬ùºøÿÿÿÿ8×÷Ìïî1J$7bdd1a36-c36a-4920-a335-b7607a9bff49
+r	java:S106&"+Replace this use of System.out by a logger.(‘àÚİıÿÿÿÿ8×÷Ìïî1J$8c72a7f1-8d6f-4b3f-ad46-d7247d6b14d8

@@ -1,0 +1,14 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÒüÿÿÿÿ8¸ÚìÅî1J$c4f0c238-d187-4c8c-8779-67b1bca9d975
+]
+java:S1220""Move this file to a named package.8¹ÚìÅî1J$6f7beb6e-b276-4a32-9e4f-9f37ab9efd2b
+m
+java:S1197"*Move the array designators [] to the type.(×åÄ8àÚìÅî1J$ecf8b599-a703-43fc-917d-9869103f0fdb
+m	java:S106"+Replace this use of System.out by a logger.(ó÷×ñ8áÚìÅî1J$8b87132b-43ac-4735-b033-10c99137e2b5
+l	java:S106"+Replace this use of System.out by a logger.(Ä¥§8âÚìÅî1J$b7232c3f-1604-4f92-91c8-b8bca5a9367a
+r	java:S106"+Replace this use of System.out by a logger.(–›Ö¬üÿÿÿÿ8ãÚìÅî1J$6ee7eb5b-6113-423b-a1ef-615461a86ac4
+r	java:S106!"+Replace this use of System.out by a logger.(ùƒ®„üÿÿÿÿ8åÚìÅî1J$a12d97bd-12e0-4f86-93ae-5e3d3c63ac3d
+r	java:S106#"+Replace this use of System.out by a logger.(—Ğ¿“úÿÿÿÿ8æÚìÅî1J$c4db6dc2-764b-424d-a926-510ed1888622
+r	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8æÚìÅî1J$09bf8ce2-099f-408e-85bc-4b00e592811f
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8çÚìÅî1J$11f3382f-ca5b-4bbc-8c3d-1c60b9cf1040

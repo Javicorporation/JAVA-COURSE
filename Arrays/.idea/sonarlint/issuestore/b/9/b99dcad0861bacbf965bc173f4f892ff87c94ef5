@@ -1,0 +1,14 @@
+
+]
+java:S1220""Move this file to a named package.8äÌ‰Ïì1J$4c5805ef-b047-4491-8280-ac81d6145b99
+j
+java:S1659""Declare "suma" on a separate line.(»æÃîúÿÿÿÿ8ÈÍ‰Ïì1J$e566b1c1-88ec-4c52-a0b5-423cb6cda2d7
+r	java:S106"+Replace this use of System.out by a logger.(„óæ×úÿÿÿÿ8ÓÍ‰Ïì1J$67fe487d-c10e-4327-b006-684f4c69ddc0
+l
+java:S1197"*Move the array designators [] to the type.(˜Š­}8ÎÊ˜Ïì1J$a07ef385-8a0a-4412-a4e5-3377a3124fe9
+r	java:S106"+Replace this use of System.out by a logger.(ŞÑ×Ğıÿÿÿÿ8¤Å—Ïì1J$a9322f41-0bf4-4fad-ac3f-d434170158ef
+m	java:S106"+Replace this use of System.out by a logger.(•ö¢ø8¥Å—Ïì1J$ca3005c9-aa33-4860-93a2-231c2616a8f7
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¦Å—Ïì1J$b70c2d8e-0f07-402e-bd42-0b635a0f9bfa
+r	java:S106"+Replace this use of System.out by a logger.(ß…—ıÿÿÿÿ8§Å—Ïì1J$a91bbf29-a82d-435b-a77b-c93ddf6a7fb1
+m	java:S106)"+Replace this use of System.out by a logger.(úµÖ„8©Å—Ïì1J$82ab6743-82d3-484f-8793-48e8ff3a595f
+r	java:S106*"+Replace this use of System.out by a logger.(ª¶ÎÑıÿÿÿÿ8Â‘ªÏì1J$c26d7442-a0bc-4870-b754-61d7e92ed04e

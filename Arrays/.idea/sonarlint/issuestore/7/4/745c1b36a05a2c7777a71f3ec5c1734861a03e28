@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£İè†8€–ãí1J$d5a33a73-b63b-4ddb-bfeb-a9b8143f03ab
+]
+java:S1220""Move this file to a named package.8–ãí1J$e3395ce5-5a11-4d48-94cc-b70baef2ca6d
+r
+java:S1197
+"*Move the array designators [] to the type.(İù»¿ûÿÿÿÿ8œ–ãí1J$5ed6e6b1-5ba7-4ac0-aa41-447137ebfcc1
+r	java:S106"+Replace this use of System.out by a logger.(¾òÚúÿÿÿÿ8–ãí1J$7560ed92-0246-4359-b65d-8a4f7c504dba
+l	java:S106"+Replace this use of System.out by a logger.(Ä¥§8–ãí1J$0aff4449-8ca3-44bb-9846-ce04d26cabec
+r	java:S106""+Replace this use of System.out by a logger.(Ïµ¸ªùÿÿÿÿ8 –ãí1J$2cdbc3bb-7e87-465b-97a5-6ae886b92c46
+r	java:S106#"+Replace this use of System.out by a logger.(‰ ÕËùÿÿÿÿ8Ääí1J$4004cec2-2678-459e-bd51-3cb2d56f7821
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¡–ãí1J$9fcad573-d7ed-40ce-a2cf-b36590a942b3
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8¡–ãí1J$e0d2f35b-ab3e-4d78-b9bf-e4435ff9e275

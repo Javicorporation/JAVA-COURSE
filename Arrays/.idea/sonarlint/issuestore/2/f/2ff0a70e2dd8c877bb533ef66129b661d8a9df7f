@@ -1,0 +1,22 @@
+
+]
+java:S1220""Move this file to a named package.8©îî1J$aab2a2d5-9ede-4e32-8864-60f2b543adb8
+‹
+java:S1659"CDeclare "array2" and all following declarations on a separate line.(ìˆÀ ÿÿÿÿÿ8Îîî1J$e018a25c-3721-4388-bb8d-1b5388fefdde
+r
+java:S1197"*Move the array designators [] to the type.(ìˆÀ ÿÿÿÿÿ8Òîî1J$b5c35e39-f544-4b57-80fb-bc4a081be0f1
+r
+java:S1197"*Move the array designators [] to the type.(ìˆÀ ÿÿÿÿÿ8Óîî1J$b12385bb-4655-44e1-a639-d838171f8c1c
+r
+java:S1197"*Move the array designators [] to the type.(ìˆÀ ÿÿÿÿÿ8Óîî1J$6e6c192c-dabc-4708-bdd7-05f7c02baba8
+m	java:S106"+Replace this use of System.out by a logger.(ÂØ¾í8Ôîî1J$0bfb960b-d4f8-44aa-9604-7a047c6fc85d
+r	java:S106"+Replace this use of System.out by a logger.(à‰³—ùÿÿÿÿ8Õîî1J$13d2b85c-b8c7-4a5b-a044-2f9f0f9a5060
+m	java:S106"+Replace this use of System.out by a logger.(º»¸À8Öîî1J$91daf6c4-f666-449f-a46a-8648d81ae387
+r	java:S106"+Replace this use of System.out by a logger.(ÛÂ±ìıÿÿÿÿ8×îî1J$37bb9dd5-a500-4969-bdad-ab1cb8197460
+r	java:S106"+Replace this use of System.out by a logger.(Ôñõÿÿÿÿÿ8×îî1J$e1507989-3acd-48dc-9e65-86be2db8bbb3
+r	java:S106%"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Øîî1J$6ee3fcf6-841b-4875-a03d-c0a299f12306
+r	java:S106'"+Replace this use of System.out by a logger.(ïáãéşÿÿÿÿ8Øîî1J$36721bc1-bb97-4c34-b352-edca09c7e199
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Úîî1J$9d12ba99-a389-4fa2-bd86-5420d5390d68
+w
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Úîî1J$ed13c31d-e3b8-46b0-86b1-01229908e7b8

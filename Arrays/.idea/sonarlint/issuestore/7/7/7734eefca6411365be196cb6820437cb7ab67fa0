@@ -1,0 +1,21 @@
+
+]
+java:S1220""Move this file to a named package.8ıÇ¶¡í1J$7f865115-c00e-42a9-89b2-1da5a018fb09
+l
+java:S1659"$Declare "iPosit" on a separate line.(ÈàÇùÿÿÿÿ8‡É¶¡í1J$14d99b1f-4e85-4b03-b846-4219dbf74c50
+i
+java:S1659"&Declare "iNegativ" on a separate line.(ïÉˆ’8‡É¶¡í1J$e5e0c9bb-1b71-47ca-a065-ea8bb67763de
+m
+java:S1197"*Move the array designators [] to the type.(×åÄ8É¶¡í1J$8fe2cb18-8d23-4190-971a-862235b68095
+m
+java:S1197	"*Move the array designators [] to the type.(È»»8É¶¡í1J$ec6430a8-7fc9-4248-b0c2-e04df563b7b7
+m
+java:S1197
+"*Move the array designators [] to the type.(Í¡€Ü8É¶¡í1J$7b0ef3ec-8d32-4817-9e04-de4c2975121e
+r	java:S106"+Replace this use of System.out by a logger.(¯ÃÏıÿÿÿÿ8É¶¡í1J$3ed70aa3-afce-4a44-8c98-b7952da9a36b
+l	java:S106"+Replace this use of System.out by a logger.(Ä¥§8É¶¡í1J$90862d90-fad7-40eb-8fdf-0174502f23ed
+m	java:S106."+Replace this use of System.out by a logger.(¨à§Ì8É¶¡í1J$1ac82da8-3488-472e-9ff0-dbb0173de018
+m	java:S1060"+Replace this use of System.out by a logger.(Ìíºó8‘É¶¡í1J$b6cdd3af-5c3b-4541-bbea-2838a8859e6d
+r	java:S1062"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‘É¶¡í1J$f7a78b58-e070-436a-9bb6-7d600e6d738d
+r	java:S1063"+Replace this use of System.out by a logger.(¨‘Çÿÿÿÿÿ8íÑ·¡í1J$0565348f-bd29-4af5-ad63-a650f0bcadd9
+m	java:S1065"+Replace this use of System.out by a logger.(¼Šâ8„¥º¡í1J$7624c9b6-d8e5-4273-86bf-51686b98170f

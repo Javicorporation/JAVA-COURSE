@@ -1,0 +1,19 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îûõøÿÿÿÿ8²Ùì1J$f1b9c065-cf96-4588-b9d9-85e5344f027f
+]
+java:S1220""Move this file to a named package.8´Ùì1J$f0c71c63-8dd2-4fae-a3b3-72c8e805027f
+r
+java:S1197
+"*Move the array designators [] to the type.(İù»¿ûÿÿÿÿ8°‘Ùì1J$dd98e3f8-bb77-4e72-b23f-ea0f63135db6
+l	java:S106"+Replace this use of System.out by a logger.(‹ˆB8²‘Ùì1J$e3563365-e9ee-4281-ab9e-c4bceac00484
+l	java:S106"+Replace this use of System.out by a logger.(Ä¥§8¶‘Ùì1J$4fa529d1-fdd8-4b36-8dad-dcfffe104ed7
+z
+java:S3972"7Move this "if" to a new line or add the missing "else".(«Î¦Ã8Ì¬“Ùì1J$0837f14e-818f-44b6-973c-0fcfa8532c81
+
+java:S3972"7Move this "if" to a new line or add the missing "else".(ÌÖ“ïıÿÿÿÿ8êÍ“Ùì1J$30ed0d5b-76ff-46d9-81f2-f15a82a55a34
+
+java:S3972"7Move this "if" to a new line or add the missing "else".(¥¹ˆµıÿÿÿÿ8Ìç“Ùì1J$fd8dfdff-eb36-4d7b-bfc3-06f51b7135c8
+r	java:S106""+Replace this use of System.out by a logger.(‚µç“ıÿÿÿÿ8¹‘Ùì1J$2000ea25-eba5-43c9-a0a2-823919e9c59d
+m	java:S106#"+Replace this use of System.out by a logger.(×èÇã8»‘Ùì1J$251360fc-7198-44c5-a8ad-5d2abee0e3e3
+r	java:S106$"+Replace this use of System.out by a logger.(Üı²¬şÿÿÿÿ8¼‘Ùì1J$982d72d2-9004-40ed-931d-719ab696e492
+m	java:S106%"+Replace this use of System.out by a logger.(âÒ¤ã8½‘Ùì1J$450e4631-9ffb-4821-b0fd-e1fcd8f1eac3

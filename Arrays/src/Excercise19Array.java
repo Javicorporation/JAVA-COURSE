@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class excercice19Arrays {
+public class Excercise19Array {
 
     public static  void main(String[] args) {
         Scanner getting = new Scanner(System.in);
