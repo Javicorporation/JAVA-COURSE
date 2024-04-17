@@ -26,15 +26,18 @@ public class Excercise18Arrays {
         for(int i = 0; i < array2.length; i++){
             System.out.print("Write a String of array 2: ");
             array2[i] = getting.nextLine();
+        }
 
+        for (int i = 0; i < lengthArrays; i++){
+            array3[i] = array1[i];
+            array3[i+lengthArrays] = array2[i];
         }
 
 
-        System.arraycopy(array1, 0, array3,0,array1.length);
-        System.arraycopy(array2, 0, array3, array1.length, array2.length);
-
-        System.out.println(Arrays.toString(array3));
-
+        System.out.println("");
+        for (int i = 0; i < array3.length; i++){
+            System.out.println("array 3: "+array3[i]);
+        }
 
 
     }
