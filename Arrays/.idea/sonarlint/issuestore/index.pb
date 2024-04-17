@@ -48,3 +48,5 @@ J
 src/Excercise17Arrays.java,d\7\d7264bc0b0279b6a041ba6f469c5cdf4af5e5172
 J
 src/Excercise18Arrays.java,2\f\2ff0a70e2dd8c877bb533ef66129b661d8a9df7f
+J
+src/excercice19Arrays.java,4\3\43a527d47e939a5ec9ec88e48680df98fe74585f
