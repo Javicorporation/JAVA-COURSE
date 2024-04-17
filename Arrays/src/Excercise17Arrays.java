@@ -59,6 +59,40 @@ public class Excercise17Arrays {
                 System.out.println("in desorden");
             }
         }
+        int index1 = 0;
+        int index2 = 0;
+        int index3 = 0;
+
+        while (index1 < array1.length && index2 < array2.length){
+            if (array1[index1] < array2[index2]) {
+                array3[index3] = array1[index1];
+                index1++;
+            }else {
+                array3[index3] = array2[index2];
+                index2++;
+            }
+            index3++;
+        }
+        if (index1 == array1.length) {
+            while(index2 < array2.length){
+                array3[index3] = array2[index2];
+                index2++;
+                index3++;
+            }
+        }else {
+            while (index1 < array1.length){
+                array3[index3] = array3[index1];
+                index1++;
+                index3++;
+            }
+        }
+        System.out.println("");
+        System.out.println("the array 3 is: ");
+        for (int k = 0; k < array3.length;k++){
+            System.out.println("es: "+array3[k]);
+
+        }
+
 
 
     }
