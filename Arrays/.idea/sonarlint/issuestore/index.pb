@@ -49,10 +49,6 @@ J
 J
 src/Excercise18Arrays.java,2\f\2ff0a70e2dd8c877bb533ef66129b661d8a9df7f
 J
-src/excercice19Arrays.java,4\3\43a527d47e939a5ec9ec88e48680df98fe74585f
-J
-src/Excercise19Arrays.java,2\6\26bcd1e388dd4fd822fd1cae4daffc09931f7dc0
-J
 src/Excercise20Arrays.java,f\3\f395b4330dc4dc3956747a406ddde1033408f219
 I
 src/Excercise19Array.java,d\0\d0042a9ba5946497cc7cac9a2811bf3336df6ba4
@@ -118,3 +114,5 @@ Q.idea/sonarlint/securityhotspotstore/2/f/2ff0a70e2dd8c877bb533ef66129b661d8a9df
 Q.idea/sonarlint/securityhotspotstore/4/3/43a527d47e939a5ec9ec88e48680df98fe74585f,c\3\c30a880f4759d697946b8573b4b4d420f7319d11
 Å
 Q.idea/sonarlint/securityhotspotstore/d/a/da30f2e38f075be54b44558782ca389c5043f2ee,b\3\b3dc28a22aa4c217c93b329dc216d9a0777e6355
+J
+src/Excercise21Arrays.java,8\6\861c98eaa497f01887394f21ada25eb5691cef4c

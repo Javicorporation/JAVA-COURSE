@@ -1,17 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅâËüÿÿÿÿ8¼¤êîî1J$30c177cb-f19a-4f7d-8ef8-f7342761ee65
-]
-java:S1220""Move this file to a named package.8½¤êîî1J$e38f2e89-9df9-4e50-86d0-c2b9d7db0e6a
-‹
-java:S1659	"CDeclare "array2" and all following declarations on a separate line.(²”ÙÊÿÿÿÿÿ8Ä¤êîî1J$04c0e9e6-c753-4f33-8bcc-bf6086398380
-r
-java:S1197	"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ8É¤êîî1J$6fe3a301-8129-4630-bf44-9a167e8767b5
-r
-java:S1197	"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ8É¤êîî1J$b2e5742c-b580-405c-877f-2a005f3763ea
-r
-java:S1197	"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ8É¤êîî1J$47f179e9-ee2a-42d6-9d0a-2d338b5291fa
-l	java:S106"+Replace this use of System.out by a logger.(Ö®8Ê¤êîî1J$103fa930-0a7b-49d3-840d-333261d47270
-l	java:S106"+Replace this use of System.out by a logger.(¯¯ã8Ë¤êîî1J$13c7fadc-ad2f-4ab3-bb05-0142f6a873e2
-r	java:S106"+Replace this use of System.out by a logger.(§ÕÈòşÿÿÿÿ8Ë¤êîî1J$e716d45d-e0ad-4e89-a011-50a988f5c52f
-r	java:S106)"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ì¤êîî1J$ebcdbcd4-e007-4a11-9672-9ddaab1fd73d
-m	java:S106+"+Replace this use of System.out by a logger.(ÈìÍæ8ƒìîî1J$6559b8d4-73b7-4786-93cc-617f656e28fb
