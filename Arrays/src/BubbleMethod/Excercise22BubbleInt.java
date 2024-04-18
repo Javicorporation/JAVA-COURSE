@@ -2,7 +2,9 @@ package BubbleMethod;
 
 import java.util.Scanner;
 
-public class Excercise22Bubble {
+public class Excercise22BubbleInt {
+
+    // values INT ENTEROS
     public static  void main(String[] args) {
         Scanner getting = new Scanner(System.in);
         int array1[];

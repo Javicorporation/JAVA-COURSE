@@ -118,3 +118,7 @@ J
 src/Excercise21Arrays.java,8\6\861c98eaa497f01887394f21ada25eb5691cef4c
 W
 'src/BubbleMethod/Excercise22Bubble.java,a\b\ab2b6fdb77696132e18b48d4bb388f62bc39a18b
+^
+.src/BubbleMethod/Excercise23BubbleStrings.java,1\5\158fb46160651b0650b5906ea4590daab5d35f34
+Z
+*src/BubbleMethod/Excercise22BubbleInt.java,d\6\d68bf7a9ef473fdc20a4b1c655c143acdce4885d
