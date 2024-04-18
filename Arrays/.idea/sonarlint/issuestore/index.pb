@@ -116,3 +116,5 @@ Q.idea/sonarlint/securityhotspotstore/4/3/43a527d47e939a5ec9ec88e48680df98fe7458
 Q.idea/sonarlint/securityhotspotstore/d/a/da30f2e38f075be54b44558782ca389c5043f2ee,b\3\b3dc28a22aa4c217c93b329dc216d9a0777e6355
 J
 src/Excercise21Arrays.java,8\6\861c98eaa497f01887394f21ada25eb5691cef4c
+W
+'src/BubbleMethod/Excercise22Bubble.java,a\b\ab2b6fdb77696132e18b48d4bb388f62bc39a18b
