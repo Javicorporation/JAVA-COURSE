@@ -120,3 +120,7 @@ _
 /src/SortBySelection/Excercise23BySelection.java,5\e\5ef80f9546ba79e9d59b3b13353de86e3081740e
 _
 /src/SortBySelection/Excercise24BySelection.java,c\6\c6717a0d084d74efb100369c3e26e20eb380c276
+c
+3src/InsertionOrder/Excercise24ByInsertionorder.java,3\f\3fd9ab7d11724210c99eab60d69814100c035e03
+c
+3src/InsertionOrder/Excercise25ByInsertionorder.java,1\e\1eb6c050f96b03e102325483f38760c70911a73d
