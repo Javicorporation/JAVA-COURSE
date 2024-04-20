@@ -15,7 +15,7 @@ public class Excercise25ByInsertionorder {
 
 
         for (int i = 0; i < array1.length; i++){
-            System.out.print("Write a number: ");
+            System.out.print("Write a length of array: ");
             array1[i] = getting.nextInt();
         }
         getting.close();
