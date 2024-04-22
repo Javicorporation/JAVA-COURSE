@@ -77,3 +77,9 @@ P
  src/Matrix/Excercise5Matrix.java,8\f\8f9f2b9ac5436aa18b180770df9ae2811b10801f
 P
  src/Matrix/Excercise6Matrix.java,e\f\ef7d23498503187e5e18ece3fa557fc3256cf5d5
+Å
+Q.idea/sonarlint/securityhotspotstore/e/f/ef7d23498503187e5e18ece3fa557fc3256cf5d5,f\f\ff7333036e7a84a16585b6897c7d4714a2637200
+w
+G.idea/sonarlint/issuestore/f/f/ff7333036e7a84a16585b6897c7d4714a2637200,3\c\3ce89896c0e395742f3bb7bea8865e4acf033fe6
+Å
+Q.idea/sonarlint/securityhotspotstore/f/f/ff7333036e7a84a16585b6897c7d4714a2637200,f\a\fa3a35f02130792446d3133da7a3a32e9fffd62e
