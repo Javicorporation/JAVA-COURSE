@@ -73,3 +73,5 @@ P
  src/Matrix/Excercise3matrix.java,c\c\cc67e82c562d309cc3e62ed605c0313e84908dcc
 P
  src/Matrix/Excercise4Matrix.java,e\c\ec4ce163e947116f5f4bce9f0500182541b7a000
+P
+ src/Matrix/Excercise5Matrix.java,8\f\8f9f2b9ac5436aa18b180770df9ae2811b10801f
