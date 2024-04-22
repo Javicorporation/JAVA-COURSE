@@ -69,3 +69,5 @@ Q.idea/sonarlint/securityhotspotstore/a/e/ae9ddf453f55affea2d6b9e3973cac1eb2efb4
 Q.idea/sonarlint/securityhotspotstore/4/e/4e028b50ffe3b3b0e5b68667516a23fa4af8c838,0\4\04a076293a34824ae7e6357eecc456dee639c469
 Å
 Q.idea/sonarlint/securityhotspotstore/c/c/cc46046435e9d03bb69bf5ccf78851debe7c2fe0,1\b\1b9091c2ee4c901bc524e9b4593e1806b5bbc8dc
+P
+ src/Matrix/Excercise3matrix.java,c\c\cc67e82c562d309cc3e62ed605c0313e84908dcc
