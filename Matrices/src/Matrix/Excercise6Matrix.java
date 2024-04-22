@@ -39,7 +39,7 @@ public class Excercise6Matrix {
         int positionRowBigg =0, positioRowMinor = 0;
         int positionColumnBigg =0, positioColumnsMinor = 0;
 
-        System.out.println("");
+
         for (int i = 0; i < numRows; i++){
             for (int j = 0; j < numColumns; j++){
                 if(matrix[i][j] > numBigger){
