@@ -1,10 +1,0 @@
-
-]
-java:S1220""Move this file to a named package.8¥«©Çï1J$0d9e9a36-3dfc-4d5e-b4a1-ed2693299c92
-t
-java:S1197",Move the array designators [][] to the type.(ý³¾¿ûÿÿÿÿ8°«©Çï1J$c2526751-20a6-4ce7-9ea5-a5ffd6ac2ed1
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8³«©Çï1J$f0216920-135d-40c1-ab9e-5d24d77e5fb1
-r	java:S106"+Replace this use of System.out by a logger.(úº‘žüÿÿÿÿ8´«©Çï1J$eac27052-96a0-47f8-a718-bfe3a19d426b
-r	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8ÕÈ¯Çï1J$97bfc41c-fe12-4f2e-8ab3-e47a0fbba320
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ýÁ¶Çï1

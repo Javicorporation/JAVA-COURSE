@@ -1,11 +1,0 @@
-
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áğ¢ªüÿÿÿÿ8ÀŠÈï1J$e24947a1-923a-4a50-9c44-12a7e123ccac
-o
-java:S1197
-",Move the array designators [][] to the type.(Íß×8áŠÈï1J$6259614e-d354-4a31-8b34-fc815220fbfc
-r	java:S106"+Replace this use of System.out by a logger.(úÌµ¹ıÿÿÿÿ8âŠÈï1J$77ac4e2a-6638-48b6-b472-8a943983d30b
-m	java:S106"+Replace this use of System.out by a logger.(ÚÎ«Ø8âŠÈï1J$9c71fe9e-46d7-460d-bdc8-efe8f1dd8218
-r	java:S106"+Replace this use of System.out by a logger.(ø‘íŞøÿÿÿÿ8äŠÈï1J$d513972f-e640-49ea-b4b6-634f331697f5
-r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8åŠÈï1J$5c20daeb-602a-457c-92dd-1505cd4b0d27
-r	java:S106!"+Replace this use of System.out by a logger.(úº‘üÿÿÿÿ8åŠÈï1J$6b604d10-3fd7-4c11-a247-a1a6595950d4
-r	java:S106#"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8õÏ¯Èï1J$c9d95ff9-293b-4ca6-a4d1-3d32df145471
