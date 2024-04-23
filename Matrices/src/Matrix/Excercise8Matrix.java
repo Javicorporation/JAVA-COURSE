@@ -2,23 +2,21 @@ package Matrix;
 
 import java.util.Scanner;
 
-public class Excercise7Matrix {
+public class Excercise8Matrix {
     public static  void main(String[] args) {
         Scanner getting = new Scanner(System.in);
 
         int numRows;
         int numColumns;
         int[][] matrix;
-
-        System.out.print("write a  number of rows: ");
+        System.out.print("write num of rows: ");
         numRows = getting.nextInt();
-
-        System.out.print("Write a number of columns: ");
+        System.out.print("Write num of columns: ");
         numColumns = getting.nextInt();
 
         matrix = new int[numRows][numColumns];
 
-        for (int i = 0 ; i < numRows; i++){
+        for (int i = 0; i < numRows; i++){
             for (int j = 0; j < numColumns; j++){
                 System.out.print("Write a number in the position [ "+i+" ] and [ "+j+" ] is : ");
                 matrix[i][j] = getting.nextInt();
@@ -26,29 +24,22 @@ public class Excercise7Matrix {
         }
 
 
+
         System.out.println("the matrix is: ");
-        for (int i = 0 ; i < numRows; i++){
+        for (int i = 0; i < numRows; i++){
             for (int j = 0; j < numColumns; j++){
-                System.out.print(matrix[i][j]+" ");
+                System.out.print(matrix[i][j] + " ");
             }
             System.out.println("");
         }
 
-        int box;
-        for (int i = 0; i < matrix[0].length; i++){
-            box = matrix[0][i];
-            matrix[0][i] = matrix[1][i];
-            matrix[1][i] = box;
+        System.out.println("\nthe vertices: ");
+        // the vertices
+        System.out.print(matrix[0][0]+" ");
+        System.out.print(matrix[0][matrix.length-1]);
+        System.out.print("\n"+matrix[matrix.length-1][0]+" ");
+        System.out.print(matrix[matrix.length-1][matrix.length-1]);
 
-        }
-
-        System.out.println("the matrix result is: ");
-        for (int i = 0 ; i < numRows; i++){
-            for (int j = 0; j < numColumns; j++){
-                System.out.print(matrix[i][j]+" ");
-            }
-            System.out.println("");
-        }
         getting.close();
     }
 }
