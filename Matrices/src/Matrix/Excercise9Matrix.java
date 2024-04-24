@@ -32,6 +32,7 @@ public class Excercise9Matrix {
             System.out.println("");
         }
 
+        //the vertice
         System.out.println("result");
         System.out.print(matrix[0][0]+" ");
         System.out.print(matrix[0][numColumns-1]);
