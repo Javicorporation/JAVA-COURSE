@@ -2,7 +2,7 @@ package Matrix;
 
 import java.util.Scanner;
 
-public class Excerscise12Matrix {
+public class Excercise12Matrix {
 
     public static  void main(String[] args){
         Scanner getting = new Scanner(System.in);
