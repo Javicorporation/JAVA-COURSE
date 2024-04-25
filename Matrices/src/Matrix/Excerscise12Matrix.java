@@ -31,6 +31,7 @@ public class Excerscise12Matrix {
             System.out.println("");
         }
 
+
         System.out.println("the result first row: ");
         for (int i = 0; i < matrix[0].length; i++){
             System.out.print(matrix[0][i]+" ");
@@ -52,6 +53,23 @@ public class Excerscise12Matrix {
         for (int i = 0; i < matrix.length; i++){
             System.out.print(matrix[i][matrix[i].length-1]+" ");
         }
+
+        System.out.println("the result is: ");
+        for (int i = 0; i < numRows-1; i++){
+            System.out.print(matrix[0][i]+" ");
+        }
+
+        System.out.println("\nthe result is: ");
+        for (int i = 0; i < numRows-1; i++){
+            System.out.print(matrix[matrix.length-1][i]+" ");
+        }
+
+
+        System.out.println("\nthe result is: ");
+        for (int i = 0; i < numRows; i++){
+            System.out.print(matrix[i][0]+" ");
+        }
+
         getting.close();
     }
 }
