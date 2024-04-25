@@ -37,10 +37,12 @@ public class Excercise12Matrix {
             System.out.print(matrix[0][i]+" ");
         }
 
-        int lastrow = matrix.length-1;
+
+
+        int lastRow = matrix.length-1;
         System.out.println("\nthe result last row is: ");
-        for (int i = 0; i < matrix[lastrow].length; i++){
-            System.out.print(matrix[lastrow][i]+" ");
+        for (int i = 0; i < matrix[lastRow].length; i++){
+            System.out.print(matrix[lastRow][i]+" ");
         }
 
 
@@ -49,27 +51,11 @@ public class Excercise12Matrix {
             System.out.print(matrix[i][0]+" ");
         }
 
+
         System.out.println("\nthe result last column is: ");
         for (int i = 0; i < matrix.length; i++){
             System.out.print(matrix[i][matrix[i].length-1]+" ");
         }
-
-        System.out.println("the result is: ");
-        for (int i = 0; i < numRows-1; i++){
-            System.out.print(matrix[0][i]+" ");
-        }
-
-        System.out.println("\nthe result is: ");
-        for (int i = 0; i < numRows-1; i++){
-            System.out.print(matrix[matrix.length-1][i]+" ");
-        }
-
-
-        System.out.println("\nthe result is: ");
-        for (int i = 0; i < numRows; i++){
-            System.out.print(matrix[i][0]+" ");
-        }
-
         getting.close();
     }
 }
