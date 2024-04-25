@@ -31,17 +31,27 @@ public class Excercise11Matrix {
             System.out.println("");
         }
 
-        System.out.println("Center elements are: ");
-        int startRow = numRows / 4;
-        int endRow = numRows - startRow;
-        int startColumn = numColumns / 4;
-        int endColumn = numColumns - startColumn;
 
-        for (int i = startRow; i < endRow; i++) {
-            for (int j = startColumn; j < endColumn; j++) {
-                System.out.print(matrix[i][j] + " ");
+        System.out.println("Center elements are: ");
+        int startRow = numRows / 2;
+        int startColumn = numColumns / 2;
+
+        if (numRows % 2 != 0 && numColumns % 2 != 0) {
+            System.out.println(matrix[startRow][startColumn]);
+        } else {
+            System.out.println(matrix[startRow][startColumn]);
+            if (numRows % 2 != 0 || numColumns % 2 != 0) { // One odd
+                if (startRow - 1 >= 0) {
+                    System.out.println(matrix[startRow - 1][startColumn]);
+                }
+                if (startColumn - 1 >= 0) {
+                    System.out.println(matrix[startRow][startColumn - 1]);
+                }
+            } else { // Both even
+                System.out.println(matrix[startRow - 1][startColumn]);
+                System.out.println(matrix[startRow][startColumn - 1]);
+                System.out.println(matrix[startRow - 1][startColumn - 1]);
             }
         }
-
     }
 }
