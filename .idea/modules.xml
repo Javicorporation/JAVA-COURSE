@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AplicacionOperadores/AplicacionOperadores.iml" filepath="$PROJECT_DIR$/AplicacionOperadores/AplicacionOperadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AplicacionVariables/AplicacionVariables.iml" filepath="$PROJECT_DIR$/AplicacionVariables/AplicacionVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CURSO JAVA.iml" filepath="$PROJECT_DIR$/.idea/CURSO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicionales/Condicionales.iml" filepath="$PROJECT_DIR$/Condicionales/Condicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosBucles/EjerciciosBucles.iml" filepath="$PROJECT_DIR$/EjerciciosBucles/EjerciciosBucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Matrices/Matrices.iml" />
+    </modules>
+  </component>
+</project>
