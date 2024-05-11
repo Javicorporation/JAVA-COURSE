@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ
+B
+java:S1659
+",Declare "multiplication" on a separate line.(Å€‰
+@	java:S106"+Replace this use of System.out by a logger.(¢ò“ı
+E	java:S106"+Replace this use of System.out by a logger.(³¹’üşÿÿÿÿ

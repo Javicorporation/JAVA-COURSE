@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+E
+java:S1197"*Move the array designators [] to the type.(Ýù»¿ûÿÿÿÿ
+@	java:S106
+"+Replace this use of System.out by a logger.(ó÷×ñ
+?	java:S106"+Replace this use of System.out by a logger.(Ä¥§
+@	java:S106"+Replace this use of System.out by a logger.(È†øÌ
+@	java:S106"+Replace this use of System.out by a logger.(Ñ·Â…
+E	java:S106"+Replace this use of System.out by a logger.(„¢Î¹ùÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(Ñ·Â…

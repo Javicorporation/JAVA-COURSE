@@ -1,0 +1,21 @@
+
+r
+java:S11921"WDefine a constant instead of duplicating this literal "the average minor is: " 3 times.(™Öîûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ
+W
+java:S1659	"ADeclare "age2" and all following declarations on a separate line.(ÇÖŸ¢
+E	java:S106"+Replace this use of System.out by a logger.(ÊÚÎŒùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(„Éò£şÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(ÿÃ³éúÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(üî»‡şÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(Œ±Ó
+E	java:S106."+Replace this use of System.out by a logger.(ÜÉŒßúÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(™Öîûÿÿÿÿ
+L
+java:S39722"7Move this "if" to a new line or add the missing "else".(‚š·k
+E	java:S1063"+Replace this use of System.out by a logger.(Èó”ûÿÿÿÿ
+R
+java:S39724"7Move this "if" to a new line or add the missing "else".(õêÅ’ÿÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(ŞÛÚÎüÿÿÿÿ

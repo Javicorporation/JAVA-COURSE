@@ -1,0 +1,29 @@
+
+0
+java:S1220""Move this file to a named package.
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Çµí‘
+^
+java:S1659"CDeclare "array2" and all following declarations on a separate line.(²”ÙÊÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ
+?	java:S106	"+Replace this use of System.out by a logger.(Ä¥§
+E	java:S106"+Replace this use of System.out by a logger.(ô³îúıÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(”…¦Ğşÿÿÿÿ
+7
+java:S1116#"Remove this empty statement.(”…¦Ğşÿÿÿÿ
+@	java:S106%"+Replace this use of System.out by a logger.(íç­ÿ
+@	java:S106,"+Replace this use of System.out by a logger.(†óá¶
+E	java:S1068"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(İ›ç
+@	java:S106;"+Replace this use of System.out by a logger.(Ì°
+E	java:S106Z"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+@	java:S106["+Replace this use of System.out by a logger.(ŸÙ ´
+@	java:S106]"+Replace this use of System.out by a logger.(¡¡²ç
+Ü
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 82 to 64, Complexity from 18 to 14, Nesting Level from 3 to 2, Number of Variables from 16 to 6.(Çµí‘

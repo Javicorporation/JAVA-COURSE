@@ -1,0 +1,22 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S1659"CDeclare "array2" and all following declarations on a separate line.(ìˆÀ ÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ìˆÀ ÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ìˆÀ ÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ìˆÀ ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÂØ¾í
+E	java:S106"+Replace this use of System.out by a logger.(à‰³—ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(º»¸À
+E	java:S106"+Replace this use of System.out by a logger.(ÛÂ±ìıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ôñõÿÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(ïáãéşÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

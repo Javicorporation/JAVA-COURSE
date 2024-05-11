@@ -1,0 +1,9 @@
+
+C
+java:S1199"-Extract this nested code block into a method.(µæ±Õ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÝù”ûÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "getting".(µæ±Õ
+B
+java:S1481",Remove this unused "getting" local variable.(µæ±Õ
+E	java:S106"+Replace this use of System.out by a logger.(‚é€Þûÿÿÿÿ

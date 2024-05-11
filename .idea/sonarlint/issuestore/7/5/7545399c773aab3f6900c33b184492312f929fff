@@ -1,0 +1,32 @@
+
+q
+java:S1192"[Define a constant instead of duplicating this literal "Ingrese el primer numero: " 4 times.(•˜œ§
+r
+java:S1192"\Define a constant instead of duplicating this literal "ingrese el segundo numero: " 4 times.(‚’²œ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ
+@
+java:S1659
+"%Declare "number2" on a separate line.(šèÍÜûÿÿÿÿ
+]
+java:S1659"BDeclare "resta" and all following declarations on a separate line.(ë˜Êàøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(»ÕÆ¦
+E	java:S106"+Replace this use of System.out by a logger.(­Ã¾×ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ıºÂúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ëæ„÷
+?	java:S106"+Replace this use of System.out by a logger.(ğŠu
+@	java:S106"+Replace this use of System.out by a logger.(÷•àä
+E	java:S106"+Replace this use of System.out by a logger.(‹Œ¶şÿÿÿÿ
+7	java:S131""Add a default case to this switch.(°€àâ
+@	java:S106"+Replace this use of System.out by a logger.(•˜œ§
+@	java:S106"+Replace this use of System.out by a logger.(‚’²œ
+@	java:S106"+Replace this use of System.out by a logger.(·ê•¡
+@	java:S106""+Replace this use of System.out by a logger.(•˜œ§
+@	java:S106$"+Replace this use of System.out by a logger.(‚’²œ
+@	java:S106'"+Replace this use of System.out by a logger.(¤à†®
+@	java:S106*"+Replace this use of System.out by a logger.(•˜œ§
+@	java:S106,"+Replace this use of System.out by a logger.(‚’²œ
+@	java:S106/"+Replace this use of System.out by a logger.(µ«ˆÕ
+@	java:S1062"+Replace this use of System.out by a logger.(•˜œ§
+@	java:S1064"+Replace this use of System.out by a logger.(‚’²œ
+@	java:S1067"+Replace this use of System.out by a logger.(À’­
+E	java:S106:"+Replace this use of System.out by a logger.(±òßúÿÿÿÿ

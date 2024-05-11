@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+=
+java:S1659""Declare "suma" on a separate line.(»æÃîúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(„óæ×úÿÿÿÿ
+?
+java:S1197"*Move the array designators [] to the type.(˜Š­}
+E	java:S106"+Replace this use of System.out by a logger.(ŞÑ×Ğıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(•ö¢ø
+E	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ß…—ıÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(úµÖ„
+E	java:S106*"+Replace this use of System.out by a logger.(ª¶ÎÑıÿÿÿÿ

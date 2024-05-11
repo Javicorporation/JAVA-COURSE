@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÝù”ûÿÿÿÿ
+^
+java:S1659
+"CDeclare "altura" and all following declarations on a separate line.(ã“€’üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ë­Žóøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(’‹Óã
+E	java:S106"+Replace this use of System.out by a logger.(°ëô›üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ý½±ý
+E	java:S106"+Replace this use of System.out by a logger.(ï›¬œüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ˆ¤ÍÈ
+E	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(”Äô›úÿÿÿÿ

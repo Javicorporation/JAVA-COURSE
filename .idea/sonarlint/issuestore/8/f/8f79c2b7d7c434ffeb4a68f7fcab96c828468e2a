@@ -1,0 +1,23 @@
+
+k
+java:S1192%"PDefine a constant instead of duplicating this literal "su capital es: " 3 times.(ùáÎûûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "patrimonio".(·íªù
+E
+java:S1481"/Remove this unused "patrimonio" local variable.(·íªù
+E	java:S106"+Replace this use of System.out by a logger.(é£ûµûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ô¢àè
+E	java:S106"+Replace this use of System.out by a logger.(ŞˆŠ²úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Î¹…“úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‹âğ¡
+E	java:S106"+Replace this use of System.out by a logger.(òÛÖ™ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(»¼ÍÁ
+7	java:S131 ""Add a default case to this switch.(°€àâ
+E	java:S106""+Replace this use of System.out by a logger.(ÎğÌ£øÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(ùáÎûûÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(›åÌÇúÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(ùáÎûûÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(ùáÎûûÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(ÁÖæø
+E	java:S106;"+Replace this use of System.out by a logger.(Í°º›ıÿÿÿÿ

@@ -1,0 +1,11 @@
+
+]
+java:S2184"BCast one of the operands of this division operation to a "double".(ÇñÄÂÿÿÿÿÿ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(ÇñÄÂÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ
+5
+java:S1659
+"Declare "i" on a separate line.(Ù›şò
+?	java:S106"+Replace this use of System.out by a logger.(Ÿøn
+E	java:S106"+Replace this use of System.out by a logger.(›ç‚îúÿÿÿÿ

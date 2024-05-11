@@ -1,0 +1,16 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S1659	"CDeclare "array2" and all following declarations on a separate line.(²”ÙÊÿÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(²”ÙÊÿÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(Ö®
+?	java:S106"+Replace this use of System.out by a logger.(¯¯ã
+E	java:S106"+Replace this use of System.out by a logger.(§ÕÈòşÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ
+@	java:S106+"+Replace this use of System.out by a logger.(ÈìÍæ

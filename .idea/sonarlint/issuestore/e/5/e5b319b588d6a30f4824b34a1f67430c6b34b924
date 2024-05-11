@@ -1,0 +1,11 @@
+
+f
+java:S1192"PDefine a constant instead of duplicating this literal "the number is: " 3 times.(å¼Ôâ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ
+W
+java:S1659	"ADeclare "div3" and all following declarations on a separate line.(©îÒ
+?	java:S106"+Replace this use of System.out by a logger.(Ÿøn
+@	java:S106"+Replace this use of System.out by a logger.(å¼Ôâ
+@	java:S106"+Replace this use of System.out by a logger.(å¼Ôâ
+@	java:S106"+Replace this use of System.out by a logger.(å¼Ôâ
+@	java:S106"+Replace this use of System.out by a logger.(¾¨È®

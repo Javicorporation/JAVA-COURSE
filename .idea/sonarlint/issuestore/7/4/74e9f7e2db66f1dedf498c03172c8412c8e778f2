@@ -1,0 +1,20 @@
+
+0
+java:S1220""Move this file to a named package.
+<
+java:S1659	"&Declare "average1" on a separate line.(ÏžÃ©
+A
+java:S1659
+"&Declare "average2" on a separate line.(ÜŽƒÖÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(éôâæúÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(—ûýÿ
+E	java:S106"+Replace this use of System.out by a logger.(ò¦åêøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(†£¢å
+E	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¡…‚ÿùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ç¥½ˆ
+E	java:S106 "+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(…¹¿—üÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(ÿªì”øÿÿÿÿ

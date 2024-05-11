@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áİù”ûÿÿÿÿ
+J
+java:S1481"/Remove this unused "countevent" local variable.(Òºš®ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(©ÕÆ£ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‚­Ç
+R
+java:S3972"7Move this "if" to a new line or add the missing "else".(¤¡é³şÿÿÿÿ
+R
+java:S3972"7Move this "if" to a new line or add the missing "else".(û•‹ïşÿÿÿÿ
+M
+java:S3972 "7Move this "if" to a new line or add the missing "else".(²ƒÊõ
+E	java:S106$"+Replace this use of System.out by a logger.(Ñ”Æ‰şÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(Éí—şÿÿÿÿ
+?	java:S106&"+Replace this use of System.out by a logger.(‘Í¾<
+@	java:S106'"+Replace this use of System.out by a logger.(¡âàŒ
