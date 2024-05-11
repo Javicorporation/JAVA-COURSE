@@ -29,6 +29,8 @@ public class Excercise17Matrix {
             for (String cadena : arrayCadenas) {
                 System.out.println(cadena);
                 System.out.println("hola");
+                System.out.println("hola");
+
             }
         }
 }
