@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø·ÏÓ8ÇâÖÊö1J$453e924a-79df-4d6c-a947-0ee6710f3dab
+n
+java:S1659
+"&Declare "numColum" on a separate line.(Ù’™ìûÿÿÿÿ8¡ãÖÊö1J$13bd12f5-7fbb-47b0-83c2-83c5f32694c4
+o
+java:S1197",Move the array designators [][] to the type.(ÓŒ€æ8¡ãÖÊö1J$6b2ebd28-57c2-468a-ab34-209bd2b360a0
+m	java:S106"+Replace this use of System.out by a logger.(Œ¬Ïµ8¡ãÖÊö1J$f71a9b91-4555-40cb-bbac-b03065c0ee1c
+m	java:S106"+Replace this use of System.out by a logger.(å¨æ°8±ãÖÊö1J$31a1c60c-7885-4fcf-a3f9-6fd3eeea9d4f
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ê…üÿÿÿÿ8±ãÖÊö1J$be46bb70-87eb-4b0f-b4a2-971c5389de44
+r	java:S106&"+Replace this use of System.out by a logger.(‡ä«Ñüÿÿÿÿ8æ„×Êö1J$506abe60-3d0a-4d23-92fc-a7cac5e936f2
+r	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8„ÚÊö1J$61a9413c-5da4-4d82-89cb-8334202aa80c
+u
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8¸ãÖÊö1J$9ff7dd46-dcd4-4954-80e5-d0bd1394f3bc

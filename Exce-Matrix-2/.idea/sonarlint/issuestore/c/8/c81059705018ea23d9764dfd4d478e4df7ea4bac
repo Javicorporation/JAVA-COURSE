@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø·ÏÓ8šå×Éö1J$be845ffe-76bc-44c0-934f-f77537c54811
+o
+java:S1197	",Move the array designators [][] to the type.(Íß×8­å×Éö1J$54124601-928c-49d7-b3d8-7338df240b80
+m	java:S106"+Replace this use of System.out by a logger.(Æà®æ8­å×Éö1J$03312c10-4605-4512-bf13-3fa587c0da68
+r	java:S106"+Replace this use of System.out by a logger.(å¸Åÿúÿÿÿÿ8²å×Éö1J$b222a82f-6a79-4699-afb9-60e27aedd1f6
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(™Ù¨şÿÿÿÿ8²å×Éö1J$35d34a65-f7fb-4758-9f2e-e3dac0a0c26a
+m	java:S106"+Replace this use of System.out by a logger.(Ñ…8øÙÉö1J$bc0008df-96d3-4096-bb52-064c543b7e19
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8®ÕÙÉö1J$ea3dff0c-f4d2-48e5-9b9f-a4c242740cb5
