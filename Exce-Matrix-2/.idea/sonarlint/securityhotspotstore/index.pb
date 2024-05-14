@@ -10,8 +10,6 @@ A
 Exce-Matrix-2.iml,0\0\00fea2105b00ac921b0cf5e0a21ed87d76e7a3ec
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-Å
-Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,b\0\b08f1ab659fbdd998f45c0def99188f980cc899b
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 U
@@ -42,3 +40,7 @@ Q.idea/sonarlint/securityhotspotstore/c/8/c81059705018ea23d9764dfd4d478e4df7ea4b
 Q.idea/sonarlint/securityhotspotstore/0/0/00fea2105b00ac921b0cf5e0a21ed87d76e7a3ec,a\4\a4fa9b4cff7915a694451881289c6bdfd95d37fe
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
+U
+%src/MatrixExce/Excercise22Matrix.java,f\7\f725b8649075bbcd13e6406f12e351d4ba1f775e
+]
+-src/MatrixExce/Excercise22MatrixRemaster.java,7\f\7f192036dbeb7a9887ced80a5fae139471caac59
