@@ -44,3 +44,7 @@ U
 %src/MatrixExce/Excercise22Matrix.java,f\7\f725b8649075bbcd13e6406f12e351d4ba1f775e
 ]
 -src/MatrixExce/Excercise22MatrixRemaster.java,7\f\7f192036dbeb7a9887ced80a5fae139471caac59
+U
+%src/MatrixExce/Excercise23Matrix.java,c\d\cd634016f31f22ea296ba39cb9a802cf95b67f75
+]
+-src/MatrixExce/Excercise23MatrixRemaster.java,a\6\a6e61dada3bd52374f4cda4248d62708f615f155
