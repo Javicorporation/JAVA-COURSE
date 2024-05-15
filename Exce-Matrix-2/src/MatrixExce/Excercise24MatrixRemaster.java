@@ -32,7 +32,7 @@ public class Excercise24MatrixRemaster {
         int auxi = 0;
 
         for (int i = 0; i < nunRows; i++) {
-            for (int j = 0; j < numCols; j++) {
+            for (int j = 0; j < i; j++) {
                 auxi = matrix[i][j];
                 matrix[i][j] = matrix[j][i];
                 matrix[j][i] = auxi;
@@ -43,7 +43,7 @@ public class Excercise24MatrixRemaster {
         System.out.println("la matris transpuesta es: ");
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
-                System.out.print(matrix[j][i] + " ");
+                System.out.print(matrix[i][j] + " ");
             }
             System.out.println();
         }

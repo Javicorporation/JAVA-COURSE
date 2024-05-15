@@ -31,9 +31,9 @@ public class Excercise24Matrix {
 
         // transponemos la matris
         // pata transponer una matris necesitamos un valor auxiliar
-        int auxiliar = 0;
+        int auxiliar ;
         for (int i = 0; i < numberRows; i++) {
-            for (int j = 0; j < numberCols; j++) {
+            for (int j = 0; j < i; j++) {
                 auxiliar = matrix[i][j];
                 matrix[i][j] = matrix[j][i];
                 matrix[j][i] = auxiliar;
@@ -44,7 +44,7 @@ public class Excercise24Matrix {
         System.out.println("The result is: ");
         for (int i = 0; i < numberRows; i++) {
             for (int j = 0; j < numberCols; j++) {
-                System.out.print(matrix[j][i]+" ");
+                System.out.print(matrix[i][j]+" ");
             }
             System.out.println();
         }
