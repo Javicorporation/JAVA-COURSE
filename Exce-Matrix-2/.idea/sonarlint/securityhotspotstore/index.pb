@@ -19,8 +19,6 @@ U
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
 Å
-Q.idea/sonarlint/securityhotspotstore/b/0/b08f1ab659fbdd998f45c0def99188f980cc899b,4\e\4e028b50ffe3b3b0e5b68667516a23fa4af8c838
-Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
 Å
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
@@ -30,8 +28,6 @@ G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0
 Q.idea/sonarlint/securityhotspotstore/8/9/89d50b454fc61fb98cf7b7239be7081128384a46,9\4\94d89b880ea7bff91e2ebe5b3e67f98bd387d42d
 w
 G.idea/sonarlint/issuestore/0/0/00fea2105b00ac921b0cf5e0a21ed87d76e7a3ec,7\d\7d4e5320a33769e11ec069294f6b2c8a56bccfe9
-w
-G.idea/sonarlint/issuestore/b/0/b08f1ab659fbdd998f45c0def99188f980cc899b,f\0\f02077a62409edef2ca75d759afa0d272bb868f2
 w
 G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a\e\ae9ddf453f55affea2d6b9e3973cac1eb2efb4e1
 Å
@@ -48,3 +44,7 @@ U
 %src/MatrixExce/Excercise23Matrix.java,c\d\cd634016f31f22ea296ba39cb9a802cf95b67f75
 ]
 -src/MatrixExce/Excercise23MatrixRemaster.java,a\6\a6e61dada3bd52374f4cda4248d62708f615f155
+U
+%src/MatrixExce/Excercise24Matrix.java,e\a\eabc96fcbdf57ed5a547fc713d0fb1a0bca267f9
+]
+-src/MatrixExce/Excercise24MatrixRemaster.java,d\4\d45e94da0f4ea73411788c2de605fae4ecfb8ca6
