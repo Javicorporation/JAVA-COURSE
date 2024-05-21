@@ -6,34 +6,35 @@ public class Excercise3MatrixIrregular {
     public static void main (String[] args){
         Scanner getting = new Scanner(System.in);
 
-        int numEsx;
-        double nota = 0;
-        double suma = 0;
-        double promedio = 0;
+        int numberRows;
+        int numberColum;
+
+        System.out.print("Write a number of rows: ");
+        numberRows = getting.nextInt();
+        String [][] matrix = new String[numberRows][];
 
 
-        System.out.print("escribe el numero de estudiantes: ");
-        numEsx = getting.nextInt();
-        double [] arrayEs = new double[numEsx];
-        double[] arrayProme = new double[numEsx];
 
+        for (int i = 0; i < numberRows; i++) {
 
-        for (int i = 0; i < arrayEs.length; i++) {
-            System.out.print("Estudiante numero: "+(i+1));
-            System.out.println();
+            System.out.print("Write a number of columns: ");
+            numberColum = getting.nextInt();
+            matrix[i] = new String[numberColum];
+            getting.nextLine();
 
-            for (int j = 0; j < 3; j++) {
-                System.out.print("escribe la nota "+(j+1)+" : ");
-                nota = getting.nextDouble();
-                suma  += nota;
+            for (int j = 0; j < numberColum; j++) {
+                System.out.print("write a String: ");
+                matrix[i][j] = getting.nextLine();
             }
-            promedio = suma / 3;
-            arrayProme[i] = promedio;
-
         }
 
-        for (int i = 0; i < arrayProme.length; i++) {
-            System.out.println("na nota del alumno "+(i+1)+" es: "+arrayProme[i]);
+        System.out.println();
+        System.out.println("result");
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                System.out.print(matrix[i][j] + " ");
+            }
+            System.out.println();
         }
 
 
