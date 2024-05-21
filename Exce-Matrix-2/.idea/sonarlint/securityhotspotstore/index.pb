@@ -54,3 +54,7 @@ U
 -src/MatrixExce/Excercise25MatrixRemaster.java,f\5\f5cdf3719fb2f679aeafeedab1791dc51fdcce9f
 d
 4src/MatricesIregulares/Excercise1MatrixIregular.java,4\e\4ea4753b2358bf8e78496cb87bf170a983cc2022
+d
+4src/MatricesIregulares/Excercise2MatrixIregular.java,5\6\5618be08ba7e36cf8db321f04ee3020cfaf6194a
+m
+=src/MatricesIregulares/Excercise2MatrixIrregularRemaster.java,3\2\321c94332dce043e59ddb76d7eaf4cb907b79101
