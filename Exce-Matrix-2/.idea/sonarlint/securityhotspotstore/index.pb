@@ -58,3 +58,5 @@ d
 4src/MatricesIregulares/Excercise2MatrixIregular.java,5\6\5618be08ba7e36cf8db321f04ee3020cfaf6194a
 m
 =src/MatricesIregulares/Excercise2MatrixIrregularRemaster.java,3\2\321c94332dce043e59ddb76d7eaf4cb907b79101
+e
+5src/MatricesIregulares/Excercise3MatrixIrregular.java,2\c\2ce8f0dc56c25f5806efd790c0cc0743302282af
