@@ -5,8 +5,13 @@ public class main {
         //ClaseOperaciones operaciones = new ClaseOperaciones();
         //operaciones.mostrarMenu();
 
-        ClaseUsoDeMetodos base = new ClaseUsoDeMetodos();
-        base.personaMayor();
+        //ClaseUsoDeMetodos base = new ClaseUsoDeMetodos();
+        //base.personaMayor();
+        ClaseUsoDeMetodosConArgumentos caja = new ClaseUsoDeMetodosConArgumentos();
+        caja.buscarMayor();
+
+
+
 
 
 
