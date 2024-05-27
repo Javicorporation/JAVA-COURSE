@@ -1,0 +1,17 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø·ÏÓ8®Û’Ğö1J$d868f930-92ae-4afa-9582-75fbc50a9a4e
+o
+java:S1197",Move the array designators [][] to the type.(Íß×8ĞÛ’Ğö1J$6947c094-1fcf-43f1-a990-47e88dc5c787
+t
+java:S1197",Move the array designators [][] to the type.(¼®ëÏúÿÿÿÿ8ĞÛ’Ğö1J$135a191e-f5a3-4ab3-88fd-964898923f96
+m	java:S106"+Replace this use of System.out by a logger.(Ïó­ª8ĞÛ’Ğö1J$e2691b6c-d00a-428f-b55f-80a8e7154d80
+m	java:S106"+Replace this use of System.out by a logger.(‡ƒ è8ĞÛ’Ğö1J$4fbaea11-2353-4e73-9510-247a89fe5676
+m	java:S106"+Replace this use of System.out by a logger.(×–æ‰8ĞÛ’Ğö1J$87b258bb-565f-407e-b6f8-147f2339bf29
+ƒ	java:S125'"<This block of commented-out lines of code should be removed.(üñ™îÿÿÿÿÿ8ĞÛ’Ğö1J$a857caf5-ac61-45ab-9899-01e94d97b4e8
+~	java:S1256"<This block of commented-out lines of code should be removed.(ãÑ©Ô8×Û’Ğö1J$8ac0a248-7d01-498c-b82e-b7946ff4fdaa
+Œ
+java:S1764<"JCorrect one of the identical sub-expressions on both sides of operator "/"(ŸÂ™P8ÙÛ’Ğö1J$c00f677d-c216-4da9-956d-ab381ff18e03
+m	java:S106M"+Replace this use of System.out by a logger.(®ï8ÙÛ’Ğö1J$9a98e03c-01b7-4f55-b642-a232aee05f22
+r	java:S106P"+Replace this use of System.out by a logger.(±Æğ…úÿÿÿÿ8ÙÛ’Ğö1J$a4620de8-c480-47fe-b6f7-169c5f3faa67
+r	java:S106R"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÙÛ’Ğö1J$2770d069-e345-457c-86ad-f925ba9a90e6
+r	java:S106T"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÙÛ’Ğö1J$ff12dca1-f316-4909-9b44-9a23efaf535d

@@ -1,0 +1,25 @@
+
+›
+java:S1104"SMake getting a static final constant or non-public and provide accessors if needed.(Â†åîùÿÿÿÿ8ÊíÌ™ú1J$bea73d83-cd9d-4d4f-bcf9-40d47a801656
+›
+java:S1104"XMake msgPedirEdad a static final constant or non-public and provide accessors if needed.(é¹¶8ÊíÌ™ú1J$f16b90fd-4367-4f9e-9a9e-98427f9951b6
+¢
+java:S1104"ZMake msgPedirNombre a static final constant or non-public and provide accessors if needed.(ì®¬Éúÿÿÿÿ8ÊíÌ™ú1J$ae494851-f8c7-415d-8fb8-deaffbcb7703
+¢
+java:S1104	"ZMake msgPedirAltura a static final constant or non-public and provide accessors if needed.( úøõıÿÿÿÿ8ÊíÌ™ú1J$60d30635-9f60-4311-a65a-6ca2a233231d
+u
+java:S1444"-Make this "public static getting" field final(Â†åîùÿÿÿÿ8ÌíÌ™ú1J$8880df9c-35c4-4326-a37c-dff826528200
+u
+java:S1444"2Make this "public static msgPedirEdad" field final(é¹¶8ÌíÌ™ú1J$68f85335-803f-4943-b327-484e81b9f1e4
+|
+java:S1444"4Make this "public static msgPedirNombre" field final(ì®¬Éúÿÿÿÿ8ÌíÌ™ú1J$b231f903-dd64-4289-a1af-381619d6893b
+|
+java:S1444	"4Make this "public static msgPedirAltura" field final( úøõıÿÿÿÿ8ÌíÌ™ú1J$889575da-39a1-4bdf-8bc2-b3e48b57d1a7
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Í¤¸şÿÿÿÿ8ÎíÌ™ú1J$3b7aabc7-8570-4558-bfdd-074d017c0216
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8åíÌ™ú1J$c56e21b7-6413-49cd-b98c-abddd8caca1c
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8åíÌ™ú1J$dd84f3e9-6218-4308-82bc-ec8536f57ae8
+l	java:S106"+Replace this use of System.out by a logger.(Áƒÿ:8åíÌ™ú1J$48a999bc-a002-46cc-a40d-270fb77fd18e
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8åíÌ™ú1J$b90dc0d5-4922-4c0c-bcad-4a6c961da490
+r	java:S106"+Replace this use of System.out by a logger.(Ò‡‡²ıÿÿÿÿ8åíÌ™ú1J$c0697d53-3094-43a3-a7e6-d1d63772a6ec
+m	java:S106+"+Replace this use of System.out by a logger.(»ÃÆè8ôíÌ™ú1J$f6957b9a-bec7-4773-9c94-0ec4e37ae787
+r	java:S106-"+Replace this use of System.out by a logger.(ƒøåéùÿÿÿÿ8ôíÌ™ú1J$6c051624-8d3c-4451-882b-8056adac5c6c

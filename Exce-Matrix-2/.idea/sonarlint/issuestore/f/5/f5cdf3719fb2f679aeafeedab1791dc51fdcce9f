@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø·ÏÓ8òñúð÷1J$ce19f740-cc33-42a4-a801-9e09eb3a7efc
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÈïèÇùÿÿÿÿ8–òúð÷1J$5713a763-94b0-4111-aa21-780e3c26abf3
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œäôŸøÿÿÿÿ8–òúð÷1J$d29629e5-a78e-44aa-83cf-6f708035f4bc
+¡	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü¼ßçüÿÿÿÿ8–òúð÷1J$ca76ce57-53d8-4576-b2d6-d58a1da24bca
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8¤òúð÷1J$fed4e614-6819-44fd-84b9-48cc67e84642
+r	java:S106"+Replace this use of System.out by a logger.(úº‘žüÿÿÿÿ8¨òúð÷1J$8c5280a0-6aba-4df1-ab99-c71c3410d0eb
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¨òúð÷1J$359719d2-45b9-4b66-a287-052d54a21923
+}
+java:S1854":Remove this useless assignment to local variable "numCol".(¦®Õ°8¬òúð÷1J$624ab55e-1965-42fd-a439-86a7c0b8b29a
+n
+java:S1481"+Remove this unused "numCol" local variable.(¦®Õ°8¬òúð÷1J$b0b6088a-4a03-46f1-bb50-9c669ee0b116
+r	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8°òúð÷1J$9a21ce3b-1615-4485-9bcd-a360ab3f9bad
+m	java:S106""+Replace this use of System.out by a logger.( Úôý8°òúð÷1J$0ab94bde-083d-4f24-8021-d8cd61d92a56

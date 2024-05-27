@@ -1,0 +1,17 @@
+
+
+java:S1192"MDefine a constant instead of duplicating this literal "la suma es: " 3 times.(”ÄÍ¾8¥†Ì—ú1J$aa1871ef-7e1c-4aa5-b572-713463d97802
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Í¤¸şÿÿÿÿ8¹†Ì—ú1J$5ad1a246-7f62-46de-9b7c-b221a40187a7
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆîá«8Î†Ì—ú1J$7459c028-4b45-4f8e-9ead-b28a4877fdfd
+œ	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ¬˜³8Î†Ì—ú1J$08f5fdca-4484-4307-9788-92ef5c9e0e49
+œ	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èÔÈ¶8Î†Ì—ú1J$a3976e90-e086-44b8-b547-45ffb48fbf63
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8Ù†Ì—ú1J$2d747b30-0796-4dd9-a8fe-680e30a84319
+m	java:S106"+Replace this use of System.out by a logger.(”ÄÍ¾8Ù†Ì—ú1J$9ec2f9dd-0445-4709-99ff-ef1553412159
+m	java:S106"+Replace this use of System.out by a logger.(”ÄÍ¾8Ş†Ì—ú1J$809653e0-8348-4771-bfae-dac71355839e
+m	java:S106#"+Replace this use of System.out by a logger.(”ÄÍ¾8Ş†Ì—ú1J$ba9ba0d8-9bc4-441c-80ec-2b45968e2af3
+m	java:S106*"+Replace this use of System.out by a logger.(è¬¼æ8â†Ì—ú1J$3284af3c-31df-40a3-864d-55282e935d24
+r	java:S106+"+Replace this use of System.out by a logger.(­Ã¾×ûÿÿÿÿ8â†Ì—ú1J$fd552378-e568-4faa-8443-0a6190f134d0
+r	java:S106,"+Replace this use of System.out by a logger.(ıºÂúÿÿÿÿ8â†Ì—ú1J$49a5e416-9126-431a-a714-065f5338808b
+m	java:S106-"+Replace this use of System.out by a logger.(ëæ„÷8ã†Ì—ú1J$84b1229e-4ba2-46e9-a074-2c1a33d7ebbf
+m	java:S106;"+Replace this use of System.out by a logger.(Şò·§8ã†Ì—ú1J$947e1911-22a1-49cd-8c3b-d750e7d763d2

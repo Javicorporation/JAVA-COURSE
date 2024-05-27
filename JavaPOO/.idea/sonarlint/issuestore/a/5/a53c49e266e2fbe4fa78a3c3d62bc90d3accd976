@@ -1,0 +1,12 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8Ó²¯ú1J$525b965a-64ea-4bfc-9673-bb4ad779c771
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Í¤¸şÿÿÿÿ8Õ²¯ú1J$82ae4116-9be2-4bdb-bdd4-288c632873e5
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8Õ²¯ú1J$1b967672-3500-446d-b8ef-bab366f930f0
+~	java:S125"<This block of commented-out lines of code should be removed.(¨½æ8ß²¯ú1J$27f1d42a-547e-4ffc-a0a1-00368b6c19e3
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¾±¥ôşÿÿÿÿ8ß²¯ú1J$65345d12-aaaf-482c-a6a4-6005912ee309
+†
+java:S2440
+">Remove this instantiation of "ClaseUsoDeMetodosConArgumentos".(û¦»çÿÿÿÿÿ8öé¯ú1J$95e2f126-a3eb-42d2-af14-74578c9dbf06
+x
+java:S2209"5Change this instance-reference to a static reference.(•äßç8€é¯ú1J$bffbe868-c83a-4089-84fe-094241599873

@@ -1,0 +1,18 @@
+
+¤
+java:S1488A"aImmediately return this expression instead of assigning it to the temporary variable "resultado".(Ï¹ê8‹ôÕçù1J$8e823af3-b74d-4845-9422-c232d87f852b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†’­ìÿÿÿÿÿ8›ôÕçù1J$b0356272-ac29-466a-a73e-392d6bfaebfa
+
+java:S3518A"<Make sure "longit" can't be zero before doing this division.(Ï¹ê8ÚôÕçù1J$ab21391d-158c-4f80-84de-aded8033821c
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã‚<8ÚôÕçù1J$dfe568cf-feda-44e1-959a-d50a891aebc8
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ†óÑ8ÚôÕçù1J$925bcc92-5298-4ea8-a5bc-512691b5f4fd
+¡	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ãß£Íÿÿÿÿÿ8ÚôÕçù1J$d278996b-4c83-4c4b-85f6-2fcb0c838ccc
+|	java:S125"<This block of commented-out lines of code should be removed.(ã‚<8ñôÕçù1J$257028ad-82f7-4455-9a2a-8315e87cde01
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8ñôÕçù1J$c94f2988-c38b-4900-aad8-4bdef740a862
+m	java:S106"+Replace this use of System.out by a logger.( Úôı8ñôÕçù1J$78f5f745-96f1-4202-a675-a265c9812f8a
+r	java:S106"+Replace this use of System.out by a logger.(úº‘üÿÿÿÿ8ùôÕçù1J$5306bd06-3850-4c7b-bfed-9b194a7efca7
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8úôÕçù1J$55374033-9f6a-44e8-8e5c-0e42e6f6895f
+r	java:S106V"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8úôÕçù1J$2de5a5bc-f47f-4f77-8c0e-6850d1d26e4c
+m	java:S106W"+Replace this use of System.out by a logger.(êãêˆ8úôÕçù1J$4776ce31-c093-4e90-8bf1-068b15db5d9f
+m	java:S106X"+Replace this use of System.out by a logger.(ûÓ¥Ú8úôÕçù1J$87f72299-5313-4f64-ac91-898908c70207
+m	java:S106Y"+Replace this use of System.out by a logger.(º²’€8úôÕçù1J$e63c0f89-7682-449d-958d-458285316e74

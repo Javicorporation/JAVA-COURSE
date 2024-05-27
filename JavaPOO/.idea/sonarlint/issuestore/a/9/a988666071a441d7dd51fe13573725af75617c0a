@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Í¤¸şÿÿÿÿ8Öãî¯ú1J$eb7d327e-8897-4748-8e53-0b91bbe80321
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øğ—®8šäî¯ú1J$cfdcddad-304f-46d9-a13e-7f2cecb50c60
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æÃá¼8šäî¯ú1J$893a3412-1acb-43a4-be24-e1f477243c2f
+¡	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ‘ğûûÿÿÿÿ8šäî¯ú1J$5f8dfb9e-d319-4a20-972b-c612d2879dd7
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(×¨Ìİøÿÿÿÿ8 äî¯ú1J$fc054a3f-5bce-46fa-a441-da25758c011b
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8«äî¯ú1J$a0ff0bf6-7228-46b4-96ed-c33cee95f0fe
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(å……üûÿÿÿÿ8®äî¯ú1J$98035fce-c94f-4aba-a927-9d739d2e300e
+r	java:S106"+Replace this use of System.out by a logger.(©©Îèúÿÿÿÿ8®äî¯ú1J$d550e3d4-f383-4450-8c1a-45e6891433dc
+r	java:S106:"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8µäî¯ú1J$0d655d02-c722-46d4-bc37-a8cb10b8bbcb
+r	java:S106;"+Replace this use of System.out by a logger.(Š¯áşÿÿÿÿ8µäî¯ú1J$8e08f1a7-3fb6-471e-9be6-7a81d47a012a
+m	java:S106<"+Replace this use of System.out by a logger.(–Ìø8î–õ¯ú1J$243e14da-ec29-48bd-83d4-43ba2b685476

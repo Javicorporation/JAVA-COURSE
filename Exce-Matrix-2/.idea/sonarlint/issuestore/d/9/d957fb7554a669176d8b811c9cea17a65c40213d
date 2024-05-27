@@ -1,0 +1,25 @@
+
+’
+java:S1192"PDefine a constant instead of duplicating this literal "The result is: " 3 times.(œ±–E8äûÅÎö1J$03c38a53-94cd-4485-bbcd-79749bf961e8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø·ÏÓ8®—ÂÎö1J$3b5ee764-c6be-476f-ab7e-289db0171fa7
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8À™ÂÎö1J$e4aec29b-a9ec-431f-97a5-3b03ebc8efb2
+o
+java:S1197
+",Move the array designators [][] to the type.(Íß×8Î™ÂÎö1J$af03cc85-29c2-4236-8b8e-687df5cc2253
+t
+java:S1197",Move the array designators [][] to the type.(¼®ëÏúÿÿÿÿ8Î™ÂÎö1J$42283111-bdb0-4e99-b0c3-3a3a7dbce108
+m	java:S106"+Replace this use of System.out by a logger.(Æà®æ8Ò™ÂÎö1J$04337084-2bd3-4e0e-9567-73d13cf39c3a
+r	java:S106"+Replace this use of System.out by a logger.(å¸Åÿúÿÿÿÿ8Ó™ÂÎö1J$51069fc0-d8e1-41fa-b74a-7f1cb27779c6
+r	java:S106"+Replace this use of System.out by a logger.(º‘×ˆıÿÿÿÿ8×™ÂÎö1J$ece5e946-3adb-47a8-a0f2-ef84466252be
+l	java:S106"+Replace this use of System.out by a logger.(œ±–E8Ú™ÂÎö1J$4b39471f-e5c6-4665-80b7-f4bfce4e7168
+r	java:S106&"+Replace this use of System.out by a logger.(ûÿ­ıÿÿÿÿ8Ş™ÂÎö1J$a05a05bd-994c-4763-b2c3-26f2dee54296
+r	java:S106("+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ş™ÂÎö1J$1fde1c51-d4b6-4a6e-b08e-92e76d697540
+l	java:S106,"+Replace this use of System.out by a logger.(œ±–E8Ş™ÂÎö1J$7dfdce49-8504-4d6f-8ce7-e3e8e2fa0d5a
+
+java:S1764/"JCorrect one of the identical sub-expressions on both sides of operator "-"(ß†–Ü8¨ÊÂÎö1J$5b3058e2-c2d0-4163-885d-34be25eb6682
+r	java:S1066"+Replace this use of System.out by a logger.(ûÿ­ıÿÿÿÿ8ÿÅÎö1J$37bc2034-dc2b-44bc-8a29-199e9f802bc6
+r	java:S1068"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ø²ÊÎö1J$73504155-ac51-4193-92d7-bcc05bad5904
+l	java:S106;"+Replace this use of System.out by a logger.(œ±–E8š·ÎÎö1J$1fc10565-c78f-4532-adc7-3cb7af5dd4fa
+r	java:S106E"+Replace this use of System.out by a logger.(ûÿ­ıÿÿÿÿ8Ğ°ÏÎö1J$6bef55a1-7fc7-419b-8332-ad70804968f1
+r	java:S106G"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘ØÑÎö1J$da515b2a-cba1-43ac-9306-1e805e76a43f

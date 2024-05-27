@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø·ÏÓ8ƒ™ï÷1J$76c4f360-d977-44d3-8de3-7c9d96be6c09
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·Ñ¿•úÿÿÿÿ8 ƒ™ï÷1J$e6acccd5-85ad-49d5-9b61-7692cf8c00b6
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿíÖ†şÿÿÿÿ8 ƒ™ï÷1J$0375c365-7b56-4fc7-9009-ce095f02cc2a
+¡	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©¦¸Ñşÿÿÿÿ8 ƒ™ï÷1J$d18bc5fb-dfcc-4237-a395-5e352be55a74
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8 ƒ™ï÷1J$f9273455-268f-4714-a73b-c0f33244c4b6
+m	java:S106"+Replace this use of System.out by a logger.(â²ƒ‚8¯ƒ™ï÷1J$fb2a8a45-cbfc-4475-bfe7-96143ad3f833
+r	java:S106"+Replace this use of System.out by a logger.(’‘ùÓüÿÿÿÿ8¯ƒ™ï÷1J$4ff7ce2e-426c-45a8-8804-039df518f026
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¯ƒ™ï÷1J$1a1902e3-c9db-4595-bc16-f8130d08c01f
+~
+java:S1854";Remove this useless assignment to local variable "numCols".(ÑÌÊ£8Áïï÷1J$ded5d2d8-0d84-4015-a9a7-34025cbf658a
+o
+java:S1481",Remove this unused "numCols" local variable.(ÑÌÊ£8‘Áïï÷1J$4e78e634-e73c-434d-b4b0-b7428afd82cd
+m	java:S106+"+Replace this use of System.out by a logger.(î—øŒ8İ•Ÿï÷1J$f09b24cc-322e-4d7f-a82f-db067ea8e2d4
+r	java:S106."+Replace this use of System.out by a logger.(úº‘üÿÿÿÿ8é•Ÿï÷1J$62522025-5665-434b-8825-ec0eb66bb596
+r	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¾­ï÷1J$a08823bb-08be-4935-8166-3eb2a7474c26
