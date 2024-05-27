@@ -42,3 +42,7 @@ Q.idea/sonarlint/securityhotspotstore/a/9/a988666071a441d7dd51fe13573725af75617c
 Q.idea/sonarlint/securityhotspotstore/4/e/4e96ef769353ab54220dae70d2aa995d28714f1b,0\c\0cf42ca6d46404912fd783bba8950ff34f83496b
 Å
 Q.idea/sonarlint/securityhotspotstore/5/3/53ce523875859c627c9bf6f8a1d20026d56c8b45,0\f\0f38073db370536d1b0527746459971386a27e8e
+O
+src/SobrecargaMetodos/Main.java,7\a\7a011f042ace95a1eab2db182a255e82752ae73c
+f
+6src/SobrecargaMetodos/SobrecargaMetodoConstructor.java,6\f\6fa78632cb7f23cb4474c3c5f4be3c7fa10e69e8
