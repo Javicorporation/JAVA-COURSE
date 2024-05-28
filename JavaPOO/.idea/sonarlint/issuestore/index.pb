@@ -54,3 +54,7 @@ P
  src/Encapsulamiento/Persona.java,1\9\19dec0d292a74c3da08b68a4058735c03420cdb8
 M
 src/Encapsulamiento/Main.java,c\f\cf79123cb7275e9f2635eadfe3387541e945a43e
+H
+src/Constantes/Main.java,6\1\6132a935984074e6cd458b065b537d870b967193
+U
+%src/Constantes/ValoresConstantes.java,4\0\4056443cdeb1c8e1e8b6f3d3567cc4c27c7f85ed
