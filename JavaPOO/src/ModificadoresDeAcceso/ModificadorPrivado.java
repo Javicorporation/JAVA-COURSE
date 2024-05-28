@@ -7,7 +7,7 @@ public class ModificadorPrivado {
 
 
     // si el constructor es privado causara un problema al instanciar la clase en otra clase
-    private ModificadorPrivado (int edad, String nombre){
+    public ModificadorPrivado (int edad, String nombre){
         this.edad = edad;
         this.nombre = nombre;
     }

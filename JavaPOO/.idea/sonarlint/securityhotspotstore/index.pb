@@ -50,3 +50,7 @@ a
 1src/ModificadoresDeAcceso/ModificadorPrivado.java,2\6\26412119ea6ab839aa870f8c07ffc1ee415737ad
 S
 #src/ModificadoresDeAcceso/Main.java,e\c\eceec66acc20f50911fdf1b121e98a150ae89c3d
+P
+ src/Encapsulamiento/Persona.java,1\9\19dec0d292a74c3da08b68a4058735c03420cdb8
+M
+src/Encapsulamiento/Main.java,c\f\cf79123cb7275e9f2635eadfe3387541e945a43e
