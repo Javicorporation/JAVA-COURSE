@@ -46,3 +46,7 @@ O
 src/SobrecargaMetodos/Main.java,7\a\7a011f042ace95a1eab2db182a255e82752ae73c
 f
 6src/SobrecargaMetodos/SobrecargaMetodoConstructor.java,6\f\6fa78632cb7f23cb4474c3c5f4be3c7fa10e69e8
+a
+1src/ModificadoresDeAcceso/ModificadorPrivado.java,2\6\26412119ea6ab839aa870f8c07ffc1ee415737ad
+S
+#src/ModificadoresDeAcceso/Main.java,e\c\eceec66acc20f50911fdf1b121e98a150ae89c3d
