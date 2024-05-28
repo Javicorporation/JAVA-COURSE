@@ -58,3 +58,7 @@ H
 src/Constantes/Main.java,6\1\6132a935984074e6cd458b065b537d870b967193
 U
 %src/Constantes/ValoresConstantes.java,4\0\4056443cdeb1c8e1e8b6f3d3567cc4c27c7f85ed
+G
+src/Estaticos/Main.java,a\e\ae19de89642f138b7dd4824fca874179aef86fef
+I
+src/Estaticos/Humano.java,b\b\bbd821ae2fd0cb6aa42d19e7d5e2c32335bd9db1
