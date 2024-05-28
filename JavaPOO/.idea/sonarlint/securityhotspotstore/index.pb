@@ -62,3 +62,7 @@ G
 src/Estaticos/Main.java,a\e\ae19de89642f138b7dd4824fca874179aef86fef
 I
 src/Estaticos/Humano.java,b\b\bbd821ae2fd0cb6aa42d19e7d5e2c32335bd9db1
+L
+src/MetodoToString/Main.java,a\e\aec47f6ddbd397a623b93c6d0dc6319aa62ec4fc
+V
+&src/MetodoToString/ToStringMetodo.java,3\a\3a5744bbf82c83bee197c0bb8d7bd3472c414ded

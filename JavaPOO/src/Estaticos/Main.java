@@ -2,7 +2,22 @@ package Estaticos;
 
 public class Main {
 
+    // si el metodo estatico esta creado en la misma clase que la clase main  tampoco debes crear un objeto de ella
+    public static void estoyAqui(){
+        System.out.println("estoy aqui");
+    }
+
+
+
+
+
+
+
     public static void main(String[] args) {
+        // es un ejemplo
+        Main.estoyAqui();
+
+
         //aqui
         // podemos acceder a los metodos de la clase Humano.java
         // por que son static y pertenecen a la clase y no al objeto
