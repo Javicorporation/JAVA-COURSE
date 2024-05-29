@@ -3,18 +3,18 @@ package EjerciciosPOO;
 import java.util.Scanner;
 
 public class Areas {
-    public final static Scanner getting = new Scanner(System.in);
-
+    public static final Scanner getting = new Scanner(System.in);
+    public static final String msgPedirLado = "\nEscriba un lado del cuadrado: ";
+    public static final String msgPedirRadio = "\nEscriba el radio del circulo: ";
+    public static final String msgPedirBase = "\nEscriba la base: ";
+    public static final String msgPedirAltura = "Escriba la altura: ";
 
     public  static double pedir(String message){
-        System.out.println(message);
-        return getting.nextInt();
+        System.out.print(message);
+        return getting.nextDouble();
     }
 
-
-
-
-    public static void presentador2(){
+    public static void presentadorDeAreas(){
         int opcion;
         boolean salir = false;
 
@@ -37,21 +37,20 @@ public class Areas {
 
             switch (opcion){
                 case 1:
-                    double resultado1 = 0;
-
-                    System.out.println("el area del cuadrado es: "+resultado1);
+                    double resultado11 = areaDeUnCuadrado();
+                    System.out.println("el area del cuadrado es: "+resultado11);
                     break;
                 case 2:
-                    double resultado2 = 0;
+                    double resultado2 = areaDeUnTriangulo();
                     System.out.println("el area del un triangulo es: "+ resultado2);
                     break;
                 case 3:
-                    double resultado3 = 0;
+                    double resultado3 = areaDeUnCirculo();
 
                     System.out.println("el area del circulo es: "+resultado3);
                     break;
                 case 4:
-                    double resultado4 = 0;
+                    double resultado4 = areaDeUnRectangulo();
 
                     System.out.println("el area del rectangulo es: "+resultado4);
                     break;
@@ -61,21 +60,34 @@ public class Areas {
                     break;
                 default:
                     System.out.println("el numero no esta en el menu.");
-
-
             }
         }while (!salir);
-
-
-
-
-
     }
 
+    public static double areaDeUnCuadrado(){
+        double lado = pedir(msgPedirLado);
+        double resultado = 4 * lado;
+        return resultado;
+    }
 
+    public static double areaDeUnTriangulo(){
+        double base = pedir(msgPedirBase);
+        double altura = pedir(msgPedirAltura);
+        double resultado = (base * altura)/2;
+        return resultado;
+    }
 
+    public static double areaDeUnCirculo(){
+        final double pi = 3.141516;
+        double radio = pedir(msgPedirRadio);
+        double resultado = pi*(radio*radio);
+        return resultado;
+    }
 
-
-
-
+    public static double areaDeUnRectangulo(){
+        double base = pedir(msgPedirBase);
+        double altura = pedir(msgPedirAltura);
+        double resultado = base * altura;
+        return resultado;
+    }
 }

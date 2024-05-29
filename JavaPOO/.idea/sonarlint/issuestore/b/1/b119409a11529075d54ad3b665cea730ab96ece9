@@ -1,4 +1,9 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚‰ÒÜúÿÿÿÿJ$900b2de7-8534-4213-a621-7c6493828aeb
-Š
-java:S2094"BRemove this empty class, write its code or make it an "interface".(àÀ˜Úøÿÿÿÿ8ÆÖª¬ü1J$d53eae86-9e36-4d59-9818-163876f9d7b9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚‰ÒÜúÿÿÿÿ8Òˆ‡µü1J$21b210bd-33bf-4b1d-a0b3-0a58db39ce73
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â›øÎ8Òˆ‡µü1J$36be46db-e0d7-40d2-837d-06d7f270ab98
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ¡¦8Òˆ‡µü1J$7fccb9d2-9c53-4bf9-84a6-8f88d8263281
+œ	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™Ÿş€8Òˆ‡µü1J$27609637-d1f2-433d-b7ce-805581b31ca8
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(àÀ˜Úøÿÿÿÿ8åˆ‡µü1J$acbd66da-d688-48fe-b4a9-19f47332a431
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8òˆ‡µü1J$f1eec887-1798-4564-8542-570d8af1be1a
+m	java:S106"+Replace this use of System.out by a logger.(³¥’¤8ôˆ‡µü1J$e132438d-33aa-44d4-adb8-f87434cd4be8

@@ -1,6 +1,7 @@
 package EjerciciosPOO.Ejecutador;
 
 import EjerciciosPOO.Areas;
+import EjerciciosPOO.Heron;
 import EjerciciosPOO.Perimetros;
 
 import java.util.Scanner;
@@ -9,9 +10,6 @@ public class Ejecutador {
     public static final Scanner getting = new Scanner(System.in);
     public static final String msgValidarLetra = "el caracter ingresado no es un numero o no esta en el menu";
     public static final String msgValidarNumero= "el valor ingresado no exixte en el menu";
-
-
-
 
     public static void menu(){
         int opcion ;
@@ -31,15 +29,16 @@ public class Ejecutador {
                 getting.next();
                 continue;
             }
+
             switch (opcion){
                 case 1:
-                    Perimetros.presentador();
+                    Perimetros.presentadorDePerimetros();
                     break;
                 case 2:
-                    Areas.presentador2();
+                    Areas.presentadorDeAreas();
                     break;
                 case 3:
-                    System.out.println();
+                    Heron.presentadorDeHeron();
                     break;
                 case 4:
                     System.out.println("Adios");
@@ -48,11 +47,7 @@ public class Ejecutador {
                 default:
                     System.out.println(msgValidarNumero);
             }
-
-
         }while (!salir);
-
-
 
     }
 }

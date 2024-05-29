@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Perimetros {
     public static final Scanner getting = new Scanner(System.in);
     public static final String msgPedirlado1 = "Escriba el primer lado: ";
-    public static final String msgPedirlado2 = " Escribe el segundo lado: ";
+    public static final String msgPedirlado2 = "Escribe el segundo lado: ";
     public static final String msgPedirlado3 = "Escribe el tercer lado: ";
     public static final String msgPedirRadio = "Escribe el radio: ";
     public static final String msgPedirBase = "Escribe la base: ";
@@ -14,13 +14,13 @@ public class Perimetros {
 
 
     public static double pedir(String message){
-        System.out.println(message);
+        System.out.print(message);
         return getting.nextDouble();
     }
 
 
 
-    public static void presentador(){
+    public static void presentadorDePerimetros(){
         int opcion;
         boolean salir = false;
 
@@ -44,7 +44,6 @@ public class Perimetros {
                 case 1:
                     double resultado1 = perimetroDeUnCuadrado();
                     System.out.print("el perimetro del cuadrado es: "+resultado1);
-                    System.out.println(" ");
                     break;
                 case 2:
                     double resultado2 = perimetroDeUnCuadrado();
@@ -83,4 +82,29 @@ public class Perimetros {
         double resultado = lado1 + lado2;
         return resultado;
     }
+
+    public static double perimetrosDeUnTriangulo(){
+        double lado1 = pedir(msgPedirlado1);
+        double lado2 = pedir(msgPedirlado2);
+        double lado3 = pedir(msgPedirlado3);
+
+        double resultado = lado1 + lado2 + lado3;
+        return resultado;
+    }
+
+    public static double perimetroDeUnCirculo(){
+        final double pi = 3.1416;
+        double radio = pedir(msgPedirRadio);
+        double resultado = 2 * pi * radio;
+        return resultado;
+    }
+
+    public static double perimetroDeUnRectangulo(){
+        double base = pedir(msgPedirBase);
+        double altura = pedir(msgPedirAltura);
+        double resultado = 2*(altura+base);
+        return resultado;
+    }
+
+
 }
