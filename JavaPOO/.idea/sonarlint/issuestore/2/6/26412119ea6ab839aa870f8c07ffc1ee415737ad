@@ -1,0 +1,9 @@
+
+“
+java:S1104"PMake edad a static final constant or non-public and provide accessors if needed.(ÛÂº¨8²²èû1J$ba7ad23f-58a9-4e0e-a773-60e8f05f0ba1
+š
+java:S1104"RMake nombre a static final constant or non-public and provide accessors if needed.(¯‰–‚úÿÿÿÿ8²²èû1J$4dca9737-c49a-484e-8543-95cfe9cc69ef
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÿçÂıÿÿÿÿ8²²èû1J$1915b30a-8a45-4044-a3d9-bc5f16fe9b1e
+r	java:S106"+Replace this use of System.out by a logger.(»É´ışÿÿÿÿ8É²èû1J$acf53438-c819-4169-ba2b-a32ec6a45cdf
+m	java:S106"+Replace this use of System.out by a logger.(êøøÿ8É²èû1J$dc30a8cd-9714-49db-860c-60b262307f11
+r	java:S106 "+Replace this use of System.out by a logger.(‰’°ûÿÿÿÿ8É²èû1J$ef70a90b-d22c-4614-ac7b-07889ac41c9e

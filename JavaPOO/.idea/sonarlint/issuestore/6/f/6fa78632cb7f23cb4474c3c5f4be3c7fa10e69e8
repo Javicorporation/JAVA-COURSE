@@ -1,0 +1,11 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÊÉ08×ü¿àû1J$b6716e79-dab2-48ff-adbb-192f2f8844b2
+m	java:S106
+"+Replace this use of System.out by a logger.(ÇÕÌ°8èü¿àû1J$598f4f02-0ea1-4f5b-822d-6ef34c5370de
+m	java:S106"+Replace this use of System.out by a logger.(Çßº8²”Âàû1J$b0384e45-e4c9-4ff8-9044-31cae8a716dc
+m	java:S106"+Replace this use of System.out by a logger.(Çßº8ÍÜÎàû1J$0a97b854-aa81-4d1e-a42e-6899be824e23
+m	java:S106"+Replace this use of System.out by a logger.(ÇÕÌ°8¾ƒÓàû1J$dc8a664f-7a47-427c-9c52-dbe69562298d
+r	java:S106"+Replace this use of System.out by a logger.(ãç“çùÿÿÿÿ8œ×àû1J$625c8cec-e0fb-4119-a3b0-872ef2611c5d
+r	java:S106"+Replace this use of System.out by a logger.(¦ÁåÖıÿÿÿÿ8œ×àû1J$74cb1ecc-d168-46a7-9cbf-f534c199259f
+w
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8º¿×àû1J$a5103ea9-7e02-4a2e-a422-a218814e294a

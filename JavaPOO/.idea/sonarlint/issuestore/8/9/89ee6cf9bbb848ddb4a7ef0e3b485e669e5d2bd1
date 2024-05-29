@@ -1,0 +1,23 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚‰ÒÜúÿÿÿÿ8®ƒ±ü1J$61110ccb-9b84-4b95-aeed-4cbc75716710
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(³•Ş‘úÿÿÿÿ8œƒ±ü1J$29e54e0d-407f-4fc6-b3ae-5e2635387578
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(²Ì£8¬ƒ±ü1J$ee56a296-b50f-421b-90aa-c0273e88423c
+r	java:S106
+"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8²ƒ±ü1J$0ca61b9c-59ca-413a-baf3-e64c18b4a98f
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¶ƒ±ü1J$ff2ae0a5-890d-48d0-9c30-824d52a6eb1a
+m	java:S106"+Replace this use of System.out by a logger.(ÎÚœª8¶ƒ±ü1J$e95a5e97-9785-4bab-a16c-eb52420c8cb8
+r	java:S106"+Replace this use of System.out by a logger.(•ÆØ­ÿÿÿÿÿ8¶ƒ±ü1J$c1f3e513-b7f6-4fc6-8464-c0cd354c7e62
+m	java:S106"+Replace this use of System.out by a logger.(Ãı»ì8¶ƒ±ü1J$fb5eccd8-a2a9-489f-a1fa-c559f28c35f7
+m	java:S106"+Replace this use of System.out by a logger.(Ä™¼Ä8¶ƒ±ü1J$04f03fc0-92c3-41a6-a286-3345a4459f8a
+m	java:S106"+Replace this use of System.out by a logger.(º‹È‚8¼ƒ±ü1J$1b0ce5cc-42fc-4b3f-a9e6-3a956e515afd
+r	java:S106"+Replace this use of System.out by a logger.(¾€¹úÿÿÿÿ8Ìƒ±ü1J$6cf4e65d-78d2-4f22-9704-7e42487e0be4
+m	java:S106"+Replace this use of System.out by a logger.(©…ù×8Üƒ±ü1J$3d4d90de-932d-4695-a0b7-28d65f9c3d53
+r	java:S106!"+Replace this use of System.out by a logger.(¶€‘ÿÿÿÿÿ8ìƒ±ü1J$fcec9586-d194-49f0-a86d-c7fe1959b4f2
+r	java:S106*"+Replace this use of System.out by a logger.(ĞÈ‹´øÿÿÿÿ8ûƒ±ü1J$c34acd41-bd8e-4969-b8e7-db1047ef51d8
+r	java:S106."+Replace this use of System.out by a logger.(­¹¯“ûÿÿÿÿ8Œƒ±ü1J$cf72fa07-1d28-46b8-8515-208c492547e1
+m	java:S1063"+Replace this use of System.out by a logger.(Â³üà8›ƒ±ü1J$e3091d6b-d25c-455c-884c-a58efeb27b59
+r	java:S1068"+Replace this use of System.out by a logger.(øèŸƒüÿÿÿÿ8«ƒ±ü1J$b8e1e3b0-c932-44ef-9806-f04554cdf172
+m	java:S106;"+Replace this use of System.out by a logger.(ÁÖæø8»ƒ±ü1J$de2146d6-befb-4ce3-926a-b88f5e5f770e
+r	java:S106?"+Replace this use of System.out by a logger.(›Üœ³úÿÿÿÿ8Ëƒ±ü1J$c8d2d485-796b-47f4-9ed6-f2a565dd5f0f

@@ -1,0 +1,7 @@
+
+˜
+java:S1104"PMake edad a static final constant or non-public and provide accessors if needed.(³¿™ûùÿÿÿÿ8¯’Ã‡ü1J$5858df87-0762-48d1-9195-0fd500b2065c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œñÕÉ8Òµ»‡ü1J$8b944dd0-a426-4110-a33e-e33944754654
+d
+java:S1170"!Make this final field static too.(¿ÖºÙ8Ôµ»‡ü1J$6deb23b1-f1f6-4008-852d-7374e3f54b0a
+r	java:S106"+Replace this use of System.out by a logger.(Æ›‘°þÿÿÿÿ8âµ»‡ü1J$3bc02ddc-5c34-4459-a692-276b6851e35f

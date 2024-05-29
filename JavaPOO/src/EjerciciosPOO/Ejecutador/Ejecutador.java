@@ -1,5 +1,8 @@
 package EjerciciosPOO.Ejecutador;
 
+import EjerciciosPOO.Areas;
+import EjerciciosPOO.Perimetros;
+
 import java.util.Scanner;
 
 public class Ejecutador {
@@ -7,19 +10,20 @@ public class Ejecutador {
     public static final String msgValidarLetra = "el caracter ingresado no es un numero o no esta en el menu";
     public static final String msgValidarNumero= "el valor ingresado no exixte en el menu";
 
+
+
+
     public static void menu(){
-        boolean salir = true;
-        int opcion = 0;
+        int opcion ;
+        boolean salir = false;
 
         do {
-            System.out.println();
-            System.out.println("-------- MENU -----------");
-            System.out.println("1.");
-            System.out.println("2.");
-            System.out.println("3.");
+            System.out.println("\n-------- MENU -----------");
+            System.out.println("1. Calcular Perimetros");
+            System.out.println("2. Calcular Area");
+            System.out.println("3. Calcular Heron");
             System.out.println("4. Salir");
             System.out.print("Escribe una opcion: ");
-
             if(getting.hasNextInt()){
                 opcion = getting.nextInt();
             }else{
@@ -27,24 +31,26 @@ public class Ejecutador {
                 getting.next();
                 continue;
             }
-
             switch (opcion){
                 case 1:
+                    Perimetros.presentador();
                     break;
                 case 2:
+                    Areas.presentador2();
                     break;
                 case 3:
+                    System.out.println();
                     break;
                 case 4:
                     System.out.println("Adios");
-                    salir = false;
+                    salir = true;
                     break;
                 default:
                     System.out.println(msgValidarNumero);
             }
 
 
-        }while (salir == true);
+        }while (!salir);
 
 
 

@@ -1,0 +1,23 @@
+
+“	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üğºš8§Ê½ˆü1J$7348d73d-e524-42ec-97fc-c2a8afe38466
+“	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üğºš8§Ê½ˆü1J$a88ef0bd-9030-404e-980b-bb2fe813fdd1
+˜
+java:S1104"PMake edad a static final constant or non-public and provide accessors if needed.(¢ËÊüÿÿÿÿ8³«êˆü1J$28e0a021-e099-48fc-bd22-6b14f4d006c8
+’
+java:S1104	"PMake sexo a static final constant or non-public and provide accessors if needed.(£Ï»d8àœèˆü1J$dbb62e47-cc2c-4cbe-8a5d-4b137810ef14
+r
+java:S1444"*Make this "public static edad" field final(¢ËÊüÿÿÿÿ8³«êˆü1J$3f708e94-5235-476d-82d9-e4e10e7f0ee7
+l
+java:S1444	"*Make this "public static sexo" field final(£Ï»d8‘‚ñˆü1J$26499feb-cfbf-48cb-a764-d0c26e19be97
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ’­šøÿÿÿÿ8§Ê½ˆü1J$b73f9911-da97-4ec5-8c7e-d0b86fba6858
+c
+java:S1170"!Make this final field static too.(¡ém8ÂÊ½ˆü1J$fb6ae5c9-f13c-43d5-a0bf-8bd192af167c
+d
+java:S1170"!Make this final field static too.(°ÜˆÊ8ÄÊ½ˆü1J$5c22bbdb-5a05-41c9-9bcf-493d810491af
+m	java:S106"+Replace this use of System.out by a logger.(…¿Ê¼8ÇÊ½ˆü1J$345cfb64-432c-4ce7-ba64-57150c219849
+m	java:S106"+Replace this use of System.out by a logger.(àûÃı8ÒÊ½ˆü1J$1a8d810f-fb5c-46c9-9dd5-a98537eae8a7
+r	java:S106"+Replace this use of System.out by a logger.(üãæäÿÿÿÿÿ8ÒÊ½ˆü1J$10c0e523-8bee-413b-98de-a151536f3bef
+m	java:S106"+Replace this use of System.out by a logger.(§âƒ¸8ÒÊ½ˆü1J$3b8c037a-ca68-44a4-8811-ef0ae07b67cd
+m	java:S106"+Replace this use of System.out by a logger.(ù÷¥ë8ÒÊ½ˆü1J$cedba2e7-5f35-4cc6-a2a5-57689dd31ca3
+r	java:S106"+Replace this use of System.out by a logger.(ãÃá—ÿÿÿÿÿ8ÒÊ½ˆü1J$7025b67b-f68f-4378-9ab0-a7208abc47e2
+r	java:S106"+Replace this use of System.out by a logger.(Ó»¶ùÿÿÿÿ8ÖÊ½ˆü1J$3b27dede-eec7-44e4-b22f-7cb1f3f3edce
