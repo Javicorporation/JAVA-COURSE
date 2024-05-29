@@ -66,3 +66,15 @@ L
 src/MetodoToString/Main.java,a\e\aec47f6ddbd397a623b93c6d0dc6319aa62ec4fc
 V
 &src/MetodoToString/ToStringMetodo.java,3\a\3a5744bbf82c83bee197c0bb8d7bd3472c414ded
+K
+src/EjerciciosPOO/Main.java,d\e\de84c4012881db87400e310ea0c7ee9a8e4700b9
+Q
+!src/EjerciciosPOO/Perimetros.java,f\f\ff757e2426ffb07b5535b3cfd617699dd693b0ff
+L
+src/EjerciciosPOO/Areas.java,8\9\89ee6cf9bbb848ddb4a7ef0e3b485e669e5d2bd1
+L
+src/EjerciciosPOO/Heron.java,b\1\b119409a11529075d54ad3b665cea730ab96ece9
+V
+&src/EjerciciosPOO/Ejecutador/Main.java,a\6\a6b3e648217a4e15db4973506f13f6c40420f122
+\
+,src/EjerciciosPOO/Ejecutador/Ejecutador.java,7\1\7179cedf7e144b469368ce0119dfe41da8e44f1d
