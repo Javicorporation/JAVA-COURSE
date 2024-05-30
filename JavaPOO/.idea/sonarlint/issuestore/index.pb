@@ -162,3 +162,5 @@ G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a\e\ae
 Q.idea/sonarlint/securityhotspotstore/f/c/fcdfe0ce9f04476c9af29180620dc8fc7e6e4ae6,4\c\4cb4d68b87bd348dce0e7b4a301fa32738d81672
 Å
 Q.idea/sonarlint/securityhotspotstore/8/9/89ee6cf9bbb848ddb4a7ef0e3b485e669e5d2bd1,1\d\1d1402d6e4f06fe79a1def8d2c77d51b168b6174
+V
+&src/EjerciciosPOO/Ejecutador/Base.java,1\3\133d814def46c595906994e6f62d93fc50ca7af5

@@ -14,6 +14,9 @@ public class Ejecutador {
     public static void menu(){
         int opcion ;
         boolean salir = false;
+        Areas areas = new Areas();
+        Heron heron = new Heron();
+        Perimetros perimetros = new Perimetros();
 
         do {
             System.out.println("\n-------- MENU -----------");
@@ -32,13 +35,13 @@ public class Ejecutador {
 
             switch (opcion){
                 case 1:
-                    Perimetros.presentadorDePerimetros();
+                    perimetros.presentadorDePerimetros();
                     break;
                 case 2:
-                    Areas.presentadorDeAreas();
+                    areas.presentadorDeAreas();
                     break;
                 case 3:
-                    Heron.presentadorDeHeron();
+                    heron.presentadorDeHeron();
                     break;
                 case 4:
                     System.out.println("Adios");

@@ -11,16 +11,16 @@ public class Heron {
 
 
 
-    public static  void presentadorDeHeron(){
+    public void presentadorDeHeron(){
         hero();
     }
 
-    public static double pedir (String message){
+    public double pedir (String message){
         System.out.print(message);
         return getting.nextDouble();
     }
 
-    public static  void hero(){
+    public void hero(){
         double lado1 = pedir(msgLado1);
         double lado2 = pedir(msgLado2);
         double lado3 = pedir(msgLado3);

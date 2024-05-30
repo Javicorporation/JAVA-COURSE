@@ -9,14 +9,11 @@ public class Areas {
     public static final String msgPedirBase = "\nEscriba la base: ";
     public static final String msgPedirAltura = "Escriba la altura: ";
 
-    public  static double pedir(String message){
-        System.out.print(message);
-        return getting.nextDouble();
-    }
 
-    public static void presentadorDeAreas(){
+    public void presentadorDeAreas(){
         int opcion;
         boolean salir = false;
+        Areas areas = new Areas();
 
         do {
             System.out.println();
@@ -34,11 +31,10 @@ public class Areas {
                 getting.next();
                 continue;
             }
-
             switch (opcion){
                 case 1:
-                    double resultado11 = areaDeUnCuadrado();
-                    System.out.println("el area del cuadrado es: "+resultado11);
+                    double resultado1 = areas.areaDeUnCuadrado();
+                    System.out.println("el area del cuadrado es: "+resultado1);
                     break;
                 case 2:
                     double resultado2 = areaDeUnTriangulo();
@@ -64,24 +60,42 @@ public class Areas {
         }while (!salir);
     }
 
-    public static double areaDeUnCuadrado(){
-        double lado = pedir(msgPedirLado);
-        return 4 * lado;
+    public double pedir(String message){
+        boolean sali = false;
+        double valor = 0;
+        do {
+            System.out.print(message);
+            if (getting.hasNextDouble()){
+                valor = getting.nextDouble();
+                sali = true;
+                break;
+            }else {
+                System.out.println("El numero decimal noo es valido.");
+                getting.next();
+
+            }
+        }while (!sali);
+        return valor;
     }
 
-    public static double areaDeUnTriangulo(){
+    public double areaDeUnCuadrado(){
+        double lado = pedir(msgPedirLado);
+        return lado * lado;
+    }
+
+    public double areaDeUnTriangulo(){
         double base = pedir(msgPedirBase);
         double altura = pedir(msgPedirAltura);
         return (base * altura)/2;
     }
 
-    public static double areaDeUnCirculo(){
+    public double areaDeUnCirculo(){
         final double pi = 3.141516;
         double radio = pedir(msgPedirRadio);
         return  pi*(radio*radio);
     }
 
-    public static double areaDeUnRectangulo(){
+    public double areaDeUnRectangulo(){
         double base = pedir(msgPedirBase);
         double altura = pedir(msgPedirAltura);
         return base * altura;

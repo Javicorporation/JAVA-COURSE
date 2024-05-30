@@ -12,18 +12,29 @@ public class Perimetros {
     public static final String msgPedirAltura = "Escribe la altura: ";
     public static final String msgOpcion = "Escribe una opcion: ";
 
-
-    public static double pedir(String message){
-        System.out.print(message);
-        return getting.nextDouble();
+    // si creamos un metodo metodo static no podemos instancialo en un metodo de instanciacion
+    public double pedir(String message){ // a este metodo pedir validamos que ingrese un decimal
+        boolean sali = false;
+        double valor = 0;
+        do {
+            if (getting.hasNextDouble()) {
+                valor = getting.nextDouble();
+                sali = true;
+                break;
+            }else {
+                System.out.println("El numero decimal noo es valido.");
+                getting.next();
+                continue;
+            }
+        }while (!sali);
+        return valor;
     }
 
 
 
-    public static void presentadorDePerimetros(){
+    public void presentadorDePerimetros(){
         int opcion;
         boolean salir = false;
-
         do {
             System.out.println("\n-------- MENU -----------");
             System.out.println("1. Calcular Perimetros del un cuadrado");
@@ -32,11 +43,13 @@ public class Perimetros {
             System.out.println("4. Calcular Perimetros del un resctangulo");
             System.out.println("5. Salir");
             System.out.print(msgOpcion);
-            if (getting.hasNextInt()){
-                opcion = getting.nextInt();
+
+            // validacion de ingreso de numeros
+            if (getting.hasNextInt()){   // uso de hasNextInt
+                opcion = getting.nextInt();  // se guarda el numero
             }else {
                 System.out.println("El caracter ingresado no es valido, o no es un numero del menu");
-                getting.next();
+                getting.next(); // para no validar el numero
                 continue;
             }
 
@@ -65,41 +78,31 @@ public class Perimetros {
                     System.out.println("el valor ingresado no es un numero del menu");
             }
         }while (!salir);
-
-
-
-
     }
 
 
-
-
-
-
-    public  static double perimetroDeUnCuadrado(){
+    public double perimetroDeUnCuadrado(){
         double lado1 = pedir(msgPedirlado1);
         double lado2 = pedir(msgPedirlado2);
         return lado1 + lado2;
     }
 
-    public static double perimetrosDeUnTriangulo(){
+    public double perimetrosDeUnTriangulo(){
         double lado1 = pedir(msgPedirlado1);
         double lado2 = pedir(msgPedirlado2);
         double lado3 = pedir(msgPedirlado3);
         return lado1 + lado2 + lado3;
     }
 
-    public static double perimetroDeUnCirculo(){
+    public double perimetroDeUnCirculo(){
         final double pi = 3.1416;
         double radio = pedir(msgPedirRadio);
         return 2 * pi * radio;
     }
 
-    public static double perimetroDeUnRectangulo(){
+    public double perimetroDeUnRectangulo(){
         double base = pedir(msgPedirBase);
         double altura = pedir(msgPedirAltura);
         return 2*(altura+base);
     }
-
-
 }
