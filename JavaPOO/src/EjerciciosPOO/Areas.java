@@ -66,28 +66,24 @@ public class Areas {
 
     public static double areaDeUnCuadrado(){
         double lado = pedir(msgPedirLado);
-        double resultado = 4 * lado;
-        return resultado;
+        return 4 * lado;
     }
 
     public static double areaDeUnTriangulo(){
         double base = pedir(msgPedirBase);
         double altura = pedir(msgPedirAltura);
-        double resultado = (base * altura)/2;
-        return resultado;
+        return (base * altura)/2;
     }
 
     public static double areaDeUnCirculo(){
         final double pi = 3.141516;
         double radio = pedir(msgPedirRadio);
-        double resultado = pi*(radio*radio);
-        return resultado;
+        return  pi*(radio*radio);
     }
 
     public static double areaDeUnRectangulo(){
         double base = pedir(msgPedirBase);
         double altura = pedir(msgPedirAltura);
-        double resultado = base * altura;
-        return resultado;
+        return base * altura;
     }
 }

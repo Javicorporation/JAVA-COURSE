@@ -46,16 +46,16 @@ public class Perimetros {
                     System.out.print("el perimetro del cuadrado es: "+resultado1);
                     break;
                 case 2:
-                    double resultado2 = perimetroDeUnCuadrado();
-                    System.out.print("el perimetro del cuadrado es: "+resultado2);
+                    double resultado2 = perimetrosDeUnTriangulo();
+                    System.out.print("el perimetro del triangulo es: "+resultado2);
                     break;
                 case 3:
-                    double resultado3 = perimetroDeUnCuadrado();
-                    System.out.print("el perimetro del cuadrado es: "+resultado3);
+                    double resultado3 = perimetroDeUnCirculo();
+                    System.out.print("el perimetro del circulo es: "+resultado3);
                     break;
                 case 4:
-                    double resultado4 = perimetroDeUnCuadrado();
-                    System.out.print("el perimetro del cuadrado es: "+resultado4);
+                    double resultado4 = perimetroDeUnRectangulo();
+                    System.out.print("el perimetro del rectangulo es: "+resultado4);
                     break;
                 case 5:
                     System.out.println("adios");
@@ -79,31 +79,26 @@ public class Perimetros {
     public  static double perimetroDeUnCuadrado(){
         double lado1 = pedir(msgPedirlado1);
         double lado2 = pedir(msgPedirlado2);
-        double resultado = lado1 + lado2;
-        return resultado;
+        return lado1 + lado2;
     }
 
     public static double perimetrosDeUnTriangulo(){
         double lado1 = pedir(msgPedirlado1);
         double lado2 = pedir(msgPedirlado2);
         double lado3 = pedir(msgPedirlado3);
-
-        double resultado = lado1 + lado2 + lado3;
-        return resultado;
+        return lado1 + lado2 + lado3;
     }
 
     public static double perimetroDeUnCirculo(){
         final double pi = 3.1416;
         double radio = pedir(msgPedirRadio);
-        double resultado = 2 * pi * radio;
-        return resultado;
+        return 2 * pi * radio;
     }
 
     public static double perimetroDeUnRectangulo(){
         double base = pedir(msgPedirBase);
         double altura = pedir(msgPedirAltura);
-        double resultado = 2*(altura+base);
-        return resultado;
+        return 2*(altura+base);
     }
 
 

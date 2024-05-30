@@ -3,6 +3,7 @@ package EjerciciosPOO;
 import java.util.Scanner;
 
 public class Heron {
+
     public static final Scanner getting = new Scanner(System.in);
     public static final String msgLado1 = "Escribe el primer lado: ";
     public static final String msgLado2 = "Escribe el segundo lado: ";

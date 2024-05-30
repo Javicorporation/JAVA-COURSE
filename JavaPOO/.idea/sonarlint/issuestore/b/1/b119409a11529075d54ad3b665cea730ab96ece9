@@ -1,9 +1,10 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚‰ÒÜúÿÿÿÿ8Òˆ‡µü1J$21b210bd-33bf-4b1d-a0b3-0a58db39ce73
-œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â›øÎ8Òˆ‡µü1J$36be46db-e0d7-40d2-837d-06d7f270ab98
-œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ¡¦8Òˆ‡µü1J$7fccb9d2-9c53-4bf9-84a6-8f88d8263281
-œ	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™Ÿş€8Òˆ‡µü1J$27609637-d1f2-433d-b7ce-805581b31ca8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚‰ÒÜúÿÿÿÿ8Òˆ‡µü1J$f2db2cfd-7b22-48d4-a198-aa9d2a81bb1b
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â›øÎ8Òˆ‡µü1J$4dab7794-6476-400c-b5b4-2389980992ef
+œ	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ¡¦8Òˆ‡µü1J$08b06797-0bb7-4649-85f6-d01ffeb1f727
+œ	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™Ÿş€8Òˆ‡µü1J$b66aa116-a846-4ad4-b409-b6ac03852495
 ‚
-java:S1118":Add a private constructor to hide the implicit public one.(àÀ˜Úøÿÿÿÿ8åˆ‡µü1J$acbd66da-d688-48fe-b4a9-19f47332a431
-m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8òˆ‡µü1J$f1eec887-1798-4564-8542-570d8af1be1a
-m	java:S106"+Replace this use of System.out by a logger.(³¥’¤8ôˆ‡µü1J$e132438d-33aa-44d4-adb8-f87434cd4be8
+java:S1118":Add a private constructor to hide the implicit public one.(àÀ˜Úøÿÿÿÿ8šõˆ¶ü1J$43cd8713-c932-4657-9179-13b8e9acc5e6
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8òˆ‡µü1J$5b5659a2-095b-410c-8b6d-f607573c7043
+m	java:S106"+Replace this use of System.out by a logger.(³¥’¤8ôˆ‡µü1J$4a974a14-c4de-4c80-80fd-5bbb8a62e05e

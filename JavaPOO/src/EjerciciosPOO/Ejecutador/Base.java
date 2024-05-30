@@ -1,6 +1,6 @@
 package  EjerciciosPOO.Ejecutador;
 
-public class Main {
+public class Base {
 
 
     public static void main(String[] args) {
