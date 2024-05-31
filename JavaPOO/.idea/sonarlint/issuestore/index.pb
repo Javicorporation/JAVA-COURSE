@@ -66,16 +66,12 @@ L
 src/MetodoToString/Main.java,a\e\aec47f6ddbd397a623b93c6d0dc6319aa62ec4fc
 V
 &src/MetodoToString/ToStringMetodo.java,3\a\3a5744bbf82c83bee197c0bb8d7bd3472c414ded
-K
-src/EjerciciosPOO/Main.java,d\e\de84c4012881db87400e310ea0c7ee9a8e4700b9
 Q
 !src/EjerciciosPOO/Perimetros.java,f\f\ff757e2426ffb07b5535b3cfd617699dd693b0ff
 L
 src/EjerciciosPOO/Areas.java,8\9\89ee6cf9bbb848ddb4a7ef0e3b485e669e5d2bd1
 L
 src/EjerciciosPOO/Heron.java,b\1\b119409a11529075d54ad3b665cea730ab96ece9
-V
-&src/EjerciciosPOO/Ejecutador/Main.java,a\6\a6b3e648217a4e15db4973506f13f6c40420f122
 \
 ,src/EjerciciosPOO/Ejecutador/Ejecutador.java,7\1\7179cedf7e144b469368ce0119dfe41da8e44f1d
 w
@@ -164,3 +160,11 @@ Q.idea/sonarlint/securityhotspotstore/f/c/fcdfe0ce9f04476c9af29180620dc8fc7e6e4a
 Q.idea/sonarlint/securityhotspotstore/8/9/89ee6cf9bbb848ddb4a7ef0e3b485e669e5d2bd1,1\d\1d1402d6e4f06fe79a1def8d2c77d51b168b6174
 V
 &src/EjerciciosPOO/Ejecutador/Base.java,1\3\133d814def46c595906994e6f62d93fc50ca7af5
+U
+%src/Ejercicio2POO/Ejecutado/Base.java,8\e\8e4b598ec37fa840f9246a5ecc0e6e70eae653b6
+Y
+)src/Ejercicio2POO/Ejecutado/Ejecutar.java,8\3\831b0628e09b9f68a09ba16c89fcfda4c5268b99
+V
+&src/Ejercicio2POO/Metodos/metodos.java,5\4\548099cac3f1773a32b7749d9e016e0575e0ebf3
+^
+.src/Ejercicio2POO/Metodos/EcuacionSegGrad.java,1\8\18b265d4d6d0d0ab6b215fbc80fbab4e0dc8aef0
