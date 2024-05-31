@@ -129,8 +129,6 @@ Q.idea/sonarlint/securityhotspotstore/1/c/1c3b79b44b3bbd859c11f9ab4d7bb36d960401
 Å
 Q.idea/sonarlint/securityhotspotstore/1/d/1d1754da7ac11a438c6addcc7af1639cc293f54f,c\f\cfe540b9a93a6fd27c2183f6da8bb46620c6c02f
 Å
-Q.idea/sonarlint/securityhotspotstore/d/e/de84c4012881db87400e310ea0c7ee9a8e4700b9,1\4\147ca433f84d0573e6523674d254a4729180b5c9
-Å
 Q.idea/sonarlint/securityhotspotstore/1/d/1dfc56968fe97066c09a80ec6c8634029890685b,2\8\280cc74f0870f23e788d896c6d20725be03281f4
 Å
 Q.idea/sonarlint/securityhotspotstore/2/6/2653dc2ffd020550ca36ffbdf70ab399d6b59b75,7\5\7511f6f6f60283a850d053dbcb6926574df13bc8
@@ -164,7 +162,5 @@ U
 %src/Ejercicio2POO/Ejecutado/Base.java,8\e\8e4b598ec37fa840f9246a5ecc0e6e70eae653b6
 Y
 )src/Ejercicio2POO/Ejecutado/Ejecutar.java,8\3\831b0628e09b9f68a09ba16c89fcfda4c5268b99
-V
-&src/Ejercicio2POO/Metodos/metodos.java,5\4\548099cac3f1773a32b7749d9e016e0575e0ebf3
 ^
 .src/Ejercicio2POO/Metodos/EcuacionSegGrad.java,1\8\18b265d4d6d0d0ab6b215fbc80fbab4e0dc8aef0
