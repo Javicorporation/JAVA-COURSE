@@ -164,3 +164,11 @@ Y
 )src/Ejercicio2POO/Ejecutado/Ejecutar.java,8\3\831b0628e09b9f68a09ba16c89fcfda4c5268b99
 ^
 .src/Ejercicio2POO/Metodos/EcuacionSegGrad.java,1\8\18b265d4d6d0d0ab6b215fbc80fbab4e0dc8aef0
+F
+src/Ejercicio3POO.java,7\3\738cc738069f306bd67d517fc5550c6181dc47ed
+U
+%src/Ejercicio3POO/Logica/Tablero.java,5\7\5706a2100adc7397add244ebf8045bf6f1920296
+V
+&src/Ejercicio3POO/Ejecutador/Base.java,0\a\0ae68464bf44dd17def28a3359750dcd0a9abb45
+\
+,src/Ejercicio3POO/Ejecutador/Ejecutador.java,a\7\a7e6a3c19cbf4292ca69fdce99fd54691252dd76
