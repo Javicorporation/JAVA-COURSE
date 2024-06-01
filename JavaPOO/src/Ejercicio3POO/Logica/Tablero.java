@@ -1,28 +1,45 @@
 package Ejercicio3POO.Logica;
 
+
+import Ejercicio3POO.Ejecutador.Ejecutador;
+
+import java.util.Scanner;
+
 public class Tablero {
-    int x;
-    int y;
+
+
+
+    private int x;
+    private int y;
 
     public Tablero(int x, int y) {
         this.x = x;
         this.y = y;
     }
 
-    public void moverArriba(){
+
+    public void moverArriba(int incremento){
+        y+= incremento;
 
     }
 
-    public void moverAbajo(){
-
+    public void moverAbajo(int decremento){
+        y-= decremento;
     }
 
-    public void moverDerecha(){
-
+    public void moverDerecha(int incremento){
+        x+= incremento;
     }
 
-    public void moverIzquierda(){
-
+    public void moverIzquierda(int decremento){
+        x-= decremento;
     }
 
+    public int getX() {
+        return x;
+    }
+
+    public int getY() {
+        return y;
+    }
 }

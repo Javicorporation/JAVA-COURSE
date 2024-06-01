@@ -13,6 +13,7 @@ public class Ejecutador {
     int x;
     int y;
     int opcion;
+    int incremento = 0;
     boolean salirNume = false;
     boolean salirWhile = false;
     Tablero accion = new Tablero(x,y);
@@ -41,15 +42,17 @@ public class Ejecutador {
 
             boolean loopMenu = true;
             while (loopMenu){
-                System.out.println("----MENU----");
+                System.out.println("\n----MENU----");
                 System.out.println("1. mover hacia arriba: ");
                 System.out.println("2. mover hacia abajo: ");
                 System.out.println("3. mover hacia la izquierda: ");
                 System.out.println("4. mover hacia la derecha: ");
                 System.out.println("5. Salir ");
-                System.out.println("Escoge una opcion: ");
+                System.out.print("Escoge una opcion: ");
                 if (getting.hasNextInt()) {
                     opcion = getting.nextInt();
+                    System.out.print("Digite el incremento o decremento: ");
+                    incremento = getting.nextInt();
                 }else {
                     System.out.println(msgValidarInt);
                     getting.next();
@@ -57,25 +60,27 @@ public class Ejecutador {
                 }
                 switch (opcion){
                     case 1:
-                        accion.moverArriba();
+                        accion.moverArriba(incremento);
                         break;
                     case 2:
-                        accion.moverAbajo();
+                        accion.moverAbajo(incremento);
                         break;
                     case 3:
-                        accion.moverIzquierda();
+                        accion.moverIzquierda(incremento);
                         break;
                     case 4:
-                        accion.moverDerecha();
+                        accion.moverDerecha(incremento);
                         break;
                     case 5:
                         System.out.println("adios");
+                        System.out.println("la ultima posicion es: "+accion.getX()+" : "+accion.getY());
                         salirWhile = true;
                         loopMenu = false;
                         break;
                     default:
                         System.out.println("la opcion que ingresaste no esta en el menu.");
                 }
+                System.out.println("la ultima posicion es: "+accion.getX()+" : "+accion.getY());
             }
 
         }while (!salirWhile);
