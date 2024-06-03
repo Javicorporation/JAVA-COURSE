@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class Cajero {
     private static final Scanner getting = new Scanner(System.in);
-    private final String msgValidarInt = "Digite un valor entero. ";
-    private final String msgValorDeposito = "Ingrese el valor a depositar: ";
-    private final String msgSaldoActua = "Su saldo actual es de: ";
-    private final String msgValorRetir = "Digite el valor a retirar: ";
-    private final String msgSaldoInsufi = "El saldo es insuficientes ";
-    private final String msgClaveActual = "Digite su clave actual: ";
-    private final String msgClaveNuev = "Digite la nueva clave: ";
-    private final String msgClaveIncorrec = "Clave ingresada es incorrecta.";
+    public final String msgValidarInt = "Digite un valor entero. ";
+    public final String msgValorDeposito = "Ingrese el valor a depositar: ";
+    public final String msgSaldoActua = "Su saldo actual es de: ";
+    public final String msgValorRetir = "Digite el valor a retirar: ";
+    public final String msgSaldoInsufi = "El saldo es insuficientes ";
+    public final String msgClaveActual = "Digite su clave actual: ";
+    public final String msgClaveNuev = "Digite la nueva clave: ";
+    public final String msgClaveIncorrec = "Clave ingresada es incorrecta.";
 
 
     public int  saldo  = 1100;
@@ -39,8 +39,8 @@ public class Cajero {
     }
 
 
-    public void salir(){
-    }
+    //public void salir(){
+    //}
 
     public void consignar(){
         int valorDep = pedir(msgValorDeposito);
@@ -51,18 +51,19 @@ public class Cajero {
 
     public void retirar(){
         int valorARetir = pedir(msgValorRetir);
-        if (valorARetir > saldo) {
-            System.out.println(msgSaldoInsufi);
-        }else if(valorARetir == saldo || valorARetir < saldo){
+        if(valorARetir <= saldo){
             saldo -= valorARetir;
             System.out.println("a retirado: "+valorARetir);
             System.out.println(msgSaldoActua+saldo);
+        }
+        if (saldo < valorARetir) {
+            System.out.println(msgSaldoInsufi);
         }
 
     }
 
     public void cambiarClave(){
-        String claveSupl = "";
+        String claveSupl;
         System.out.print(msgClaveActual);
         claveSupl = getting.next();
         if (claveSupl.equalsIgnoreCase(clave)) {

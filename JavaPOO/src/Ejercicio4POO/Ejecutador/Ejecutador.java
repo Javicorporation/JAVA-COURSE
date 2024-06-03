@@ -5,11 +5,11 @@ import Ejercicio4POO.Clases.Cajero;
 import java.util.Scanner;
 
 public class Ejecutador {
-    private static final Scanner getting = new Scanner(System.in);
-    private final String msgOpcionMenu = "Escribe una opcion: ";
-    private final String msgSalir = "Gracias, vuelva pronto.";
-    private final String msgNoValido = "La opcion que ingreso no es valida";
-    private final String msgPedirInt = "Ingrese un numero que se encuentre en el menu.";
+    public static final Scanner getting = new Scanner(System.in);
+    public final String msgOpcionMenu = "Escribe una opcion: ";
+    public final String msgSalir = "Gracias, vuelva pronto.";
+    public final String msgNoValido = "La opcion que ingreso no es valida";
+    public final String msgPedirInt = "Ingrese un numero que se encuentre en el menu.";
 
 
 
@@ -21,7 +21,7 @@ public class Ejecutador {
 
 
     public void mostrarmenu(){
-        boolean loopValidar = false;
+        boolean loopValidar;
         do {
             System.out.println("\n---- MENU ----");
             System.out.println("1. Consultar Saldo");
