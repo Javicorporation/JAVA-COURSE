@@ -20,7 +20,7 @@ public class Ejecutador {
     public void mostrarmenu(){
         boolean loopValidar = false;
         do {
-            System.out.println("---- MENU ----");
+            System.out.println("\n---- MENU ----");
             System.out.println("1. Consultar Saldo");
             System.out.println("2. Consignar");
             System.out.println("3. retirar");
@@ -30,24 +30,27 @@ public class Ejecutador {
                 System.out.print(msgOpcionMenu);
                 if (getting.hasNextInt()) {
                     opcion = getting.nextInt();
+                    getting.nextLine();
                     loopValidar = true;
                 }else {
                     System.out.println("Opcion no valida");
                     getting.next();
+                    loopValidar = false;
                 }
             }while (!loopValidar);
 
             switch (opcion) {
                 case 1:
-                    int valor = cajero.pedir(msgPedirInt);
-                    System.out.println(valor);
-
+                    cajero.verSaldo();
                     break;
                 case 2:
+                    cajero.consignar();
                     break;
                 case 3:
+                    cajero.retirar();
                     break;
                 case 4:
+                    cajero.cambiarClave();
                     break;
                 case 5:
                     System.out.println(msgSalir);
