@@ -8,7 +8,10 @@ public class Ejecutador {
     private static final Scanner getting = new Scanner(System.in);
     private final String msgOpcionMenu = "Escribe una opcion: ";
     private final String msgSalir = "Gracias, vuelva pronto.";
-    private final String msgPedirInt = "Ingrese un entero: ";
+    private final String msgNoValido = "La opcion que ingreso no es valida";
+    private final String msgPedirInt = "Ingrese un numero que se encuentre en el menu.";
+
+
 
 
 
@@ -33,7 +36,7 @@ public class Ejecutador {
                     getting.nextLine();
                     loopValidar = true;
                 }else {
-                    System.out.println("Opcion no valida");
+                    System.out.println(msgNoValido);
                     getting.next();
                     loopValidar = false;
                 }
@@ -57,7 +60,7 @@ public class Ejecutador {
                     loopMenu = true;
                     break;
                 default:
-                    System.out.println("valor no valido");
+                    System.out.println(msgPedirInt);
             }
 
         }while(!loopMenu);
