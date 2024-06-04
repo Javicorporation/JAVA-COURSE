@@ -182,3 +182,9 @@ V
 ,src/Ejercicio5POO/Ejecutador/Ejecutador.java,4\d\4d97646faddf8cd78253137a7ba021116766d8d0
 ]
 -src/Ejercicio5POO/Clases/NumeroComplejos.java,5\8\582f1a1d842993f0bdc010dc6a89e358ec0d2e24
+\
+,src/Ejercicio5POOrepaso/Ejecutador/base.java,a\8\a8f17a7b9ceba6c6487f6a3d986fad8e9b95a72a
+c
+3src/Ejercicio5POOrepaso/Clases/NumerosRMetodos.java,6\7\67069d5daa5c2b462a2656384be03fe016c80bfd
+b
+2src/Ejercicio5POOrepaso/Ejecutador/Ejecutador.java,1\f\1f96407e4d60d3e5b84619050908aa002c828df7

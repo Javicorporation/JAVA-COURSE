@@ -28,7 +28,7 @@ public class NumeroComplejos {
 
     public NumeroComplejos calcularNumeroC (NumeroComplejos numero){
 
-        NumeroComplejos multiplicacion = new NumeroComplejos((valorReal* numero.getValorReal() - valorimagi * numero.getValorimagi()),(valorReal * numero.getValorimagi() + numero.getValorReal() * valorimagi ));
+        NumeroComplejos multiplicacion = new NumeroComplejos(      (valorReal* numero.getValorReal() - valorimagi * numero.getValorimagi())      ,(valorReal * numero.getValorimagi() + numero.getValorReal() * valorimagi ));
         return multiplicacion;
     }
 
