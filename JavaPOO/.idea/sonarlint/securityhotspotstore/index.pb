@@ -176,3 +176,9 @@ V
 &src/Ejercicio4POO/Ejecutador/Base.java,d\6\d6d12797aa33a9b4ffd4126d1d5c81699e3cce0d
 T
 $src/Ejercicio4POO/Clases/Cajero.java,1\b\1bb91f931aa9c76e6f98e8578f611aaef30caa66
+V
+&src/Ejercicio5POO/Ejecutador/Base.java,2\f\2f95b7a7cabbce44f52eb79b030a5626cb69b401
+\
+,src/Ejercicio5POO/Ejecutador/Ejecutador.java,4\d\4d97646faddf8cd78253137a7ba021116766d8d0
+]
+-src/Ejercicio5POO/Clases/NumeroComplejos.java,5\8\582f1a1d842993f0bdc010dc6a89e358ec0d2e24
