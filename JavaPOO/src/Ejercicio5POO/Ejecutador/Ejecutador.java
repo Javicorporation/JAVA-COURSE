@@ -1,5 +1,7 @@
 package Ejercicio5POO.Ejecutador;
 
+import Ejercicio5POO.Clases.NumeroComplejos;
+
 import java.util.Scanner;
 
 public class Ejecutador {
@@ -34,6 +36,10 @@ public class Ejecutador {
 
             switch (opcion){
                 case 1:
+                    NumeroComplejos numero1 = new NumeroComplejos(12.0,2.0);
+                    NumeroComplejos numero2 = new NumeroComplejos(6.0,3.0);
+                    NumeroComplejos resultado = numero1.sumarNumeroC(numero2);
+                    System.out.println("Resultado de la suma: " + resultado.getValorReal() + " + " + resultado.getValorimagi() + "i");
 
                     break;
                 case 2:
