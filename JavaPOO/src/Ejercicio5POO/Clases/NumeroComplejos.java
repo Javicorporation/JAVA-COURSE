@@ -20,22 +20,6 @@ public class NumeroComplejos {
         return valorimagi;
     }
 
-    public double pedirDouble(String message){
-        boolean loopValDoub;
-        double valor = 0;
-        do {
-            System.out.println(message);
-            if (getting.hasNextDouble()){
-                valor = getting.nextDouble();
-                loopValDoub = true;
-            }else {
-                System.out.println("el valor ingresado no en un valor entero.");
-                getting.next();
-                loopValDoub = false;
-            }
-        }while (!loopValDoub);
-        return  valor;
-    }
 
     public NumeroComplejos sumarNumeroC (NumeroComplejos numero){
         NumeroComplejos suma = new NumeroComplejos(valorReal + numero.getValorReal(), valorimagi + numero.getValorimagi());
