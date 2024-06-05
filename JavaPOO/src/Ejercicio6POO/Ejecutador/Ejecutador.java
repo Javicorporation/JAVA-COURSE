@@ -71,8 +71,34 @@ public class Ejecutador {
                     }
                     break;
                 case 2:
+                    System.out.print("Digite el numero de cuenta: ");
+                    numeroDeCuenta = getting.nextInt();
+                    indiceNumeroCuenta = buscarCuentas(cuentas, numeroDeCuenta);
+                    if (indiceNumeroCuenta == -1) {
+                        System.out.println("No existe una cuenta con ese numero.");
+                    }else {
+                        System.out.println("digite la cantidad de dinero a retirar ");
+                        cantidadDeDinero = getting.nextDouble();
+                        if (cliente.consultarSaldo(indiceNumeroCuenta) < cantidadDeDinero) {
+                            System.out.println("saldo insuficiente");
+                        }else {
+                            cliente.retirarDinero(indiceNumeroCuenta,cantidadDeDinero);
+                            System.out.println("Deposito exitoso");
+                            System.out.println("saldo disponible: "+cliente.consultarSaldo(indiceNumeroCuenta));
+
+                        }
+                    }
                     break;
                 case 3:
+                    System.out.print("Digite el numero de cuenta: ");
+                    numeroDeCuenta = getting.nextInt();
+                    indiceNumeroCuenta = buscarCuentas(cuentas, numeroDeCuenta);
+                    if (indiceNumeroCuenta == -1) {
+                        System.out.println("No existe una cuenta con ese numero.");
+                    }else {
+                        System.out.println("Deposito exitoso");
+                        System.out.println("saldo disponible: "+cliente.consultarSaldo(indiceNumeroCuenta));
+                    }
                     break;
                 case 4:
                     System.out.println("grasias, vuelva pronto.");
