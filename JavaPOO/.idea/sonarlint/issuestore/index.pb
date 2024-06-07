@@ -208,3 +208,7 @@ V
 &src/Ejercicio7POO/Clases/Contacto.java,3\9\399c89c8a37d8d4e91bb7546b903e6ce43292b3b
 T
 $src/Ejercicio7POO/Clases/Agenda.java,1\f\1f665498d7d1bf021e8482559582e2eac5b70946
+Z
+*src/Ejercicio7POO/Ejecutador/Registro.java,7\9\79ae04334dbb57dac406ab7f251a321abdf4b2ee
+V
+&src/Ejercicio7POO/Ejecutador/Base.java,e\7\e7eeeacf7a453d464ecb4234ce012424708e118d

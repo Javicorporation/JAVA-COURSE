@@ -50,7 +50,7 @@ public class Agenda {
     public void añadirContacto(Contacto contacto) {
         for (int i = 0; i < contactos.length; i++) {
             if (comprobarSiElContactoExiste(contacto)) {
-                System.out.print("El contacto ya esxiste.");
+                System.out.print("El contacto ya existe.");
             } else if (comprobarSiLaAgendaLlena()) {
                 System.out.println("La agenda ya esta llena.");
 
@@ -92,8 +92,8 @@ public class Agenda {
         for (int i = 0; i < contactos.length && !encontrado; i++) {
             if (contactos[i] != null && contactos[i].getNombre().trim().equalsIgnoreCase(nombre)) {
                 System.out.println("\nContacto encontrado.");
-                System.out.print("su nombre es: " + contactos[i].getNombre());
-                System.out.print("su telefono es: " + contactos[i].getTelefono());
+                System.out.println("su nombre es: " + contactos[i].getNombre());
+                System.out.println("su telefono es: " + contactos[i].getTelefono());
                 encontrado = true;
             }
             if (!encontrado) {
