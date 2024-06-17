@@ -240,3 +240,13 @@ U
 ,src/Ejercicio10POO/clases/FiguraAbierta.java,9\0\908b1e7ac8eb0e3412ebb6315be00c7cb834c782
 W
 'src/Ejercicio10POO/ejecutador/Base.java,f\c\fc4bafaa7399ca6dd859f5bef4a7f2ef1af7728a
+L
+src/Ejercicio11POO/Base.java,b\1\b1a19df8e9a33f4822fc1a2f5297d791c87ad3a5
+W
+'src/Ejercicio11POO/clases/Producto.java,6\b\6be14fa18adf9d7078a53ed15a2369f34c1929e6
+Y
+)src/Ejercicio11POO/clases/Inventario.java,2\9\290f69f4c70af39137f3f8b34125cf78637444e8
+W
+'src/Ejercicio11POO/Ejecutador/Base.java,a\1\a12e9df53efae07771502848aca09a66d579d08d
+[
++src/Ejercicio11POO/Ejecutador/Opciones.java,9\d\9dbb32bd352e333ab28182005e93c811ecfbdff3
