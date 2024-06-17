@@ -230,3 +230,13 @@ S
 #src/Ejercicio9POO/Clases/Perro.java,b\7\b7ee0330f3b3d53a76ec50292d73f757eb68d2e8
 T
 $src/Ejercicio9POO/Clases/Nutria.java,c\d\cdcccdd87a4b6228ce037d4ae5a8efce29df5735
+U
+%src/Ejercicio10POO/clases/Figura.java,8\7\8721c112024df19de8b8985a8d0f14963b170935
+\
+,src/Ejercicio10POO/clases/FiguraCerrada.java,7\d\7d1e23365473ef24a4e86cc3182869bbec2edd09
+]
+-src/Ejercicio10POO/clases/figurraAbierta.java,8\8\8873ab3c63b50bed1b2c0ccaad97f763d99c853b
+\
+,src/Ejercicio10POO/clases/FiguraAbierta.java,9\0\908b1e7ac8eb0e3412ebb6315be00c7cb834c782
+W
+'src/Ejercicio10POO/ejecutador/Base.java,f\c\fc4bafaa7399ca6dd859f5bef4a7f2ef1af7728a
