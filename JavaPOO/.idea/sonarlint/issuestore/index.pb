@@ -218,3 +218,15 @@ U
 %src/Ejercicio8POO/Clases/Persona.java,d\a\da8d726a84723076316e1e2e7f273bf2bb83e2d3
 ^
 .src/Ejercicio8POO/Ejecutador/BucleForEach.java,b\5\b5732c9b3ec9173423d5287f29f3e9a58cf1f55f
+F
+src/Ejercicio9POO.java,f\9\f929c4de30a2688baec2e835cea124b25ed0e4c4
+X
+(src/Ejercicio9POO/Ejecutador/Animal.java,8\3\837e4eb646e2f620709bcfd42794a10b8b76518b
+T
+$src/Ejercicio9POO/Clases/Animal.java,1\4\1480c8e0a956109b08811b1ba5feb663c1cf6bb7
+V
+&src/Ejercicio9POO/Ejecutador/base.java,7\4\7440995332db5cb9f12e8a49e195e8b6861f51e9
+S
+#src/Ejercicio9POO/Clases/Perro.java,b\7\b7ee0330f3b3d53a76ec50292d73f757eb68d2e8
+T
+$src/Ejercicio9POO/Clases/Nutria.java,c\d\cdcccdd87a4b6228ce037d4ae5a8efce29df5735
