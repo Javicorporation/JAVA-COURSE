@@ -212,3 +212,9 @@ Z
 *src/Ejercicio7POO/Ejecutador/Registro.java,7\9\79ae04334dbb57dac406ab7f251a321abdf4b2ee
 V
 &src/Ejercicio7POO/Ejecutador/Base.java,e\7\e7eeeacf7a453d464ecb4234ce012424708e118d
+V
+&src/Ejercicio8POO/Ejecutador/Base.java,f\c\fc83487562f56d41491800092618af37eca84dac
+U
+%src/Ejercicio8POO/Clases/Persona.java,d\a\da8d726a84723076316e1e2e7f273bf2bb83e2d3
+^
+.src/Ejercicio8POO/Ejecutador/BucleForEach.java,b\5\b5732c9b3ec9173423d5287f29f3e9a58cf1f55f
