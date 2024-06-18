@@ -245,12 +245,12 @@ W
 V
 &src/Ejercicio12POO/clases/Jugador.java,d\e\dee1bb7fc3d0cffbd19e56e424d87597313c0606
 ]
--src/Ejercicio12POO/clases/JugadorFootbol.java,a\c\ac2d89f5c82b9e7802d4dc489801cfd38bfb28a2
-]
 -src/Ejercicio12POO/clases/JugadorBasquet.java,d\9\d961aa62e48d88976da3191b44164d8626d79f44
 \
 ,src/Ejercicio12POO/clases/JugadorFutbol.java,7\e\7e5434d0acfb7bf03a5f898568569af0403af2aa
-Z
-*src/Ejercicio12POO/ejecutar/Base/Base.java,4\8\48019672969c9e689c0cbe018a68fb3765997874
 U
 %src/Ejercicio12POO/ejecutar/Base.java,d\8\d8054dbc1101d39aa5bf81655f668b817bfb6569
+J
+src/Listas/Basee/Base.java,b\b\bb9179e6ec61c0f31d73301ccd46806c7716618d
+M
+src/Listas/Clases/Listas.java,a\5\a5b4f764cf3b695318ac9a34ad291bd053d37523
