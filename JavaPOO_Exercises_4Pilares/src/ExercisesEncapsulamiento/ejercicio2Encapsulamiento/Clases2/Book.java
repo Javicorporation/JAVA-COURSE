@@ -1,9 +1,9 @@
 package ExercisesEncapsulamiento.ejercicio2Encapsulamiento.Clases2;
 
 public class Book {
-    private String title="";
-    private String author="";
-    private String status="";
+    private String title;
+    private String author;
+    private String status;
 
     public Book(String title, String author, String status) {
         this.title = title;
@@ -35,15 +35,18 @@ public class Book {
         this.status = status;
     }
 
-    public String changeStatu(String status) {
-        if(status.equalsIgnoreCase("disponible")){
-            status="Disponible";
-        }else if(status.equalsIgnoreCase("prestado")){
-            status="Prestado";
-        } else if (status != "Disponible" || status != "Prestado"){
-            System.out.println("El estado "+status+" no es disponible");
-        } {
+    // cambiamos el uso de if por un switch
+    public void changeStatu(String status) {
+        switch (status.toLowerCase()){ // convierte mayusculas a minusculas
+            case "disponible":
+                this.status = "disponible";
+                break;
+            case "prestado":
+                this.status = "prestado";
+                break;
+            default:
+                System.out.println("El estado " + this.status + " no es válido.");
         }
-        return status;
+        System.out.println("El libro esta: "+this.status);
     }
 }

@@ -20,10 +20,7 @@ public class Ejecutador2 {
         String author = pedirString(msgAutor);
         String status = pedirString(msgEstado);
         Book book = new Book(title,author,status);
-        String estadoActual = book.getStatus();
-        String resultado = book.changeStatu(estadoActual);
-
-        System.out.println("El estado actual del libro es: " + resultado);
+        book.changeStatu(book.getStatus());
 
     }
 }
