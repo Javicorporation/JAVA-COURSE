@@ -1,6 +1,8 @@
 package ExercisesEncapsulamiento.ejercicio2Encapsulamiento.Base2;
 
 import ExercisesEncapsulamiento.ejercicio2Encapsulamiento.Clases2.Book;
+import ExercisesEncapsulamiento.ejercicio2Encapsulamiento.Clases2.BookDisponible;
+import ExercisesEncapsulamiento.ejercicio2Encapsulamiento.Clases2.BookPrestado;
 
 import java.util.Scanner;
 
@@ -16,11 +18,29 @@ public class Ejecutador2 {
     }
 
     public void presentar(){
+
+        // vamos a cambiar la estructura de el programa
         String title = pedirString(msgNombre);
         String author = pedirString(msgAutor);
         String status = pedirString(msgEstado);
-        Book book = new Book(title,author,status);
-        book.changeStatu(book.getStatus());
+        Book book = null;
+
+        if (status.equalsIgnoreCase("prestado")){
+            book = new BookPrestado(title,author);
+        }else if(status.equalsIgnoreCase("disponible")){
+            book = new BookDisponible(title,author);
+        }
+
+        String nuevoStatus = pedirString("ingrese el nuevo estado del libro: ");
+        book.changeStatu(nuevoStatus);
+        System.out.println(book);
+
+
+
+
+
+        //Book book = new Book(title,author,status);
+        //book.changeStatu(book.getStatus());
 
     }
 }

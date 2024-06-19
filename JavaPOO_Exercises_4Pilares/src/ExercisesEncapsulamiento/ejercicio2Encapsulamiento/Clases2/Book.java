@@ -1,14 +1,14 @@
 package ExercisesEncapsulamiento.ejercicio2Encapsulamiento.Clases2;
 
-public class Book {
-    private String title;
-    private String author;
-    private String status;
+public abstract class Book {
+    protected String title;
+    protected String author;
+    //private String status;   comentamos el atributo estato por que va a ser el que vamos a crear en las distintas clases
 
-    public Book(String title, String author, String status) {
+    // modificamos el contructor y le quitamos el estado
+    public Book(String title, String author) {
         this.title = title;
         this.author = author;
-        this.status = status;
     }
 
     public String getTitle() {
@@ -27,17 +27,16 @@ public class Book {
         this.author = author;
     }
 
-    public String getStatus() {
-        return status;
-    }
 
-    public void setStatus(String status) {
-        this.status = status;
-    }
+    // Convertido en un metodo abstracto y si puede llevar parametros
+    public abstract void changeStatu(String newStatus);
 
-    // cambiamos el uso de if por un switch
-    public void changeStatu(String status) {
-        switch (status.toLowerCase()){ // convierte mayusculas a minusculas
+
+
+
+
+
+        /*switch (status.toLowerCase()){ // convierte mayusculas a minusculas
             case "disponible":
                 this.status = "disponible";
                 break;
@@ -48,5 +47,6 @@ public class Book {
                 System.out.println("El estado " + this.status + " no es válido.");
         }
         System.out.println("El libro esta: "+this.status);
-    }
+    }*/
 }
+
