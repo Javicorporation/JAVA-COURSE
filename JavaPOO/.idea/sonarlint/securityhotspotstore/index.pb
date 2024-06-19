@@ -254,3 +254,5 @@ J
 src/Listas/Basee/Base.java,b\b\bb9179e6ec61c0f31d73301ccd46806c7716618d
 M
 src/Listas/Clases/Listas.java,a\5\a5b4f764cf3b695318ac9a34ad291bd053d37523
+S
+#src/Listas/Clases/AccesoALists.java,3\2\3252af14352baa756b0eb2991983b55bb11e2fba
