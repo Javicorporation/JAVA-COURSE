@@ -3,22 +3,26 @@ package EjercicioBanco.Clases;
 public class Cliente {
     private String nombre;
     private int monto;
+    private long id;
 
-    public Cliente(String nombre) {
+    public Cliente(String nombre,long id) {
         this.nombre = nombre;
+        this.id = id;
         this.monto = monto;
     }
 
+
+
     public void Depositar(int valor) {
-        monto +=valor;
+        this.monto +=valor;
     }
 
     public void retirar (int valor) {
-        monto -= valor;
+        this.monto -= valor;
     }
 
     public int retornarmonto(){
-        return monto;
+        return this.monto;
     }
 
     public void imprimir(){

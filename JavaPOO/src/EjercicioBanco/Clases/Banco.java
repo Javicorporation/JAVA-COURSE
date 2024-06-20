@@ -2,9 +2,9 @@ package EjercicioBanco.Clases;
 
 public class Banco {
 
-    Cliente cliente1 = new Cliente("Juan");
-    Cliente cliente2 = new Cliente("Maria");
-    Cliente cliente3 = new Cliente("Carla");
+    Cliente cliente1 = new Cliente("Juan",1);
+    Cliente cliente2 = new Cliente("Maria",2);
+    Cliente cliente3 = new Cliente("Carla",3);
 
     public Banco() {
         this.cliente1 = cliente1;
@@ -15,7 +15,9 @@ public class Banco {
         cliente1.Depositar(100);
         cliente2.Depositar(200);
         cliente3.Depositar(300);
-        cliente3.Depositar(150);
+        cliente3.retirar(150);
+        cliente3.imprimir();
+
     }
 
     public void depositosTotales(){
