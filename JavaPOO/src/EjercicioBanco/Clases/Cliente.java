@@ -11,7 +11,32 @@ public class Cliente {
         this.monto = monto;
     }
 
+    public Cliente() {
+    }
 
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public int getMonto() {
+        return monto;
+    }
+
+    public void setMonto(int monto) {
+        this.monto = monto;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
 
     public void Depositar(int valor) {
         this.monto +=valor;
@@ -26,7 +51,8 @@ public class Cliente {
     }
 
     public void imprimir(){
+        System.out.println("Id: "+this.id);
         System.out.println("Nombre: " + this.nombre);
-        System.out.println("Monto: " + this.monto);
+        System.out.println();
     }
 }
