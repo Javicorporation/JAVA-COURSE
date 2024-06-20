@@ -10,9 +10,9 @@ public class Banco {
     public static final String msgValorARetirar = "escribe el valor a retirar: ";
 
 
-    Cliente cliente1 = new Cliente("Juan",1);
-    Cliente cliente2 = new Cliente("Maria",2);
-    Cliente cliente3 = new Cliente("Carla",3);
+    Cliente cliente1 = new Cliente("Juan",1,200);
+    Cliente cliente2 = new Cliente("Maria",2,100);
+    Cliente cliente3 = new Cliente("Carla",3, 300);
 
     public Banco() {
         this.cliente1 = cliente1;

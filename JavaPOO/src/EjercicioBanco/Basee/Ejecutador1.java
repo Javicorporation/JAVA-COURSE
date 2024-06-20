@@ -27,12 +27,12 @@ public class Ejecutador1 {
                 case 1:
                     System.out.print(msgPediID);
                     id = getting.nextInt();
-                    banco.depositar(id);
+                    banco.retirar(id);
                     break;
                 case 2:
                     System.out.print(msgPediID);
                     id = getting.nextInt();
-                    banco.retirar(id);
+                    banco.depositar(id);
                     break;
                 case 3:
                     System.out.println("Gracias, Bye");

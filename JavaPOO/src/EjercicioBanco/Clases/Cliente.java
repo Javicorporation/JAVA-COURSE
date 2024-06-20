@@ -5,10 +5,16 @@ public class Cliente {
     private int monto;
     private long id;
 
-    public Cliente(String nombre,long id) {
+
+    public Cliente(String nombre,long id, int monto) {
         this.nombre = nombre;
         this.id = id;
         this.monto = monto;
+    }
+    public Cliente(String nombre,long id) {
+        this.nombre = nombre;
+        this.id = id;
+        //this.monto = monto;
     }
 
     public Cliente() {
