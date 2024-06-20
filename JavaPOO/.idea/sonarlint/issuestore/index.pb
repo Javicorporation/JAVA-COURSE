@@ -256,3 +256,11 @@ M
 src/Listas/Clases/Listas.java,a\5\a5b4f764cf3b695318ac9a34ad291bd053d37523
 S
 #src/Listas/Clases/AccesoALists.java,3\2\3252af14352baa756b0eb2991983b55bb11e2fba
+V
+&src/EjercicioBanco/Clases/Cliente.java,f\1\f11c3dc2d25caad5b6a001ec98dbe575362e230a
+T
+$src/EjercicioBanco/Clases/Banco.java,8\9\89aba8dfd85b71e3104ec96a5a18bc30c2a7cb69
+T
+$src/EjercicioBanco/Basee/Basee1.java,6\c\6cf9a3da614d4149f11135f5ecfee77cb98f4f8a
+Y
+)src/EjercicioBanco/Basee/Ejecutador1.java,0\1\01602a082bab17987c12dedf729754e04c65f57e
