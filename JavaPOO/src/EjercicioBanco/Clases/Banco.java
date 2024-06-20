@@ -51,24 +51,28 @@ public class Banco {
     public void retirar(long id){
         String opcion;
         int valor;
+
         if (cliente1.getId() == id) {
             System.out.println("su valor actual es de "+ cliente1.getMonto());
            valor = pedirOpcion(msgValorARetirar);
             cliente1.retirar(valor);
             System.out.println("su valor actual es de "+ cliente1.getMonto());
-        } else if (cliente2.getId() == id) {
+        }
+        if (cliente2.getId() == id) {
             System.out.println("su valor actual es de "+ cliente2.getMonto());
             valor = pedirOpcion(msgValorARetirar);
             cliente2.retirar(valor);
             System.out.println("su valor actual es de "+ cliente2.getMonto());
-        } else if (cliente3.getId() == id) {
+        }
+        if (cliente3.getId() == id) {
             System.out.println("su valor actual es de "+ cliente3.getMonto());
             valor = pedirOpcion(msgValorARetirar);
             cliente3.retirar(valor);
             System.out.println("su valor actual es de "+ cliente3.getMonto());
 
-        }else{
-            System.out.println("el valor no es valido, quieres ver los clientes que existen?");
+        }
+        if (cliente1.getId() != id && cliente2.getId() != id  && cliente3.getId() != id){
+            System.out.println("el valor no es valido, quieres ver los clientes que existen? (si/no)");
             opcion = getting.next();
             if (opcion.equalsIgnoreCase("si")) {
                 cliente1.imprimir();
@@ -77,6 +81,8 @@ public class Banco {
             } else if (opcion.equalsIgnoreCase("no")) {
                 System.out.println("Bueno");
             }
+        }else {
+            System.out.println("mal");
         }
     }
 

@@ -10,6 +10,24 @@ public class Ejecutador1 {
     public static final String msgValorNoValido = "El valor ingresado no es valido. ";
     public static final String msgPediID = "Ingrese el id del usuario: ";
 
+
+    public long pedirLong(String message){
+        boolean loopLong;
+        long valor = 0;
+        do {
+            System.out.print(message);
+            if (getting.hasNextLong()) {
+                valor = getting.nextLong();
+                loopLong = true;
+            }else {
+                System.out.println("esta ingresando una cadena y no un valor entero,vuelva a ingresar");
+                getting.next();
+                loopLong = false;
+            }
+        }while (!loopLong);
+        return valor;
+    }
+
     public void presentar(){
         Banco banco = new Banco();
         int opcion;
@@ -25,8 +43,7 @@ public class Ejecutador1 {
 
             switch (opcion){
                 case 1:
-                    System.out.print(msgPediID);
-                    id = getting.nextInt();
+                    id = pedirLong(msgPediID);
                     banco.retirar(id);
                     break;
                 case 2:
