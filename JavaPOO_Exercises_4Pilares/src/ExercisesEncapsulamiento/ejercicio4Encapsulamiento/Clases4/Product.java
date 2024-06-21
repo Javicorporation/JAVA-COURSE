@@ -37,19 +37,28 @@ public class Product {
     public void setStock(int stock) {
         this.stock = stock;
     }
-
-    public void applyDiscount(double targetPrice){
-        boolean loop1;
-        do {
-            if (price > targetPrice) {
-                this.price*= 0.9;
-                System.out.println("- "+price);
-                loop1 = false;
-            }else {
-                System.out.println("A llegado a su descuento maximo");
-                loop1 = true;
-            }
-        }while (!loop1);
-    }
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
