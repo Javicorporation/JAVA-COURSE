@@ -1,5 +1,6 @@
 package EjercicioDeBanco2.Metodos;
 
+import EjercicioDeBanco2.Clases2.Banco2;
 import EjercicioDeBanco2.Clases2.Cliente2;
 
 import java.util.Scanner;
@@ -75,9 +76,14 @@ public class Operaciones {
         return valor;
     }
 
-    public void opcionDepositar(Cliente2 cliente, int id){}
-
-    public void opcionRetirar(Cliente2 cliente, int id){}
+//    public void opcionDepositar(int id){
+//        banco2.BuscarClienteADepositar(id);
+//
+//    }
+//
+//    public void opcionRetirar(int id){
+//        banco2.BuscarClienteARetirar(id);
+//    }
 
 
 
