@@ -266,3 +266,13 @@ Y
 )src/EjercicioBanco/Basee/Ejecutador1.java,0\1\01602a082bab17987c12dedf729754e04c65f57e
 V
 &src/EjercicioBanco/Clases/Metodos.java,e\0\e08d1e0a2332fc117487f57185bbf78fc04a7954
+c
+3src/EjercicioDeBanco2/EjecutarBanco2/BaseBanco.java,5\0\5099de2126419474c1d25cb0c3f150b6ff54ce04
+k
+;src/EjercicioDeBanco2/EjecutarBanco2/EjecutaddorBanco2.java,1\4\145f31bba5d637d8b4064dc88ce4df90f63bf508
+Y
+)src/EjercicioDeBanco2/Clases2/Banco2.java,d\9\d9c2b6c7e001319e5be7a1bed76c31aebd2b3546
+[
++src/EjercicioDeBanco2/Clases2/Cliente2.java,8\3\83fa7d2cd75b26b52a8b182657fbcb6614f8e8c0
+^
+.src/EjercicioDeBanco2/Metodos/Operaciones.java,8\c\8c944cd13d4308a95028d3fefab3288018179bea
