@@ -264,3 +264,5 @@ T
 $src/EjercicioBanco/Basee/Basee1.java,6\c\6cf9a3da614d4149f11135f5ecfee77cb98f4f8a
 Y
 )src/EjercicioBanco/Basee/Ejecutador1.java,0\1\01602a082bab17987c12dedf729754e04c65f57e
+V
+&src/EjercicioBanco/Clases/Metodos.java,e\0\e08d1e0a2332fc117487f57185bbf78fc04a7954

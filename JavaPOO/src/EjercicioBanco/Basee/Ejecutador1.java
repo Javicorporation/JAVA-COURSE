@@ -1,6 +1,7 @@
 package EjercicioBanco.Basee;
 
 import EjercicioBanco.Clases.Banco;
+import EjercicioBanco.Clases.Metodos;
 
 import java.util.Scanner;
 
@@ -10,8 +11,9 @@ public class Ejecutador1 {
     public static final String msgValorNoValido = "El valor ingresado no es valido. ";
     public static final String msgPediID = "Ingrese el id del usuario: ";
 
-
+    Metodos metodos = new Metodos();
     public long pedirLong(String message){
+
         boolean loopLong;
         long valor = 0;
         do {
@@ -29,10 +31,10 @@ public class Ejecutador1 {
     }
 
     public void presentar(){
-        Banco banco = new Banco();
         int opcion;
         boolean loopmen = false;
         long id;
+
 
         do{
             System.out.println("--- MENU ---");
@@ -44,11 +46,11 @@ public class Ejecutador1 {
             switch (opcion){
                 case 1:
                     id = pedirLong(msgPediID);
-                    banco.retirar(id);
+                    metodos.retirar(id);
                     break;
                 case 2:
                     id = pedirLong(msgPediID);
-                    banco.depositar(id);
+                    metodos.depositar(id);
                     break;
                 case 3:
                     System.out.println("Gracias, Bye");

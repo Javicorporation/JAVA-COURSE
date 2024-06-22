@@ -11,11 +11,6 @@ public class Cliente {
         this.id = id;
         this.monto = monto;
     }
-    public Cliente(String nombre,long id) {
-        this.nombre = nombre;
-        this.id = id;
-        //this.monto = monto;
-    }
 
     public Cliente() {
     }
