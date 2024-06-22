@@ -47,8 +47,7 @@ public class Ejecutador1 {
                     banco.retirar(id);
                     break;
                 case 2:
-                    System.out.print(msgPediID);
-                    id = getting.nextInt();
+                    id = pedirLong(msgPediID);
                     banco.depositar(id);
                     break;
                 case 3:
