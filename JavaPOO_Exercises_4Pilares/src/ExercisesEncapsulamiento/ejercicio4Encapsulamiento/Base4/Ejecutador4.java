@@ -1,28 +1,25 @@
 package ExercisesEncapsulamiento.ejercicio4Encapsulamiento.Base4;
 
+import ExercisesEncapsulamiento.ejercicio4Encapsulamiento.Clases4.Metodos;
 import ExercisesEncapsulamiento.ejercicio4Encapsulamiento.Clases4.Product;
 
 public class Ejecutador4 {
-    String name = "juan";
-    double price = 100;
-    int monto = 5;
-    Product product = new Product(name,price,monto);
+
+    Product product1 = new Product("juan", 100, 5);
+    Product product2 = new Product("juan", 150, 5);
+    Product product3 = new Product("juan", 200, 5);
+    Product product9 = new Product("juan", 250, 5);
 
     public void presentar4(){
-        applyDiscount(60);
+        Metodos metodos = new Metodos();
+        metodos.applyDiscount(product1,60);
+        System.out.println();
+        metodos.applyDiscount(product2,70);
+        System.out.println();
+        metodos.applyDiscount(product3,80);
+        System.out.println();
+        metodos.applyDiscount(product9,90);
+
     }
 
-    public void applyDiscount(double targetPrice){
-        boolean loop;
-        do {
-            if (price > targetPrice) {
-                price *= 0.9;
-                System.out.println("- "+price);
-                loop = false;
-            }else {
-                System.out.println("A llegado a su descuento maximo");
-                loop = true;
-            }
-        }while (!loop);
-    }
 }
