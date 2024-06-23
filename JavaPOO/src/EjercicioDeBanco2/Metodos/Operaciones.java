@@ -1,31 +1,28 @@
 package EjercicioDeBanco2.Metodos;
 
-import EjercicioDeBanco2.Clases2.Banco2;
-import EjercicioDeBanco2.Clases2.Cliente2;
-
 import java.util.Scanner;
 
 public class Operaciones {
     public static final Scanner getting = new Scanner(System.in);
-    Cliente2 cliente = new Cliente2();
 
-    public void depositar(double valor) {
-        cliente.setMonto(cliente.getMonto() + valor);
+    public static int pedirOpcionMenu(String message){
+        boolean loop;
+        int valor = 0;
+        do {
+            System.out.print(message);
+            if (getting.hasNextInt()) {
+                valor = getting.nextInt();
+                loop = true;
+            }else {
+                System.out.println("El valor ingresado no es un entero, intente de nuevo.");
+                getting.next();
+                loop = false;
+            }
+        }while (!loop);
+        return valor;
     }
 
-    public void retirar(double valor) {
-        cliente.setMonto(cliente.getMonto() - valor);
-    }
-
-    public void imprimirCliente(){
-        System.out.println("Id: " + cliente.getId());
-        System.out.println("Nombre: " + cliente.getNombre());
-        System.out.println("Apellido: " + cliente.getApellido());
-        System.out.println();
-
-    }
-
-    public static int pedirIntMenu(String message){
+    public static int pedirId(String message){
         boolean loop;
         int valor = 0;
         do {
@@ -77,14 +74,23 @@ public class Operaciones {
     }
 
 //    public void opcionDepositar(int id){
-//        banco2.BuscarClienteADepositar(id);
-//
+////        idEncontrado = banco.Buscar(id);
+////        valor = Operaciones.pedirDouble("Escribe el valor a depositar");
+//        depositar(id);
 //    }
 //
 //    public void opcionRetirar(int id){
-//        banco2.BuscarClienteARetirar(id);
+////        idEncontrado = banco.Buscar(id);
+////        valor = Operaciones.pedirDouble("Escribe el valor a depositar");
+//        retirar(id);
 //    }
-
+//    public void depositar(double valor) {
+//        cliente.setMonto(cliente.getMonto() + valor);
+//    }
+//
+//    public void retirar(double valor) {
+//        cliente.setMonto(cliente.getMonto() - valor);
+//    }
 
 
 

@@ -48,8 +48,10 @@ public class Cliente2 {
         this.monto = monto;
     }
 
+
     @Override
     public String toString() {
         return "Cliente[ "+"nombre= " + nombre +", apellido: " + apellido +", id= " + id +", monto= " + monto +"]";
     }
+
 }
