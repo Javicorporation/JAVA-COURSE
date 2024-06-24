@@ -5,19 +5,22 @@ import ExercisesEncapsulamiento.ejercicio5Encapsulamiento.Clases.Employee;
 public class Metodos {
 
     Employee employee = new Employee();
-    double[] bonuses = employee.getBonuses();
+    // implementamos el array creado en empleados en un array nuevo en esta clase
+    double[] bonuses = new double[5];
 
-    public void addBonus(double bonus){
-        for (int i = 0; i < bonuses.length; i++) {
-            bonuses[i] = bonus;
-        }
-    }
 
-    public double getTotalBonuses(){
+
+
+    public void getTotalBonuses(Employee employee){
+        double[] bonuses = employee.getBonuses();
         double total = 0;
         for (int i = 0; i < bonuses.length; i++) {
             total = total + bonuses[i];
         }
-        return total;
+        System.out.println("el resultado es: " + total);
+    }
+
+    public void addBonus(Employee employee, double bonus){
+        employee.addBonu(bonus);
     }
 }

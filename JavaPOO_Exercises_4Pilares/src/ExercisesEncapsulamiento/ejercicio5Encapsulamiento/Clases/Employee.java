@@ -4,7 +4,17 @@ public class Employee {
     private String name;
     private int id;
     private double salary;
-    private double[] bonuses = new double[4];
+    private double[] bonuses;
+    private int index;
+
+
+    public Employee(String name, int id, double salary, int lengtht) {
+        this.name = name;
+        this.id = id;
+        this.salary = salary;
+        this.bonuses = new double[lengtht];
+        this.index = 0;
+    }
 
     public Employee() {
     }
@@ -38,5 +48,18 @@ public class Employee {
     }
 
 
+    public int getIndex() {
+        return index;
+    }
 
+    public void setIndex(int index) {
+        this.index = index;
+    }
+
+    public void addBonu(double bonus) {
+        if (index < bonuses.length) {
+            bonuses[index] = bonus;
+            index++;
+        }
+    }
 }
