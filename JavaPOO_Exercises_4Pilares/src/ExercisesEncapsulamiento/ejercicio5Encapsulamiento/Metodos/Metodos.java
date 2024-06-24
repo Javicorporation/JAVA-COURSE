@@ -4,12 +4,6 @@ import ExercisesEncapsulamiento.ejercicio5Encapsulamiento.Clases.Employee;
 
 public class Metodos {
 
-    Employee employee = new Employee();
-    // implementamos el array creado en empleados en un array nuevo en esta clase
-    double[] bonuses = new double[5];
-
-
-
 
     public void getTotalBonuses(Employee employee){
         double[] bonuses = employee.getBonuses();
