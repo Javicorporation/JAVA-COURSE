@@ -10,11 +10,7 @@ public class Vehiculo {
         this.modelo = modelo;
         this.color = color;
     }
-
     public void acelerar(){}
 
-    public void frear(){}
-
-
-
+    public void frenar(){}
 }
