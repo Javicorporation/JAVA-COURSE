@@ -1,11 +1,11 @@
 
  
-java:S1192"XDefine a constant instead of duplicating this literal "el salari del empleado " 4 times.(‰Êö˜ÿÿÿÿÿ8„Ð”Ó…2J$ee170b2f-3a98-436b-9b92-c6afbda1e243
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï¿öë8ŒÐ”Ó…2J$cfd6674d-74b8-4fff-9db4-ecc61c980e0d
-r	java:S106"+Replace this use of System.out by a logger.(‰Êö˜ÿÿÿÿÿ8ÃÐ”Ó…2J$2dbaf7eb-8263-4544-80e2-7a93b5ff3486
-m	java:S106"+Replace this use of System.out by a logger.(ÕÐ™±8ÇÐ”Ó…2J$fc0a347a-08c8-49b4-83c7-bd972a4b8853
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ÇÐ”Ó…2J$2902a306-660c-490d-9177-0578cd84de95
-r	java:S106"+Replace this use of System.out by a logger.(°­Ë½úÿÿÿÿ8ËÐ”Ó…2J$229d6fc5-f2e8-4a62-8a99-41d0c21c7e31
-r	java:S106"+Replace this use of System.out by a logger.(”Ûêîþÿÿÿÿ8ÌÐ”Ó…2J$e51da75f-6026-4fd8-a704-46d021e17c97
+java:S1192"XDefine a constant instead of duplicating this literal "el salari del empleado " 4 times.(‰Êö˜ÿÿÿÿÿ8†äáÓ…2J$e67dbb33-8936-4d2d-b27a-bb36db7e15da
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï¿öë8†äáÓ…2J$4a2630ed-e172-4dde-8742-a2a13f583abb
+r	java:S106"+Replace this use of System.out by a logger.(‰Êö˜ÿÿÿÿÿ8–äáÓ…2J$0e8ce827-4bbc-4682-81c2-f3eecc60b1ee
+m	java:S106"+Replace this use of System.out by a logger.(ÕÐ™±8–äáÓ…2J$38328805-180a-4886-b173-baf9abb9e0ba
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8–äáÓ…2J$2b920094-ec72-4c8d-a4e9-2f9fb46126c9
+r	java:S106"+Replace this use of System.out by a logger.(°­Ë½úÿÿÿÿ8–äáÓ…2J$18fd330b-3ba1-4cd2-87e5-984ca432bd84
+r	java:S106"+Replace this use of System.out by a logger.(”Ûêîþÿÿÿÿ8–äáÓ…2J$7bc52724-b264-4f1c-ac24-e274ead1a1d9
 •
-java:S1128"RRemove this unused import 'ExercisesHerencia.Ejercicio3Herencia.Clases3.Empleado'.(…íˆÞ8ÌÐ”Ó…2J$4ccc0fb7-2025-49c9-a973-a3a9c62bddd0
+java:S1128"RRemove this unused import 'ExercisesHerencia.Ejercicio3Herencia.Clases3.Empleado'.(…íˆÞ8âðãÓ…2J$7da9924a-da04-4761-a410-eb89ab99b823

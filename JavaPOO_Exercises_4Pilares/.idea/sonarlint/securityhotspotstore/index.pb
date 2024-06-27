@@ -202,3 +202,5 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 
 Q.idea/sonarlint/securityhotspotstore/b/a/ba282a559d67c427d13ca6513515634ae7782a9c,e\d\edf84c786e30053e8cfc6cf8f92c0743f3e1e3af
+n
+>src/ExercisesHerencia/Ejercicio3Herencia/Metodos3/Metodos.java,4\2\42a8042e81ddfef889e932c6bd8a0d1576374aff

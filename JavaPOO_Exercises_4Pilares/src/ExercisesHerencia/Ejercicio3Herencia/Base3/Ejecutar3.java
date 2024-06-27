@@ -3,9 +3,11 @@ package ExercisesHerencia.Ejercicio3Herencia.Base3;
 import ExercisesHerencia.Ejercicio3Herencia.Clases3.Empleado;
 import ExercisesHerencia.Ejercicio3Herencia.Clases3.EmpleadoMedioTiempo;
 import ExercisesHerencia.Ejercicio3Herencia.Clases3.EmpleadoTiempoCompleto;
+import ExercisesHerencia.Ejercicio3Herencia.Metodos3.Metodos;
 
 public class Ejecutar3 {
     public void presentar(){
+        Metodos metodos = new Metodos();
         EmpleadoMedioTiempo empleado1 = new EmpleadoMedioTiempo("Juan","Pull",1,500, 1, 300);
         EmpleadoMedioTiempo empleado2 = new EmpleadoMedioTiempo("maria","Pull",2,100, 1, 100);
 
@@ -17,6 +19,12 @@ public class Ejecutar3 {
         System.out.println();
         System.out.println("el salari del empleado "+empleado3.getNombre()+" de tiempo completo es: "+empleado3.calcularPago());
         System.out.println("el salari del empleado "+empleado4.getNombre()+" de tiempo completo es: "+empleado4.calcularPago());
+
+        metodos.mostarDatos(empleado1);
+        metodos.mostarDatos(empleado2);
+        metodos.mostarDatos(empleado3);
+        metodos.mostarDatos(empleado4);
+
     }
 }
 

@@ -33,8 +33,6 @@ public class EmpleadoMedioTiempo extends Empleado{
 
     @Override
     public double calcularPago() {
-        double total= getSalario();
-        total= getSalario()+this.horasTrabajadas * this.tarifaPorHora;
-        return total;
+        return getSalario()+(horasTrabajadas * tarifaPorHora);
     }
 }

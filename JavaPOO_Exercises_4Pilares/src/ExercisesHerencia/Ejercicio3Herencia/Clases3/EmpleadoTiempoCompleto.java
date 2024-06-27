@@ -22,8 +22,6 @@ public class EmpleadoTiempoCompleto extends Empleado{
 
     @Override
     public double calcularPago() {
-        double salario = getSalario();
-        salario +=200;
-        return salario;
+        return  getSalario()+200;
     }
 }
