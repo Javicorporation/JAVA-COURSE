@@ -204,3 +204,15 @@ S
 Q.idea/sonarlint/securityhotspotstore/b/a/ba282a559d67c427d13ca6513515634ae7782a9c,e\d\edf84c786e30053e8cfc6cf8f92c0743f3e1e3af
 n
 >src/ExercisesHerencia/Ejercicio3Herencia/Metodos3/Metodos.java,4\2\42a8042e81ddfef889e932c6bd8a0d1576374aff
+i
+9src/ExercisesHerencia/Ejercicio4Herencia/Base4/Base4.java,5\7\57fa626bf8bdf4f90fd6a3aefdd86ba3efa262a1
+o
+?src/ExercisesHerencia/Ejercicio4Herencia/Base4/Ejecutador4.java,2\e\2e1638d0c936bbf9f99f51598734fc0406d17cb8
+l
+<src/ExercisesHerencia/Ejercicio4Herencia/Clases4/Figura.java,a\1\a17030d69a693a56a861f99002c6c038fc380d0b
+m
+=src/ExercisesHerencia/Ejercicio4Herencia/Clases4/Circulo.java,3\c\3c1ac561ecd9ff209b5df860ef3be5f02def7dd4
+p
+@src/ExercisesHerencia/Ejercicio4Herencia/Clases4/Rectangulo.java,9\4\94bcc5acd1da8ef4b30439839e007545d1d0ae16
+n
+>src/ExercisesHerencia/Ejercicio4Herencia/Metodos4/Metodos.java,9\8\989d1ad178d0d66393398393ab7d870704ca7ff2
