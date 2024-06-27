@@ -16,6 +16,5 @@ public class Ejecutador4 {
         System.out.println("");
         System.out.println("el area del rectangulo 1 es "+rectangulo1.calcularArea());
         System.out.println("el perimetro del rectangulo 2 es "+rectangulo2.calcularPerimetro());
-
     }
 }
