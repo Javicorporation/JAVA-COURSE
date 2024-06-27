@@ -1,0 +1,8 @@
+
+
+java:S1192"GDefine a constant instead of duplicating this literal "mendez" 3 times.(âÀî³ûÿÿÿÿ8“ší¼‚2J$3a74116b-3e96-444b-a71d-0efedd9ab0c3
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "hombre" 4 times.(çŞéÆ8–ší¼‚2J$e4d599c1-1cae-44c7-ae99-d8fb21b592d3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·½÷ò8œší¼‚2J$60839fe7-fe46-49ba-aaec-02d492351e0c
+m	java:S106"+Replace this use of System.out by a logger.(™ÔßÙ8¬ší¼‚2J$1bb260e0-44b2-48d0-aeef-f39eb2371df1
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ŠŠğ¼‚2J$7a497c9a-7064-456d-81e0-918f2ba2b54f

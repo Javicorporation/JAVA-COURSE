@@ -1,0 +1,6 @@
+
+Œ
+java:S1192
+"IDefine a constant instead of duplicating this literal "prestado" 3 times.(ï…ñƒ8Ü¶Ä“ƒ2J$d329fbfe-8e13-4cca-9912-b0ca356bb7c2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î«8ë¶Ä“ƒ2J$31f27e83-b7c8-4429-a6c2-17b8e140b9c7
+m	java:S106"+Replace this use of System.out by a logger.(ñ‘‚Ì8û¶Ä“ƒ2J$aaafb3de-e52e-4d13-8707-fe4f6bb693ba

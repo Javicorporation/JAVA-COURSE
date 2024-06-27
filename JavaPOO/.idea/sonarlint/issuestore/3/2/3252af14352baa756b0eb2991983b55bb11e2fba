@@ -1,0 +1,18 @@
+
+¢
+java:S1104"ZMake diasDeLaSemana a static final constant or non-public and provide accessors if needed.(äÐ†Ìýÿÿÿÿ8á©óî‚2J$0de76414-e10f-4325-98ac-f509d360723b
+–
+java:S1104"SMake numeros a static final constant or non-public and provide accessors if needed.(¿Ã°š8á©óî‚2J$911354cf-7395-4a87-b5e5-6180af8abddd
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¶û©ûÿÿÿÿ8ã©óî‚2J$99ba01f8-a9b5-447e-bb74-51c86e545d0e
+¡	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ò«‡›üÿÿÿÿ8ì©óî‚2J$eaa9340a-1bd1-4580-b1fc-ef5b4a0987ed
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ðÞ†­üÿÿÿÿ8ì©óî‚2J$77a2e36a-b9b6-443b-b920-cfefd6792f98
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8÷©óî‚2J$8a0dd6a1-54cc-465f-a63c-253db87093f6
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8ù©óî‚2J$3dd0a365-b3e2-44f1-9374-327116823749
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹á–µ8ú©óî‚2J$8cbcebc8-b8c8-4724-a660-0727424b5d34
+m	java:S106%"+Replace this use of System.out by a logger.(ø©‹‘8ý©óî‚2J$654af250-b888-4b71-86ba-8b27fe7aee3c
+r	java:S106&"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8þ©óî‚2J$5db38a57-69df-4b6d-99be-350a7543cb7b
+r	java:S106+"+Replace this use of System.out by a logger.(Ì€áàþÿÿÿÿ8þ©óî‚2J$dca2679b-0c83-47a2-b294-4779c838263b
+r	java:S106/"+Replace this use of System.out by a logger.(Ò³ï¸üÿÿÿÿ8ÿ©óî‚2J$18ab57cb-950c-4334-8f9f-821cca445f4a
+•	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É°íïþÿÿÿÿ8ÿ©óî‚2J$859cea1c-d67a-47e3-b8a0-f3c8915b9f93
+r	java:S106>"+Replace this use of System.out by a logger.(˜°‹Œüÿÿÿÿ8‹ªóî‚2J$5020dd9b-534f-42f5-8a44-db44aa585eb3

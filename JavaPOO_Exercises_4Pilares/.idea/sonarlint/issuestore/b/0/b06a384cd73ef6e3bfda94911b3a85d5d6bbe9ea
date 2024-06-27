@@ -1,0 +1,32 @@
+
+
+java:S1192"GDefine a constant instead of duplicating this literal "accion" 3 times.(¼××âÿÿÿÿÿ8¿Ş‘Š…2J$29858322-e42f-425d-9396-5856d397cc27
+‰
+java:S1192	"FDefine a constant instead of duplicating this literal "bablo" 3 times.(›ø™8¿Ş‘Š…2J$475525a8-3f35-4c11-8058-aa28efa8f8b2
+
+java:S1192"FDefine a constant instead of duplicating this literal "lucia" 3 times.(¼××âÿÿÿÿÿ8¿Ş‘Š…2J$c20bc713-bfcb-486c-b14c-43f16cf7e003
+Š
+java:S1192	"GDefine a constant instead of duplicating this literal "libro1" 3 times.(›ø™8ÂŞ‘Š…2J$12772058-1d03-4adb-b480-ed852fe5b958
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú²½8ÅŞ‘Š…2J$2ec62b59-0926-4892-a388-547134cedf8c
+{
+java:S1854"8Remove this useless assignment to local variable "dvD3".(«ÛÀ±8ÍŞ‘Š…2J$a606231c-627e-4def-a448-aacc111c3cbc
+€
+java:S1854"8Remove this useless assignment to local variable "dvD2".(ÁÈÛ§ıÿÿÿÿ8ÍŞ‘Š…2J$d7413d93-c104-48b0-b1ec-46d15d31a80b
+€
+java:S1854"8Remove this useless assignment to local variable "dvD1".(¼××âÿÿÿÿÿ8ÍŞ‘Š…2J$bd3a74f9-19d3-4615-94a8-2d7516c6f913
+‚
+java:S1854":Remove this useless assignment to local variable "libro3".(×ä°õüÿÿÿÿ8ÍŞ‘Š…2J$76fcfd23-c734-49ab-94ce-300411384216
+‚
+java:S1854
+":Remove this useless assignment to local variable "libro2".(ÃÙÃÄùÿÿÿÿ8ÍŞ‘Š…2J$036361fd-45a6-4906-a702-a9a8b13afc85
+s
+java:S1481
+"+Remove this unused "libro2" local variable.(ÃÙÃÄùÿÿÿÿ8ÑŞ‘Š…2J$a2f63c6c-fb71-42d2-ae12-9db37a8a51d4
+s
+java:S1481"+Remove this unused "libro3" local variable.(×ä°õüÿÿÿÿ8ÔŞ‘Š…2J$19945f65-b093-43e4-a209-79b098be380e
+q
+java:S1481")Remove this unused "dvD1" local variable.(¼××âÿÿÿÿÿ8ÔŞ‘Š…2J$7e5dc709-0206-4257-aad1-0f4c463a0e76
+q
+java:S1481")Remove this unused "dvD2" local variable.(ÁÈÛ§ıÿÿÿÿ8ÔŞ‘Š…2J$a3ac95b3-dc34-4b4a-9022-1dc2d0bca904
+l
+java:S1481")Remove this unused "dvD3" local variable.(«ÛÀ±8ÔŞ‘Š…2J$02e93c6d-7820-4ca1-b308-d02fb087374d

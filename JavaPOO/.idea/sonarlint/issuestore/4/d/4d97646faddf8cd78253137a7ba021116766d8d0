@@ -1,0 +1,36 @@
+
+¬
+java:S1192A"iDefine a constant instead of duplicating this literal "Digite la parte real del primer numero: " 3 times.(«¬–µ8¹ä§ş1J$6cd22057-6be2-4647-b8c8-2fc0faf14bcc
+š
+java:S1192H"WDefine a constant instead of duplicating this literal "Resultado de la suma: " 3 times.(ƒ²ŠÂ8Îáå§ş1J$fd9d82ca-3854-4f2c-81ba-415f33910e12
+¸
+java:S1192D"pDefine a constant instead of duplicating this literal "Digite la parte imaginaria del segundo numero: " 3 times.(ğ¤Úƒÿÿÿÿÿ8Ğ¹ä§ş1J$9212358d-d136-4bda-9633-439234e94b96
+­
+java:S1192C"jDefine a constant instead of duplicating this literal "Digite la parte real del segundo numero: " 3 times.(Ê°Şì8ï¹ä§ş1J$4ea69b23-3f45-4f3e-bd88-4120d31ee633
+±
+java:S1192B"oDefine a constant instead of duplicating this literal "Digite la parte imaginaria del primer numero: " 3 times.(æïË8ï¹ä§ş1J$7c78b2cb-52dc-4466-a2f5-6c589836e065
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‚Ó8ÿ¹ä§ş1J$a286df42-e8f6-4156-a1c8-d6e572dc3db6
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8Ÿºä§ş1J$8e53bc1a-65b8-4e99-9b4d-28f021232f1b
+r	java:S106"+Replace this use of System.out by a logger.(íòÜØúÿÿÿÿ8¯ºä§ş1J$77f02b89-7dc1-405d-acd1-25eb3b1e9d26
+s
+java:S1659""+Declare "segundoNumero" on a separate line.(˜“æ‹øÿÿÿÿ8Ïºä§ş1J$94d4d7c1-dd9d-40ec-9806-c0efa4194899
+o
+java:S1659#",Declare "multiplicacion" on a separate line.(È±¹Ş8Şºä§ş1J$47d3f018-9f2b-47ec-b621-d356fa0c610a
+r	java:S106+"+Replace this use of System.out by a logger.(áÙõ©øÿÿÿÿ8îºä§ş1J$b589bd23-1e52-48ed-b295-ed32ed9cd9c1
+m	java:S106,"+Replace this use of System.out by a logger.(Âğâî8ïºä§ş1J$aa508c55-b042-478e-a022-be3dbd6412b2
+m	java:S106-"+Replace this use of System.out by a logger.(Ï£½Ò8ïºä§ş1J$ce0a6d08-af18-4435-aea5-58ac12de194d
+m	java:S106."+Replace this use of System.out by a logger.(¡Õ–ó8ïºä§ş1J$2ac6572e-abbf-49ec-a02e-43d6b1016527
+m	java:S106/"+Replace this use of System.out by a logger.(Úî†¸8ïºä§ş1J$4fe4c5a2-f783-4c3a-a3e6-9286bff1a951
+m	java:S1060"+Replace this use of System.out by a logger.(÷ÌÑÑ8ïºä§ş1J$34c2307b-d24c-4458-8bfd-08bae3412df8
+m	java:S1062"+Replace this use of System.out by a logger.(êà–È8ïºä§ş1J$8783384b-0d3e-4824-bc99-666567913371
+r	java:S1069"+Replace this use of System.out by a logger.(òÍ‰éşÿÿÿÿ8şºä§ş1J$b01339c6-c6e7-4237-a0c0-058ded6af002
+m	java:S106H"+Replace this use of System.out by a logger.(ƒ²ŠÂ8ƒ»ä§ş1J$045222f5-6f19-4d16-b765-b98dd306d9af
+r	java:S106S"+Replace this use of System.out by a logger.(‚ñ¹úÿÿÿÿ8»ä§ş1J$182004bc-9681-457c-8d96-ce67563f70fa
+o
+java:S1125\"'Remove the unnecessary boolean literal.(ôıí·ûÿÿÿÿ8»ä§ş1J$95f0c304-58c7-4bc3-ba40-a39145158646
+m	java:S106]"+Replace this use of System.out by a logger.(Àœß8­»ä§ş1J$5f1c4157-3968-4e5c-9ded-f4ece63eb555
+r	java:S106_"+Replace this use of System.out by a logger.(­„µìùÿÿÿÿ8½»ä§ş1J$9d98bfa3-4c65-4575-90fa-666a6451fd7e
+m	java:S106e"+Replace this use of System.out by a logger.(óŒí8Ì»ä§ş1J$9f4aaeaa-b795-4b61-abc3-4cc8d6c26390
+r	java:S106i"+Replace this use of System.out by a logger.(‚ñ¹úÿÿÿÿ8Ñ»ä§ş1J$25af9d22-815f-4cb2-ad35-78c4863af1fb
+r	java:S106l"+Replace this use of System.out by a logger.(“à“ïøÿÿÿÿ8Ñ»ä§ş1J$a9b04b1a-b0ee-4f85-ab50-b15dcfb3cff3
+m	java:S106p"+Replace this use of System.out by a logger.(•ïÌ8Ñ»ä§ş1J$82c0ebbb-caa8-4231-ac67-8972892dbaf9

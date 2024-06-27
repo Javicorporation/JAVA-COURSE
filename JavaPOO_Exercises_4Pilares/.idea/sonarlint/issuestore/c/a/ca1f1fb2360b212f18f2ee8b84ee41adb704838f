@@ -1,0 +1,25 @@
+
+›
+java:S1104
+"SMake getting a static final constant or non-public and provide accessors if needed.(Â†åîùÿÿÿÿ8×ùÛ’ƒ2J$f6652fa0-d19a-4b26-96db-00fbab8e6a24
+˜
+java:S1104"UMake msgNombre a static final constant or non-public and provide accessors if needed.(çíÅæ8×ùÛ’ƒ2J$65850565-a781-4bf0-9c96-f75caaff3dc2
+œ
+java:S1104"TMake msgAutor a static final constant or non-public and provide accessors if needed.(¡è¼èûÿÿÿÿ8æùÛ’ƒ2J$9c238b6b-366d-4277-8377-cf4f6cc480e3
+˜
+java:S1104"UMake msgEstado a static final constant or non-public and provide accessors if needed.(ğ•¼Õ8æùÛ’ƒ2J$846d516e-bb4a-4f7a-a31d-2651101081f6
+u
+java:S1444
+"-Make this "public static getting" field final(Â†åîùÿÿÿÿ8æùÛ’ƒ2J$b5c19d5a-f43a-47be-b77f-ad1af7e250fe
+r
+java:S1444"/Make this "public static msgNombre" field final(çíÅæ8æùÛ’ƒ2J$614dd6ad-605d-43bc-96cf-a7448374b501
+v
+java:S1444".Make this "public static msgAutor" field final(¡è¼èûÿÿÿÿ8æùÛ’ƒ2J$0c9a5c69-4d32-4490-8850-2d02824abdc9
+r
+java:S1444"/Make this "public static msgEstado" field final(ğ•¼Õ8æùÛ’ƒ2J$91856e7f-c92a-45ae-bb44-f0100de6e972
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©’€âøÿÿÿÿ8æùÛ’ƒ2J$79114f3a-15ae-47a2-9cbb-aaf863f24ccb
+Š
+java:S2259#"BA "NullPointerException" could be thrown; "book" is nullable here.(¯º€ªşÿÿÿÿ8–Àµ“ƒ2J$51945ff4-afcb-4c4c-8959-614e18a914d3
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8ùùÛ’ƒ2J$1410e600-8fa4-4e56-8bdc-fb9bfea8b265
+m	java:S106$"+Replace this use of System.out by a logger.(äüÃâ8µÀµ“ƒ2J$dee15992-6630-4307-b6c9-43c491a5c70e
+~	java:S125*"<This block of commented-out lines of code should be removed.(Ÿ€“Ç8µÀµ“ƒ2J$a900ad96-825e-418f-a91a-a765e91acc8a

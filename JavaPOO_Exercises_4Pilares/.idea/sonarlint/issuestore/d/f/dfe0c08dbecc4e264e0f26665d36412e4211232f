@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹çÍ8áÖ£‰…2J$1f7b8cdc-b2ff-4a19-8a2e-8b47ce4a2388
+§
+java:S4165"dRemove this useless assignment; "titulo" already holds the assigned value along all execution paths.(óÄ»8®Ò§Š…2J$77056a5d-4db8-4b5a-963e-39e00ac73376
+§
+java:S4165	"dRemove this useless assignment; "titulo" already holds the assigned value along all execution paths.(óÄ»8 “§Š…2J$e20d14b0-4576-47a9-b106-742d09ab57a4
+|
+java:S5993"9Change the visibility of this constructor to "protected".(‡•øı8âç¯‰…2J$1863b23a-54c4-4c91-9e9c-5f64b4462a5e
+
+java:S5993"9Change the visibility of this constructor to "protected".(ç‘‹ğûÿÿÿÿ8ãç¯‰…2J$96683cb8-6b34-4c97-9de2-1200ef8c39a3
+r
+java:S1656	"/Remove or correct this useless self-assignment.(óÄ»8¥“§Š…2J$c5c74559-5ee4-4f79-a645-8c8b1e8808ff
+}
+java:S1854":Remove this useless assignment to local variable "titulo".(óÄ»8¸Ò§Š…2J$b28a22be-fa81-4e3d-af90-5519fbfd4040
+r
+java:S1656"/Remove or correct this useless self-assignment.(óÄ»8ºÒ§Š…2J$1acc534a-e2ad-4c2e-a097-771e3e35029d

@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹çÍ8Š…2J$a4eb47b8-2f31-469b-b926-44b638a5d270
+j
+java:S1125"'Remove the unnecessary boolean literal.(’ÔâÉ8¦Š…2J$50444e9b-dbb5-40ef-96a4-230370f80d49
+r	java:S106"+Replace this use of System.out by a logger.(…Àşœûÿÿÿÿ8¦Š…2J$5ff07a1e-0e18-4e55-a525-33009f75ad37
+m	java:S106"+Replace this use of System.out by a logger.(Õ³–˜8©Š…2J$e6f3ef26-af37-40d1-ae0b-48592ea01f80
+j
+java:S1125""'Remove the unnecessary boolean literal.(’ÔâÉ8«Š…2J$710d16ae-581e-43b9-bfa4-ede4c4b05e37
+m	java:S106#"+Replace this use of System.out by a logger.(‹Š°¬8«Š…2J$71945b30-77ee-4d75-a9ef-a26278049c5e
+r	java:S106%"+Replace this use of System.out by a logger.(‹ûÛÜøÿÿÿÿ8®Š…2J$85ae65e9-577f-4f2c-ac30-dce90db8c71a
+r	java:S106*"+Replace this use of System.out by a logger.(ä×¼ıÿÿÿÿ8®Š…2J$8d55cfa7-4f19-42e9-a50c-1c8ae6aa2959

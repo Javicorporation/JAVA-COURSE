@@ -1,0 +1,13 @@
+
+Ž
+java:S1192"FDefine a constant instead of duplicating this literal "verde" 4 times.(îÄ½«ûÿÿÿÿ8¦ßµ‡…2J$f63392ef-282d-46e6-8cd1-bc3d40aacf27
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ðâº8®ßµ‡…2J$d08d4b47-42dc-4779-8782-eee1704e7f09
+|
+java:S1854"9Remove this useless assignment to local variable "coch3".(¯ÀÇÌ8Áßµ‡…2J$d7581d33-d155-46cb-be52-68c75361a911
+|
+java:S1854"9Remove this useless assignment to local variable "coch1".(áË¯ò8Áßµ‡…2J$598fa9ed-5ca9-42d4-97da-ed8e37001b5d
+m
+java:S1481"*Remove this unused "coch1" local variable.(áË¯ò8Æßµ‡…2J$64e8f404-1ab0-48ff-ad49-6b2ac0068058
+m
+java:S1481"*Remove this unused "coch3" local variable.(¯ÀÇÌ8Æßµ‡…2J$1935db04-ea00-4086-8456-7e2809517c1a
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Æßµ‡…2J$65db065a-4952-455a-8fba-5e85ea5ea438

@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’â„¢8á—ä‘„2J$70a822f4-f236-40c6-b1fc-732447fbbd76
+¦
+java:S4144"^Update this method so that its implementation is not identical to "pedirOpcionMenu" on line 8.(êÁÀ‚ùÿÿÿÿ8çİ—’„2J$6e231163-8911-434d-b868-8e9133ddb0dc
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(€Æñ®øÿÿÿÿ8ÉŸô’„2J$1dbbe06d-559c-47e9-bcd2-d403b3732c63
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8˜ä‘„2J$13506acf-34be-41c0-82ef-c76970ba2a82
+m	java:S106"+Replace this use of System.out by a logger.(Ââ¥É8˜ä‘„2J$08305b72-6f68-4e65-b624-affc05da4062
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8¯˜ä‘„2J$0f360c79-a9f8-41e3-bb31-ccbc8cc9d511
+m	java:S106""+Replace this use of System.out by a logger.(Ââ¥É8¿˜ä‘„2J$5783190f-0c4d-4748-8caa-316cab1c7826
+m	java:S106."+Replace this use of System.out by a logger.(ÌË§„8¿˜ä‘„2J$d41779ab-4710-4f07-b738-b544758787df
+l	java:S1063"+Replace this use of System.out by a logger.( Õ˜8¿˜ä‘„2J$f39c3962-7eb3-4beb-8644-103054eb2ded
+m	java:S106?"+Replace this use of System.out by a logger.(ÌË§„8Á—’„2J$d88cdf6b-4b7f-47e3-af25-34631764e995
+m	java:S106D"+Replace this use of System.out by a logger.(Ÿ£İ8Á—’„2J$1c393a43-9fd8-45c5-9526-10f89b9cdeb2
+~	java:S125L"<This block of commented-out lines of code should be removed.(ÔœÙ8¾·ï’„2J$6fe07ba9-fbce-46fd-a1cd-2061cafea90b

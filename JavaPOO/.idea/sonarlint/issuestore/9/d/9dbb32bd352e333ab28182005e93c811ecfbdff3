@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÒŽôûÿÿÿÿ8ÑÏìÄ‚2J$016cd0ec-4c9e-403c-b4b4-bcf3ad81baec
+…
+java:S1854"=Remove this useless assignment to local variable "producto4".(ÿ¼ƒÔÿÿÿÿÿ8¸¡ïÄ‚2J$3a9330c5-edf7-486d-a07d-7a8b560d64b8
+…
+java:S1854"=Remove this useless assignment to local variable "producto3".(©ñ«àþÿÿÿÿ8¹¡ïÄ‚2J$f0c92ea4-4188-468c-8808-3565a8d29fc9
+…
+java:S1854"=Remove this useless assignment to local variable "producto2".(Þ£ÑÚúÿÿÿÿ8¹¡ïÄ‚2J$45627a69-f27f-43aa-bdc3-3ace654177e9
+v
+java:S1481".Remove this unused "producto2" local variable.(Þ£ÑÚúÿÿÿÿ8¾¡ïÄ‚2J$02b56452-663b-41d6-b68f-37c3e3d21917
+v
+java:S1481".Remove this unused "producto3" local variable.(©ñ«àþÿÿÿÿ8¾¡ïÄ‚2J$70ffb878-8d9c-493d-bb3b-ebc7f62da184
+v
+java:S1481".Remove this unused "producto4" local variable.(ÿ¼ƒÔÿÿÿÿÿ8¾¡ïÄ‚2J$a8c36a9a-a382-43dc-9e77-67b680fd5d70

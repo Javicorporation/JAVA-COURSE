@@ -1,0 +1,34 @@
+
+™
+java:S1104"QMake saldo a static final constant or non-public and provide accessors if needed.(ü‰¡Ãıÿÿÿÿ8‚°ì€ş1J$28a3888b-7f68-4bda-be7e-0ba81fcce0c9
+™
+java:S1104"QMake clave a static final constant or non-public and provide accessors if needed.(àĞ“áùÿÿÿÿ8ƒ°ì€ş1J$cc6d5ea8-f44a-4d87-bd8e-e105d1fb0808
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó­¤øÿÿÿÿ8…°ì€ş1J$7147872f-a34f-4800-91f5-2c8db4026eb6
+d
+java:S1170"!Make this final field static too.(¼íÙÂ8›°ì€ş1J$74e45ecd-f3db-44b0-b230-184063bb7877
+i
+java:S1170"!Make this final field static too.(îñûÊúÿÿÿÿ8›°ì€ş1J$41605a97-7430-4461-aed3-c7467e612fd4
+d
+java:S1170	"!Make this final field static too.(Ô æº8°ì€ş1J$6463f043-ff69-4134-8b2e-431187a391b2
+i
+java:S1170
+"!Make this final field static too.(áİ‰³ÿÿÿÿÿ8°ì€ş1J$686c12c4-5f01-4110-8f76-692cbe36afca
+d
+java:S1170"!Make this final field static too.(Ê•ø8°ì€ş1J$31ebd6c5-06b3-4cf9-a0a0-6f69cad734b7
+d
+java:S1170"!Make this final field static too.(äê¾„8°ì€ş1J$7d6b6cab-e4fb-4aa3-b969-76a186aef531
+i
+java:S1170"!Make this final field static too.(„ƒ·Èúÿÿÿÿ8°ì€ş1J$4d1367b5-7939-4206-a910-dd99ae22b0e1
+i
+java:S1170"!Make this final field static too.(™êÿÓúÿÿÿÿ8°ì€ş1J$546f5f40-fc11-4456-830f-fea12e054b25
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8«°ì€ş1J$e6b41237-99af-47f9-83da-5625c30964bf
+r	java:S106!"+Replace this use of System.out by a logger.(ÖØ ·ûÿÿÿÿ8®°ì€ş1J$63d9be7a-fa0b-4a84-b736-27f85d2b7f4b
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(ËÏ‘¸ÿÿÿÿÿ8´°ì€ş1J$cd1d5f1d-1c0a-4e30-b008-3d732e3b86e7
+r	java:S1060"+Replace this use of System.out by a logger.(íãŒüÿÿÿÿ8¶°ì€ş1J$ab5a5021-b2b6-4c85-b3d9-8711847d2548
+m	java:S1068"+Replace this use of System.out by a logger.(ù¿·Ò8¸°ì€ş1J$75a83cfc-7eb7-445a-a7ee-f8ad638c347e
+r	java:S1069"+Replace this use of System.out by a logger.(íãŒüÿÿÿÿ8¹°ì€ş1J$41c5b8fe-39ec-4136-a4b6-f5ec1b4f99a7
+m	java:S106<"+Replace this use of System.out by a logger.(Í¹Å8º°ì€ş1J$66428fe4-52aa-4da2-8684-4909657a53c8
+r	java:S106C"+Replace this use of System.out by a logger.(ÄÜœÄüÿÿÿÿ8»°ì€ş1J$6193aa68-2780-48a8-9949-678afee3c3fa
+r	java:S106F"+Replace this use of System.out by a logger.(‚ç˜şÿÿÿÿ8½°ì€ş1J$906d9c8b-bc8d-42d1-bdec-f6da43867bde
+m	java:S106J"+Replace this use of System.out by a logger.(í…‡¥8¿°ì€ş1J$178a596c-45cb-4475-837f-077bab08087b
+r	java:S106Q"+Replace this use of System.out by a logger.(íãŒüÿÿÿÿ8À°ì€ş1J$da0ab772-deee-4c35-b199-704d32271a8c

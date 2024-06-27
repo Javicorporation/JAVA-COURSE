@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¯¼œûÿÿÿÿ8‚âß¡ÿ1J$ff25813d-5ea3-46dc-9aa9-ab89f6c4c9ed
+
+java:S1201""UEither override Object.equals(Object), or rename the method to prevent any confusion.(ÿ·²°úÿÿÿÿ8¡âß¡ÿ1J$c6b30370-148a-40be-a8dc-f13695b44213
+„
+java:S1126#"AReplace this if-then-else statement by a single return statement.(Õ×Å8¡âß¡ÿ1J$3ac529d3-a575-4c14-aca1-10181c64e762
