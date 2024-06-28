@@ -31,8 +31,6 @@ public class Ejecutador2 {
                 default:
                     System.out.println("el valor ingresado no se encuentra en el menu.");
             }
-
         }while (!loopMenu);
     }
-
 }

@@ -28,7 +28,6 @@ public class Metodos {
         return valor;
     }
 
-
     public static String pedirString(String message){
         String valor = "";
         boolean loopInt;

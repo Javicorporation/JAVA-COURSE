@@ -1,12 +1,12 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àù˜ø8ÉÃø‚†2J$a588f8ca-2a7a-4913-bfa0-3899a379d275
-m	java:S106"+Replace this use of System.out by a logger.(¹ç‡ú8ÙÃø‚†2J$721d18ab-d17e-40ac-9da3-bab66f749eae
-r	java:S106"+Replace this use of System.out by a logger.(¶™‡•şÿÿÿÿ8ßÃø‚†2J$1d44f253-bfe8-439a-b8ab-88c8d98fd9b7
-r	java:S106"+Replace this use of System.out by a logger.(ÜóÃøüÿÿÿÿ8ßÃø‚†2J$78ce7f7e-1e6e-40be-87b7-e174ef49e65e
-r	java:S106"+Replace this use of System.out by a logger.(Óâ•ÿÿÿÿÿ8ßÃø‚†2J$5ff3c744-4ac9-4122-8f8d-720a4ee38d2b
-m	java:S106"+Replace this use of System.out by a logger.(± ÏŠ8ßÃø‚†2J$e5242b42-9b39-4671-a996-2a1ec2eb5465
-r	java:S106 "+Replace this use of System.out by a logger.(î…¼ÿÿÿÿÿ8ßÃø‚†2J$8cba8fef-92ea-4ab1-93c4-1fcd2bf777e6
-z
-java:S1128"XRemove this unused import 'ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Animal'.(áæ¡¶ÿÿÿÿÿ8‡½Éƒ†2
-t
-java:S1128"WRemove this unused import 'ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Perro'.(éÂ‹›8‡½Éƒ†2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àù˜ø8ÉÃø‚†2J$3478b1d6-7424-43c3-a4f9-5fefd7d2f701
+m	java:S106"+Replace this use of System.out by a logger.(¹ç‡ú8ÙÃø‚†2J$e9f3198f-a4f0-46e6-a565-7ac7cec07ccc
+r	java:S106"+Replace this use of System.out by a logger.(¶™‡•şÿÿÿÿ8ßÃø‚†2J$55bda614-39b2-4132-9cb0-187c5cf206ae
+r	java:S106"+Replace this use of System.out by a logger.(ÜóÃøüÿÿÿÿ8ßÃø‚†2J$0f44cb82-e6b4-43c3-964e-14973a1dcf5a
+r	java:S106"+Replace this use of System.out by a logger.(Óâ•ÿÿÿÿÿ8ßÃø‚†2J$ac7958bd-8561-4e76-b3d2-90ece4ffc859
+m	java:S106"+Replace this use of System.out by a logger.(± ÏŠ8ßÃø‚†2J$e8df1907-76a9-45d3-b4b7-bdbe142f1ece
+r	java:S106 "+Replace this use of System.out by a logger.(î…¼ÿÿÿÿÿ8ßÃø‚†2J$ce4ca6e8-1a55-407b-8e47-e5ee8d03bf75
+ 
+java:S1128"XRemove this unused import 'ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Animal'.(áæ¡¶ÿÿÿÿÿ8‡½Éƒ†2J$f45dcca0-a831-473b-ad34-2f92511bbefd
+š
+java:S1128"WRemove this unused import 'ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Perro'.(éÂ‹›8‡½Éƒ†2J$0801e938-4bd5-404b-aa51-5d20cb1a2996

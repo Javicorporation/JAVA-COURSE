@@ -1,11 +1,11 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç»€Îıÿÿÿÿ8ë˜Âƒ†2J$ac9b03dd-56af-40ed-94d5-275c9d6f0fe7
-m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8Œ™Âƒ†2J$4d993810-33d7-4eab-9b7e-d808be4b9622
-m	java:S106"+Replace this use of System.out by a logger.(Ù Æ8Œ™Âƒ†2J$46ef73c3-562a-46a5-a4ea-198e11c7c60a
-m	java:S106$"+Replace this use of System.out by a logger.(ÌË§„8Œ™Âƒ†2J$fb89f58a-107d-4e47-8202-c4e2192b0bbe
-r	java:S106)"+Replace this use of System.out by a logger.(ûÉşÅşÿÿÿÿ8Œ™Âƒ†2J$fcc611be-6847-4dd0-aa9d-5e8e12db330b
-m	java:S106;"+Replace this use of System.out by a logger.(‘Æë·8Œ™Âƒ†2J$470c86bf-671a-49de-9f14-3ccb3935442d
-r	java:S106>"+Replace this use of System.out by a logger.(ı¤¬¾ùÿÿÿÿ8íÒÄƒ†2J$46adc9f9-2877-469c-b1f1-9747ff3b9273
-m	java:S106?"+Replace this use of System.out by a logger.(¢ùÚ8úÒÄƒ†2J$b7f65b0b-84cb-4f14-bd22-ecc2471106f3
-r	java:S106@"+Replace this use of System.out by a logger.(ó‘÷şÿÿÿÿÿ8úÒÄƒ†2J$590075fa-7757-4a7f-832a-a2bffd4d425d
-r	java:S106A"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8üÒÄƒ†2J$63defb10-169f-4d7f-b979-23fa48da5d24
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç»€Îıÿÿÿÿ8ë˜Âƒ†2J$897e6633-c2ee-49a9-883f-b498ea8ea1f1
+m	java:S106"+Replace this use of System.out by a logger.(ÌË§„8Œ™Âƒ†2J$2ec93e0e-59d1-46dc-bac3-48544a331bb7
+m	java:S106"+Replace this use of System.out by a logger.(Ù Æ8Œ™Âƒ†2J$96d2b964-a142-49fd-905f-7002525e9609
+m	java:S106#"+Replace this use of System.out by a logger.(ÌË§„8Œ™Âƒ†2J$8a1a289b-3e37-459a-accd-b24efd3bef4e
+r	java:S106("+Replace this use of System.out by a logger.(ûÉşÅşÿÿÿÿ8Œ™Âƒ†2J$0309b1a4-e6df-4c6f-89e7-24cd2618727a
+m	java:S106:"+Replace this use of System.out by a logger.(‘Æë·8Œ™Âƒ†2J$56e403bd-5a05-4273-b0ad-19977652c35a
+r	java:S106="+Replace this use of System.out by a logger.(ı¤¬¾ùÿÿÿÿ8íÒÄƒ†2J$0d070ca9-ee21-4321-a29f-164936bbbc1e
+m	java:S106>"+Replace this use of System.out by a logger.(¢ùÚ8úÒÄƒ†2J$1b87f723-542b-44df-b3a9-f8a3c8b04010
+r	java:S106?"+Replace this use of System.out by a logger.(ó‘÷şÿÿÿÿÿ8úÒÄƒ†2J$998036ea-47ea-44ae-a931-b55784f5199b
+r	java:S106@"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8üÒÄƒ†2J$71f642d5-311f-45e1-81d3-4b3de8fdfc23
