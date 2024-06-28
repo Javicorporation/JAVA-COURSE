@@ -72,8 +72,6 @@ i
 9src/ExercisesHerencia/Ejercicio1Herencia/Base1/Base1.java,e\5\e5b4bfa8dcb55bde377990abaca40594903447b6
 m
 =src/ExercisesHerencia/Ejercicio1Herencia/Metodos/Metodos.java,1\e\1e600c55274238713c16067b8d14eda2f90f1daa
-p
-@src/ExercisesHerencia/Ejercicio1Herencia/Ejercicio2Herencia.java,4\5\45f732b58b583e14bc7eb89619481f14f6ecf8c6
 i
 9src/ExercisesHerencia/Ejercicio2Herencia/Base2/Base2.java,1\6\168dd3d0e5c61bf80bc092b1772a800deab93509
 o
@@ -226,3 +224,15 @@ k
 ;src/ExercisesHerencia/Ejercicio5Herencia/Clases5/Perro.java,6\8\687c3d41d16326bee9b5ffedc2d2087e97b19f75
 j
 :src/ExercisesHerencia/Ejercicio5Herencia/Clases5/Gato.java,f\a\fa1cf8a010a2f2a13800992ec1927e41e2f43b5f
+m
+=src/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1.java,1\1\111aa6d70aa6b1c3edec3d29be7c8417295259aa
+r
+Bsrc/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1/Pago.java,1\5\1597e3b4a7475fcfc6b16da89353a5d73394fb4e
+|
+Lsrc/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1/PagoConTarjeta.java,5\8\58a07763c721438ee3be4327a1107df7c72c75c6
+}
+Msrc/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1/PagoConEfectivo.java,2\f\2f18861b105e495e416bfc3de0917f2d4a4ae4f3
+q
+Asrc/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Base1/Base1.java,b\1\b18e32f2a35b708616ae656c6612186e89546939
+w
+Gsrc/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Base1/Ejecutador1.java,5\f\5fe6d5b7469a61bc6a51e4b677ac39f5ad5202b4
