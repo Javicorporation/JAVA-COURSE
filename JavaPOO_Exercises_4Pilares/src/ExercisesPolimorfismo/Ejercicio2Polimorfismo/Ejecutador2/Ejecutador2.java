@@ -1,5 +1,7 @@
 package ExercisesPolimorfismo.Ejercicio2Polimorfismo.Ejecutador2;
 
+import ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Animal;
+import ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Perro;
 import ExercisesPolimorfismo.Ejercicio2Polimorfismo.Metodos2.Metodos;
 
 public class Ejecutador2 {
@@ -31,6 +33,6 @@ public class Ejecutador2 {
             }
 
         }while (!loopMenu);
-
     }
+
 }

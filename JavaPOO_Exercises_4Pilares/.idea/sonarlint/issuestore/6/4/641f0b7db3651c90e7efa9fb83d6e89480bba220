@@ -1,8 +1,12 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àù˜ø8Ü×‚†2J$376d234b-b63f-4df4-8bf9-2e8f50283993
-m	java:S106"+Replace this use of System.out by a logger.(¹ç‡ú8ë×‚†2J$20ecd83d-65d9-46f1-a36e-2d071a09fdbd
-r	java:S106"+Replace this use of System.out by a logger.(¶™‡•şÿÿÿÿ8ë×‚†2J$67dd5767-5b9e-4651-b548-7bc02aedc4ad
-r	java:S106"+Replace this use of System.out by a logger.(ÜóÃøüÿÿÿÿ8ë×‚†2J$e072f825-b31f-4f48-b4ce-4233fdd2b6de
-r	java:S106"+Replace this use of System.out by a logger.(Óâ•ÿÿÿÿÿ8ë×‚†2J$9c059aa5-0d33-41f7-b577-1065d0b287d1
-m	java:S106"+Replace this use of System.out by a logger.(± ÏŠ8ë×‚†2J$2d20a87e-fc1c-403d-b19a-3a03177fad83
-r	java:S106"+Replace this use of System.out by a logger.(î…¼ÿÿÿÿÿ8ë×‚†2J$4f68524b-9019-4519-aeb4-7af253ebe400
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àù˜ø8ÉÃø‚†2J$a588f8ca-2a7a-4913-bfa0-3899a379d275
+m	java:S106"+Replace this use of System.out by a logger.(¹ç‡ú8ÙÃø‚†2J$721d18ab-d17e-40ac-9da3-bab66f749eae
+r	java:S106"+Replace this use of System.out by a logger.(¶™‡•şÿÿÿÿ8ßÃø‚†2J$1d44f253-bfe8-439a-b8ab-88c8d98fd9b7
+r	java:S106"+Replace this use of System.out by a logger.(ÜóÃøüÿÿÿÿ8ßÃø‚†2J$78ce7f7e-1e6e-40be-87b7-e174ef49e65e
+r	java:S106"+Replace this use of System.out by a logger.(Óâ•ÿÿÿÿÿ8ßÃø‚†2J$5ff3c744-4ac9-4122-8f8d-720a4ee38d2b
+m	java:S106"+Replace this use of System.out by a logger.(± ÏŠ8ßÃø‚†2J$e5242b42-9b39-4671-a996-2a1ec2eb5465
+r	java:S106 "+Replace this use of System.out by a logger.(î…¼ÿÿÿÿÿ8ßÃø‚†2J$8cba8fef-92ea-4ab1-93c4-1fcd2bf777e6
+z
+java:S1128"XRemove this unused import 'ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Animal'.(áæ¡¶ÿÿÿÿÿ8‡½Éƒ†2
+t
+java:S1128"WRemove this unused import 'ExercisesPolimorfismo.Ejercicio2Polimorfismo.Clases2.Perro'.(éÂ‹›8‡½Éƒ†2
