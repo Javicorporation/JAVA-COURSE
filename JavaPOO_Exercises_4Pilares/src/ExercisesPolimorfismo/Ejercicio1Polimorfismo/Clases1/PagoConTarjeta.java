@@ -22,19 +22,15 @@ public class PagoConTarjeta extends Pago{
     public String getNombre() {
         return nombre;
     }
-
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-
     public double getMonto() {
         return monto;
     }
-
     public void setMonto(double monto) {
         this.monto = monto;
     }
-
     @Override
     public String toString() {
         return "Pago{" +
@@ -43,8 +39,6 @@ public class PagoConTarjeta extends Pago{
                 ", monto=" + monto +
                 '}';
     }
-
-
     @Override
     public void procesarPago(double monto) {
         System.out.println("el codigo "+this.id+" de la tarjete que pertenece a "+this.nombre+" realizo este pago "+monto);

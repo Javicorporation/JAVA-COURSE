@@ -18,6 +18,5 @@ public class PagoConEfectivo extends Pago{
     @Override
     public void procesarPago(double monto) {
         System.out.println("El comprador "+this.nombre+" realizo este pago "+monto);
-
     }
 }

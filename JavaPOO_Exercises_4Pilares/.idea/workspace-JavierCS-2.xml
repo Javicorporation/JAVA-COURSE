@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3c0c865-3057-4aee-b6aa-c4a69048d3ed" name="Changes" comment="Ejercicio 1 de polimorfismo - sistema de pagos, asi estaria realizado">
+      <change afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio2Polimorfismo/Clases2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio2Polimorfismo/Clases2/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio2Polimorfismo/Clases2/Pajaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio2Polimorfismo/Clases2/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio2Polimorfismo/Ejecutador2/Base2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio2Polimorfismo/Ejecutador2/Ejecutador2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio2Polimorfismo/Metodos2/Metodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Base1/Ejecutador1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Base1/Ejecutador1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1/PagoConEfectivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1/PagoConEfectivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1/PagoConTarjeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercisesPolimorfismo/Ejercicio1Polimorfismo/Clases1/PagoConTarjeta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2i475qpfstTaSOo6Hg5QiVZEPJL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Base.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Base0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Base1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Base2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Base3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Base4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Base5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basee.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3c0c865-3057-4aee-b6aa-c4a69048d3ed" name="Changes" comment="" />
+      <created>1718737815427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718737815427</updated>
+      <workItem from="1718737816772" duration="8103000" />
+      <workItem from="1718757214285" duration="4000" />
+      <workItem from="1718757243282" duration="7656000" />
+      <workItem from="1718821694012" duration="15280000" />
+      <workItem from="1718998914728" duration="13340000" />
+      <workItem from="1719252664018" duration="10754000" />
+      <workItem from="1719275598223" duration="1427000" />
+      <workItem from="1719341234975" duration="8724000" />
+      <workItem from="1719596832018" duration="5098000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit prueba">
+      <option name="closed" value="true" />
+      <created>1718738297479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718738297479</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ejercicio 1 de encapsulamiento &quot;Notas de un estudiante&quot; - este ejercicio maneja el encapsulamiemto de una clase estudiantes con el manejo de validacion de datos">
+      <option name="closed" value="true" />
+      <created>1718747033487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718747033487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ejercicio 1 de encapsulamiento &quot;Notas de un estudiante&quot; - este ejercicio maneja el encapsulamiemto de una clase estudiantes con el manejo de validacion de datos - Mejorado">
+      <option name="closed" value="true" />
+      <created>1718765743418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718765743418</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ejercicio 2 de encapsulamiento - cambiamos el estado de un libro y lo presentamos">
+      <option name="closed" value="true" />
+      <created>1718825793427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718825793427</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ejercicio 2 de encapsulamiento - cambiamos el estado de un libro y lo presentamos, mejorado, pero aun no usamos polimorfismo.">
+      <option name="closed" value="true" />
+      <created>1718828121645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718828121645</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ejercicio 2 de encapsulamiento - cambiamos el estado de un libro y lo presentamos, mejorado - aplicando polimorfismo y herencia">
+      <option name="closed" value="true" />
+      <created>1718833455469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718833455469</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ejercicio 2 de encapsulamiento - cambiamos el estado de un libro y lo presentamos, mejorado - aplicando polimorfismo y herencia">
+      <option name="closed" value="true" />
+      <created>1718835886033</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718835886033</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ejercicio 3 de encapsulamiento - ejercicio de temperaturas hacemos el bucle de ingreso de datos a una lista">
+      <option name="closed" value="true" />
+      <created>1718844039752</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718844039752</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ejercicio 3 de encapsulamiento - correccion de la aplicacion">
+      <option name="closed" value="true" />
+      <created>1718849694078</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718849694078</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ejercicio 4 de encapsulamiento - aplicacion de un descuento, hasta que el descuento sea igual a 60">
+      <option name="closed" value="true" />
+      <created>1719004671852</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719004671852</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ejercicio 4 de encapsulamiento - aplicacion de un descuento, cambie el metodo applyDiscount a la clase Ejecutador4">
+      <option name="closed" value="true" />
+      <created>1719011999897</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719011999897</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ejercicio 4 de encapsulamiento - aplicacion de un descuento, cree una clase llamada Metodosen la cual implemete applyDiscount y aprendi a implementar un objeto">
+      <option name="closed" value="true" />
+      <created>1719015125005</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719015125005</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ejercicio 5 de encapsulamiento - agregacion de un bono a un array de un empleado">
+      <option name="closed" value="true" />
+      <created>1719255932360</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719255932360</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ejercicio 5 de encapsulamiento - agregacion de un bono a un array de un empleado, en el que se agrega un bono segun el cliente">
+      <option name="closed" value="true" />
+      <created>1719258449293</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719258449293</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ejercicio 5 de encapsulamiento - presentacion de bonos de distintos empleados, mejorado creamos la clase empleado pusimos sus get y set y comprendi el uso de los objetos bien">
+      <option name="closed" value="true" />
+      <created>1719266544183</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719266544183</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ejercicio 1 de herencia - cleacion de base de clases">
+      <option name="closed" value="true" />
+      <created>1719278749813</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719278749813</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ejercicio 1 de herencia - implemetacion de metodos muy basicos">
+      <option name="closed" value="true" />
+      <created>1719342498301</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719342498301</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Ejercicio 1 de herencia - arreglo de la implementacion de herencia de la clase padre e hijas, uso de metosos concretos y abstractos.">
+      <option name="closed" value="true" />
+      <created>1719346620004</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719346620004</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Ejercicio 2 de herencia - Biblioteca de medios -  implementacion de herencia adecuadamente">
+      <option name="closed" value="true" />
+      <created>1719350811769</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1719350811769</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Ejercicio 3 de herencia - empleados de tiempo completo y medio tiempo">
+      <option name="closed" value="true" />
+      <created>1719503872534</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1719503872534</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Ejercicio 3 de herencia - empleados de tiempo completo y medio tiempo- asi lo haria yo">
+      <option name="closed" value="true" />
+      <created>1719504938237</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719504938237</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Ejercicio 4 de herencia - ejercicio de obtener area y perimetros de distintas figuras.">
+      <option name="closed" value="true" />
+      <created>1719511470735</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719511470735</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Ejercicio 1 de polimorfismo - sistema de pagos, asi estaria realizado">
+      <option name="closed" value="true" />
+      <created>1719598937713</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719598937713</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit prueba" />
+    <MESSAGE value="Ejercicio 1 de encapsulamiento &quot;Notas de un estudiante&quot; - este ejercicio maneja el encapsulamiemto de una clase estudiantes con el manejo de validacion de datos" />
+    <MESSAGE value="Ejercicio 1 de encapsulamiento &quot;Notas de un estudiante&quot; - este ejercicio maneja el encapsulamiemto de una clase estudiantes con el manejo de validacion de datos - Mejorado" />
+    <MESSAGE value="Ejercicio 2 de encapsulamiento - cambiamos el estado de un libro y lo presentamos" />
+    <MESSAGE value="Ejercicio 2 de encapsulamiento - cambiamos el estado de un libro y lo presentamos, mejorado, pero aun no usamos polimorfismo." />
+    <MESSAGE value="Ejercicio 2 de encapsulamiento - cambiamos el estado de un libro y lo presentamos, mejorado - aplicando polimorfismo y herencia" />
+    <MESSAGE value="Ejercicio 3 de encapsulamiento - ejercicio de temperaturas hacemos el bucle de ingreso de datos a una lista" />
+    <MESSAGE value="Ejercicio 3 de encapsulamiento - correccion de la aplicacion" />
+    <MESSAGE value="Ejercicio 4 de encapsulamiento - aplicacion de un descuento, hasta que el descuento sea igual a 60" />
+    <MESSAGE value="Ejercicio 4 de encapsulamiento - aplicacion de un descuento, cambie el metodo applyDiscount a la clase Ejecutador4" />
+    <MESSAGE value="Ejercicio 4 de encapsulamiento - aplicacion de un descuento, cree una clase llamada Metodosen la cual implemete applyDiscount y aprendi a implementar un objeto" />
+    <MESSAGE value="Ejercicio 5 de encapsulamiento - agregacion de un bono a un array de un empleado" />
+    <MESSAGE value="Ejercicio 5 de encapsulamiento - agregacion de un bono a un array de un empleado, en el que se agrega un bono segun el cliente" />
+    <MESSAGE value="Ejercicio 5 de encapsulamiento - presentacion de bonos de distintos empleados, mejorado creamos la clase empleado pusimos sus get y set y comprendi el uso de los objetos bien" />
+    <MESSAGE value="Ejercicio 1 de herencia - cleacion de base de clases" />
+    <MESSAGE value="Ejercicio 1 de herencia - implemetacion de metodos muy basicos" />
+    <MESSAGE value="Ejercicio 1 de herencia - arreglo de la implementacion de herencia de la clase padre e hijas, uso de metosos concretos y abstractos." />
+    <MESSAGE value="Ejercicio 2 de herencia - Biblioteca de medios -  implementacion de herencia adecuadamente" />
+    <MESSAGE value="Ejercicio 3 de herencia - empleados de tiempo completo y medio tiempo" />
+    <MESSAGE value="Ejercicio 3 de herencia - empleados de tiempo completo y medio tiempo- asi lo haria yo" />
+    <MESSAGE value="Ejercicio 4 de herencia - ejercicio de obtener area y perimetros de distintas figuras." />
+    <MESSAGE value="Ejercicio 1 de polimorfismo - sistema de pagos, asi estaria realizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1 de polimorfismo - sistema de pagos, asi estaria realizado" />
+  </component>
+</project>
