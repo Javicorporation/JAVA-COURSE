@@ -41,11 +41,28 @@ public class Ejecutador {
                     System.out.println("Escribe el salario:");
                     salario = getting.nextDouble();
                     comercial = new Comercial(nombre,edad,salario,comision);
-                    System.out.println(comercial.toString());
+                    comercial.toString();
                     comercial.plus();
 
                     break;
                 case 2:
+                    String nombreR;
+                    int edadR;
+                    double salarioR;
+                    String zona;
+
+                    System.out.println("Escribe tu nombre: ");
+                    nombreR = getting.next();
+                    System.out.println("escribe tu edad:");
+                    edadR = getting.nextInt();
+                    System.out.println("escriba su comision: ");
+                    zona = getting.next();
+                    System.out.println("Escribe el salario:");
+                    salarioR = getting.nextDouble();
+
+                    repartidor = new Repartidor(nombreR,edadR,salarioR,zona);
+                    repartidor.toString();
+                    repartidor.plus();
                     break;
                 case 3:
                     System.out.println("Bay");

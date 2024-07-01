@@ -19,8 +19,8 @@ public class Comercial extends Empleado{
 
     @Override
     public String toString() {
-        System.out.println(super.toString());
-        return "Comision"+comision;
+        System.out.print(super.toString());
+        return "\nComision: "+comision;
     }
 
     @Override
@@ -28,11 +28,11 @@ public class Comercial extends Empleado{
         if (getEdad() > 30 && comision >200 ) {
             double salarioNuev = getSalario() + getPlus();
             setSalario(salarioNuev);
-            System.out.println("Se le a añadido un bono de :"+ getPlus());
+            System.out.println("\nSe le a añadido un bono de :"+ getPlus());
             System.out.println("Su salario actual es de :"+ getSalario());
             return  true;
         }else {
-            System.out.println("El empleado no cumple con los requisitos prara el bono");
+            System.out.println("\nEl empleado no cumple con los requisitos para el bono");
             return false;
         }
     }

@@ -18,18 +18,19 @@ public class Repartidor extends  Empleado{
 
     @Override
     public String toString() {
-        return "Repartidor{" + "zona='" + zona  + ", plus=" + plus + '}';
+        System.out.println(super.toString());
+        return "Repartidor: " + "\nzona='" + zona;
     }
 
     @Override
     public boolean plus() {
         if (super.getEdad() < 25 && this.zona == "lima"){
-            System.out.println("Se le a añadido un bono de :"+ super.getPlus());
+            System.out.println("\nSe le a añadido un bono de :"+ super.getPlus());
             System.out.println("Su salario actual es de :"+ super.getSalario());
             return  true;
 
         }else{
-            System.out.println("El empleado no cumple con los requisitos prara el bono\"");
+            System.out.println("\nEl empleado no cumple con los requisitos para el bono");
             return false;
         }
     }

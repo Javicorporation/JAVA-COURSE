@@ -46,9 +46,19 @@ public abstract class Empleado {
 
     @Override
     public String toString() {
-        return "Empleado: {" + "nombre= " + nombre +", edad= " + edad + ", salario=" + salario + ", plus=" + plus + '}';
+        return "\nEmpleado: " + "\nnombre = " + nombre +" \nedad = " + edad + " \nsalario = " + salario + " \nplus = " + plus ;
     }
 
     // este metodo abstracto se va a implesmentar en sus clases hijas.
     public abstract boolean plus();
 }
+
+
+
+
+
+
+
+
+
+
