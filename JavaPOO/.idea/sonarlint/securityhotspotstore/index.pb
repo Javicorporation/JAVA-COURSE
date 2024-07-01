@@ -286,3 +286,15 @@ J
 src/Polimorfismo/Loro.java,c\4\c4067f7ec7ef0698eb2df5875a2bdda2fd5547b4
 N
 src/Polimorfismo/Ejecutar.java,1\1\118537e0b75fa6b0f5471891e84967994c37c737
+K
+src/Interfacess/Clases.java,c\e\ce4d388a47a5d52a3265662f06703583ae451a4d
+S
+#src/Interfacess/Clases/Persona.java,5\0\500a480e5497ad4914a60b0751c6c2fde37a995f
+R
+"src/Interfacess/Clases/Musico.java,c\8\c83e108b9d6d04d41d57ce55b7d57497d1daf761
+V
+&src/Interfacess/Clases/Estudiante.java,2\d\2d7fdb30cddf4fb22cf39ef4b8d21112f375fe6f
+\
+,src/Interfacess/Clases/MusicoEstudiante.java,9\8\9840b8c491904254ed8c1801e003677ca18c7664
+T
+$src/Interfacess/Clases/Ejecutar.java,8\5\85560ab6fd3d7b31c290a5ea464e4eb32be36148
