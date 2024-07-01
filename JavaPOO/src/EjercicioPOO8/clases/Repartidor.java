@@ -1,5 +1,7 @@
 package EjercicioPOO8.clases;
 
+import EjercicioPOO8.msgs.Msg;
+
 public class Repartidor extends  Empleado{
 
     private String zona;
@@ -25,12 +27,12 @@ public class Repartidor extends  Empleado{
     @Override
     public boolean plus() {
         if (super.getEdad() < 25 && this.zona == "lima"){
-            System.out.println("\nSe le a añadido un bono de :"+ super.getPlus());
-            System.out.println("Su salario actual es de :"+ super.getSalario());
+            System.out.println();
+            System.out.println(Msg.msgBono+ super.getPlus());
+            System.out.println(Msg.msgSalarioAct+ super.getSalario());
             return  true;
-
         }else{
-            System.out.println("\nEl empleado no cumple con los requisitos para el bono");
+            System.out.println(Msg.msgNoCumple);
             return false;
         }
     }

@@ -308,3 +308,7 @@ X
 +src/EjercicioPOO8/ejecutado/Ejecutador.java,d\6\d60f4a8a2c142acdb6e274bcf6c4064c4dc774ed
 U
 %src/EjercicioPOO8/ejecutado/Base.java,9\a\9add442ded2c6adedba1c74b8fedf47fb0c5d476
+N
+src/EjercicioPOO8/Msg/Msg.java,3\f\3f153c84c9bd40a3a60d6482f80d4de60b19bbe5
+O
+src/EjercicioPOO8/msgs/Msg.java,0\2\0246ae1e047aade29dc3506916c59a3d57e690a0

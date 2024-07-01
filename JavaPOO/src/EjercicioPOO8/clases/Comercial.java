@@ -1,5 +1,7 @@
 package EjercicioPOO8.clases;
 
+import EjercicioPOO8.msgs.Msg;
+
 public class Comercial extends Empleado{
 
     private double comision;
@@ -28,11 +30,12 @@ public class Comercial extends Empleado{
         if (getEdad() > 30 && comision >200 ) {
             double salarioNuev = getSalario() + getPlus();
             setSalario(salarioNuev);
-            System.out.println("\nSe le a añadido un bono de :"+ getPlus());
-            System.out.println("Su salario actual es de :"+ getSalario());
+            System.out.println();
+            System.out.println(Msg.msgBono+ getPlus());
+            System.out.println(Msg.msgSalarioAct+ getSalario());
             return  true;
         }else {
-            System.out.println("\nEl empleado no cumple con los requisitos para el bono");
+            System.out.println(Msg.msgNoCumple);
             return false;
         }
     }
