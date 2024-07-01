@@ -19,7 +19,8 @@ public class Comercial extends Empleado{
 
     @Override
     public String toString() {
-        return "Comercial{" + "comision=" + comision + ", plus=" + plus + '}';
+        System.out.println(super.toString());
+        return "Comision"+comision;
     }
 
     @Override
