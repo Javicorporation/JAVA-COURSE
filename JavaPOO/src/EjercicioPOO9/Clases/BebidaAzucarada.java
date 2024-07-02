@@ -38,6 +38,21 @@ public class BebidaAzucarada extends Bebida{
     @Override
     public String toString() {
         //return super.toString();
-        return "\nPorcentaje Azucar: "+porcentajeAzucar+"\nPromocion"+promocion+"\n"+super.toString();
+        return super.toString()+"\nPorcentaje Azucar: "+porcentajeAzucar+"\nPromocion: "+promocion+"\n";
     }
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+

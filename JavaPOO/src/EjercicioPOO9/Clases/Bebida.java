@@ -68,6 +68,17 @@ public class Bebida {
 
     @Override
     public String toString() {
-        return "Bebida: " + "id = " + id +", \nnombre = " + nombre +", \nprecio = " + precio + ", \ncantidad = " + cantidad + ", \nmarca = " + marca ;
+        return "\nBebida: " + "\nid = " + id +", \nnombre = " + nombre +", \nprecio = " + precio + ", \ncantidad = " + cantidad + ", \nmarca = " + marca ;
     }
 }
+
+
+
+
+
+
+
+
+
+
+

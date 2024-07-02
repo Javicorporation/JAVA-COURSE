@@ -19,6 +19,6 @@ public class BebidaMineral extends Bebida{
 
     @Override
     public String toString() {
-        return "\nManantial: " + nombreManantial;
+        return super.toString()+"\nManantial: " + nombreManantial;
     }
 }

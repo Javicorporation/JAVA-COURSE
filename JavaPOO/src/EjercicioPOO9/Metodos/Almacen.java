@@ -72,5 +72,12 @@ public class Almacen {
                 }
             }
         }
+        if (encontrado) {
+            System.out.println();
+            System.out.println("Bebida eliminada");
+        }else{
+            System.out.println();
+            System.out.println("La bebida no ha sido eliminada");
+        }
     }
 }
