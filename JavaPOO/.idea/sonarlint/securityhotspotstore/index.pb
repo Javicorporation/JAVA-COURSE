@@ -318,3 +318,7 @@ $src/EjercicioPOO9/Clases/Bebida.java,e\5\e5319cee4fc6178e0b9a699df7f4b58b997f7
 -src/EjercicioPOO9/Clases/BebidaAzucarada.java,9\7\979638715da8eab9b30ac20f367435a2de27bce7
 [
 +src/EjercicioPOO9/Clases/BebidaMineral.java,5\3\5399429975ddbbd0e0d485b67b2c7702b1751706
+V
+&src/EjercicioPOO9/Metodos/Almacen.java,f\a\fa09b9b8b108303d7bf5ae88d5573e9d248e36a8
+R
+"src/EjercicioPOO9/Metodos/Msg.java,5\1\513aced8ecd169f06a3d2a5db1cbb5d4f59b8021
