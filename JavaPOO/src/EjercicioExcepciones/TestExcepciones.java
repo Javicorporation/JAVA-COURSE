@@ -3,19 +3,18 @@ package EjercicioExcepciones;
 public class TestExcepciones {
     public static void main(String[] args) {
 
-        //dividir un numero entre 0
-
-        int numero = 10;
-        int numero2 = 1;
-
+        // ejemplo de obtener un numero de un array
+        int[] numeros = {1,2,3,4};
         try {
-            int resultado = numero / numero2;
-            System.out.println("la division es "+resultado);
-        }catch (Exception e){
-            System.out.println("ocurrio una Exception");
-            e.printStackTrace(System.out);
-            //System.out.println("Exception: "+e+e.getMessage()+" "+e.getCause());
+            int numero = numeros[0];
+            System.out.println("El resultado es: "+numero);
+            // se pueden contatenar exceptions con un "or" o |
+        }catch (Exception ex){
+            System.out.println("La opcion no existe");
+            ex.printStackTrace(System.out);
+        }finally {
+            // es el codigo que se ejecuta si o si
+            System.out.println("hola");
         }
-        // las excepciones indicas en donde te equivocaste
     }
 }
