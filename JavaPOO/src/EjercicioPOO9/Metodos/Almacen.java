@@ -28,9 +28,9 @@ public class Almacen {
             }
         }
         if (encontrado) {
-            System.out.println("Bebida guardada");
+            System.out.println(Msg.bebidaGuardada);
         }else {
-            System.out.println("Bebida no guardada");
+            System.out.println(Msg.bebidaNoGuardada);
         }
     }
 
@@ -74,10 +74,10 @@ public class Almacen {
         }
         if (encontrado) {
             System.out.println();
-            System.out.println("Bebida eliminada");
+            System.out.println(Msg.bebidaEliminada);
         }else{
             System.out.println();
-            System.out.println("La bebida no ha sido eliminada");
+            System.out.println(Msg.bebidaNoEliminada);
         }
     }
 }

@@ -1,9 +1,11 @@
 package EjercicioPOO9.Ejecutador;
 
+
 import EjercicioPOO9.Clases.Bebida;
 import EjercicioPOO9.Clases.BebidaAzucarada;
 import EjercicioPOO9.Clases.BebidaMineral;
 import EjercicioPOO9.Metodos.Almacen;
+import EjercicioPOO9.Metodos.Msg;
 
 import java.util.Scanner;
 
@@ -22,70 +24,48 @@ public class Ejecutador {
             System.out.println("3. Mostrar Bebidas");
             System.out.println("4. Calcular Bebidas");
             System.out.println("5. Salir");
-            System.out.print("Escribe una opcion: ");
-            opcion = getting.nextInt();
+            opcion = Msg.pedirInt(Msg.opcions);
             switch(opcion){
                 case 1:
-                    String nombre;
-                    double precio;
-                    double cantidad;
-                    String marca;
-                    double porcentajeAzucar;
+                    String nombre = Msg.pedirString(Msg.nombree);
+                    double precio = Msg.pedirDouble(Msg.precio);
+                    double cantidad = Msg.pedirDouble(Msg.cantidads);
+                    String marca = Msg.pedirString(Msg.marca);
+                    double porcentajeAzucar = Msg.pedirDouble(Msg.porcentajeAzucar);
                     boolean promocion;
-                    System.out.print("Escribe el nombre de la bebida: ");
-                    nombre = getting.next();
-                    System.out.print("Escribe el precio de la bebida: ");
-                    precio = getting.nextDouble();
-                    System.out.print("Escribe el cantidad de las bebida: ");
-                    cantidad = getting.nextDouble();
-                    System.out.print("escribe la marca del bebida: ");
-                    marca = getting.next();
-                    System.out.print("Escribe el porcentaje de azucar de bebida: ");
-                    porcentajeAzucar = getting.nextDouble();
-                    System.out.print("la bebida tiene Promocion: ");
+                    System.out.print(Msg.promocion);
                     promocion = getting.nextBoolean();
                     bebida = new BebidaAzucarada(nombre,precio,cantidad,marca,porcentajeAzucar,promocion);
                     almacen.agregarBebida(bebida);
 
                     System.out.println();
-                    String nombreM;
-                    double precioM;
-                    double cantidadM;
-                    String marcaM;
-                    String nombreManantial;
-                    System.out.print("Escribe el nombre de la bebida Mineral: ");
-                    nombreM = getting.next();
-                    System.out.print("Escribe el precio de la bebida Mineral: ");
-                    precioM = getting.nextDouble();
-                    System.out.print("Escribe el cantidad de las bebida Mineral: ");
-                    cantidadM = getting.nextDouble();
-                    System.out.print("escribe la marca del bebida Mineral: ");
-                    marcaM = getting.next();
-                    System.out.print("Escriba el nombre del manantial natural: ");
-                    nombreManantial = getting.next();
+                    String nombreM = Msg.pedirString("Escribe el nombre de la bebida Mineral: ");
+                    double precioM = Msg.pedirDouble("Escribe el precio de la bebida Mineral: ");
+                    double cantidadM = Msg.pedirDouble("Escribe el cantidad de las bebida Mineral: ");
+                    String marcaM = Msg.pedirString("escribe la marca del bebida Mineral: ");
+                    String nombreManantial = Msg.pedirString("Escriba el nombre del manantial natural: ");
 
                     bebida = new BebidaMineral(nombreM,precioM,cantidadM,marcaM,nombreManantial);
                     almacen.agregarBebida(bebida);
                     break;
                 case 2:
-                    System.out.println("Escribe el ID de la bebida a eliminar: ");
-                    int id = getting.nextInt();
+                    int id = Msg.pedirInt(Msg.ids);
                     almacen.eliminarBebida(id);
                     break;
                 case 3:
-                    System.out.println("Estas son las bebidas que existen: ");
+                    System.out.println(Msg.bebidasExistentes);
                     almacen.mostrarBebidas();
                     break;
                 case 4:
-                    System.out.println("El total de las bebidas es: "+almacen.calcularPrecioBebidas());
+                    System.out.println(Msg.totalDeBebida+almacen.calcularPrecioBebidas());
 
                     break;
                 case 5:
-                    System.out.println("Adios");
+                    System.out.println(Msg.adios);
                     opcion = 5;
                     break;
                 default:
-                    System.out.println("Opcion no valida");
+                    System.out.println(Msg.opcionNoValida);
             }
         }while (opcion != 5);
     }
