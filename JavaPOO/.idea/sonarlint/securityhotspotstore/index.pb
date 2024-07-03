@@ -332,3 +332,5 @@ _
 /src/EjercicioPOO10/Ejecutador10/Ejecutador.java,7\a\7abc867f7e0cefa7cb1d1ca480834918789e6034
 [
 +src/EjercicioPOO10/Ejecutador10/Test10.java,8\2\82e0eb6735a516d99c29dfa44311672d80747fe2
+]
+-src/EjercicioExcepciones/TestExcepciones.java,2\6\263d2da7628448fcb735a4f2837aeb54c473c4a4
