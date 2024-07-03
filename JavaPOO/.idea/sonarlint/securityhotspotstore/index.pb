@@ -322,3 +322,13 @@ V
 &src/EjercicioPOO9/Metodos/Almacen.java,f\a\fa09b9b8b108303d7bf5ae88d5573e9d248e36a8
 R
 "src/EjercicioPOO9/Metodos/Msg.java,5\1\513aced8ecd169f06a3d2a5db1cbb5d4f59b8021
+b
+2src/EjercicioPOO10/Clases10/Electrodomesticos.java,4\5\45dc5433022bce17d1d32ba83c6b6d85abe3fd94
+[
++src/EjercicioPOO10/Clases10/Television.java,e\5\e55351d1f8237b8f6bf3874afdb9d42ea84a3a45
+Y
+)src/EjercicioPOO10/Clases10/Lavadora.java,8\4\8467dbba0388c3b95852ced23f9b7182cb752e74
+_
+/src/EjercicioPOO10/Ejecutador10/Ejecutador.java,7\a\7abc867f7e0cefa7cb1d1ca480834918789e6034
+[
++src/EjercicioPOO10/Ejecutador10/Test10.java,8\2\82e0eb6735a516d99c29dfa44311672d80747fe2
