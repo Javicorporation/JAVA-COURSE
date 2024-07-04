@@ -5,11 +5,12 @@ public class Text {
 
 
         try {
-            double numero1 = 0.9;
+            int numero1 = 0;
             int numero = 2;
-            if(numero == numero1){
+
+            int numero3 = numero / numero1;
                 System.out.println("Bien");
-            }
+
         }catch (Exception e){
             e.printStackTrace();
         }
