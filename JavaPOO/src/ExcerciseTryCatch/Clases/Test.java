@@ -5,11 +5,11 @@ public class Test {
 
         int resultado = 0;
         try {
-            Division.dividir(2,0);
+            resultado = Division.dividir(2,0);
         }catch (Exception e){
             e.printStackTrace(System.out);
         }finally {
-            System.out.println("ya estaaaaa");
+            System.out.println("ya estaaaaa "+resultado);
         }
 
     }
