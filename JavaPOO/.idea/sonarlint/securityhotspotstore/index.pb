@@ -334,3 +334,11 @@ _
 +src/EjercicioPOO10/Ejecutador10/Test10.java,8\2\82e0eb6735a516d99c29dfa44311672d80747fe2
 ]
 -src/EjercicioExcepciones/TestExcepciones.java,2\6\263d2da7628448fcb735a4f2837aeb54c473c4a4
+V
+&src/ExcerciseTryCatch/Clases/Test.java,7\a\7afb342f4ae496c6c72e47ef801ab2ed0ff4384e
+X
+(src/ExcerciseTryCatch/Clases/clases.java,1\9\191220ed20b297a53e609a9fdaec5f71d250f25c
+Z
+*src/ExcerciseTryCatch/Clases/Division.java,c\6\c615f6bb9e1aa596247707c3000137438b0ee908
+a
+1src/ExcerciseTryCatch/Metodos/ExceptionClase.java,a\1\a1dd1118dad7d6ef0ee70e61a4602558f6832ab7
