@@ -34,13 +34,35 @@ public class ArchivoText {
     public void escribirEnElArchivo(){
         try {
             // creamos un aobjeto al que vamos a escribir
-            FileWriter escritura = new FileWriter(ArchivoConText);
+            FileWriter escritura = new FileWriter(ArchivoConText, true);
             //usamos el metodo escribir en un archivo
-            escritura.write("QUEEEEEEEEEEEEEEEEEEEEEEEEEE pasa");
-            escritura.write("\nQUEEEEEEEEEEEEEEEEEEEEEEEEEE pasa");
+            escritura.write("Qholala");
+            escritura.write("\nhshjdjfsd");
+            escritura.write("\njuana");
             //este metodo cierra el proceso de escritura
             escritura.close();
             System.out.println("Se escribio en el archivo");
+        }catch (IOException e){
+            System.out.println("sucedio un error");
+            e.printStackTrace(System.out);
+        }
+    }
+
+    public void leerArchivoDeText(){
+        String contenido = "";
+        try {
+            // creamos un objeto lector y le pasamos el archivo
+            FileReader lector = new FileReader(ArchivoConText);
+            // creamos un objeto que guarde por un momento el texto leido
+            BufferedReader lectura = new BufferedReader(lector);
+            // asignamos el contenido leido een una variable de texto
+            contenido = lectura.readLine();
+            // imprimimos el contenido con un bucle
+            while (contenido != null){
+                // .readLine solo lee una linea
+                System.out.println(contenido);
+                contenido = lectura.readLine();
+            }
         }catch (IOException e){
             System.out.println("sucedio un error");
             e.printStackTrace(System.out);

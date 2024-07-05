@@ -8,5 +8,6 @@ public class Test {
         archivoText.crearArchivoConText();
         //archivoText.eliminarArchivoConText();
         archivoText.escribirEnElArchivo();
+        archivoText.leerArchivoDeText();
     }
 }
