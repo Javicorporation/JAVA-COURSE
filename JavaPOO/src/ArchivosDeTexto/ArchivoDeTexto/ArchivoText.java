@@ -1,35 +1,50 @@
 package ArchivosDeTexto.ArchivoDeTexto;
 
-import java.io.File;
+import java.io.*;
 
 public class ArchivoText {
+    File ArchivoConText;
 
-    public void crearArchivo() {
-        // creamos un objeto de la clase File con un nombre ramdon
-        // en una ruta relativa.
-        //File archivo = new File("ArchivoDeTexto.txt");
-        // en una ruta absoluta.
-        File archivo = new File("C:\\Users\\krchi\\OneDrive - Universidad de Guayaquil\\UG\\ArchivoDeTexto.txt");
+    // metodo crear acrchivo
+    public void crearArchivoConText() {
+        ArchivoConText = new File("C:\\Users\\krchi\\OneDrive - Universidad de Guayaquil\\UG\\ArchivoConTexto.txt");
+        try {
+            if (ArchivoConText.createNewFile()) {
+                System.out.println("Archivo creado con exito");
+            }else {
+                System.out.println("Fracaso");
+            }
+        }catch (IOException e){
+            e.printStackTrace(System.out);
+        }
+    }
 
 
-        //metodos de la clase File
-        //h
-        System.out.println("Nombre del archivo: " + archivo.getName());
-        //h
-        System.out.println("Ruta del archivo: " + archivo.getAbsolutePath());
-        //h
-        System.out.println("El archivo es: " + archivo.exists());
-        //h
-        System.out.println("se puede escribir en el archivo: " + archivo.canWrite());
-        //h
-        System.out.println("se puede leer en el archivo: " + archivo.canRead());
-        //h
-        System.out.println("es un archivo: " + archivo.isFile());
-        //h
-        System.out.println("es un directorio? " + archivo.isDirectory());
-        //h
-        System.out.println("Cual es la longitud del archivo: "+archivo.length());
+    // metodo eliminar achivo
+    public void eliminarArchivoConText() {
+        if (ArchivoConText.delete()) {
+            System.out.println("Archivo eliminado con exito");
+        }else {
+            System.out.println("Fracaso");
+        }
 
+    }
+
+    // metodo agregar texto a un archivo
+    public void escribirEnElArchivo(){
+        try {
+            // creamos un aobjeto al que vamos a escribir
+            FileWriter escritura = new FileWriter(ArchivoConText);
+            //usamos el metodo escribir en un archivo
+            escritura.write("QUEEEEEEEEEEEEEEEEEEEEEEEEEE pasa");
+            escritura.write("\nQUEEEEEEEEEEEEEEEEEEEEEEEEEE pasa");
+            //este metodo cierra el proceso de escritura
+            escritura.close();
+            System.out.println("Se escribio en el archivo");
+        }catch (IOException e){
+            System.out.println("sucedio un error");
+            e.printStackTrace(System.out);
+        }
     }
 }
 
