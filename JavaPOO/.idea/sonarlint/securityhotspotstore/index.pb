@@ -348,3 +348,5 @@ R
 "src/ArchivosDeTexto/Test/Test.java,8\e\8e5f76c20a0b7580fb52c5bad75d7d8f73346f4c
 c
 3src/ArchivosDeTexto/ArchivoDeTexto/ArchivoText.java,e\2\e2b84c101d7a3346ab33b8f17284f5695caa6619
+B
+ArchivoDeTexto.txt,3\3\33477c7644769c0b8e402d2a0b71f1ccbebbeb23

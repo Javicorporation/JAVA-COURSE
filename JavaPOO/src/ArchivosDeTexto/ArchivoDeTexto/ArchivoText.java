@@ -12,21 +12,25 @@ public class ArchivoText {
         File archivo = new File("C:\\Users\\krchi\\OneDrive - Universidad de Guayaquil\\UG\\ArchivoDeTexto.txt");
 
 
-        //ponemos un try catch para manejar las exceptions
-        try {
-            // ponemos un condicional para manejar el resultado la creaccion del archivo
+        //metodos de la clase File
+        //h
+        System.out.println("Nombre del archivo: " + archivo.getName());
+        //h
+        System.out.println("Ruta del archivo: " + archivo.getAbsolutePath());
+        //h
+        System.out.println("El archivo es: " + archivo.exists());
+        //h
+        System.out.println("se puede escribir en el archivo: " + archivo.canWrite());
+        //h
+        System.out.println("se puede leer en el archivo: " + archivo.canRead());
+        //h
+        System.out.println("es un archivo: " + archivo.isFile());
+        //h
+        System.out.println("es un directorio? " + archivo.isDirectory());
+        //h
+        System.out.println("Cual es la longitud del archivo: "+archivo.length());
 
-            if (archivo.createNewFile()) {
-                System.out.println("El archivo se creo con exito");
-            }else {
-                System.out.println("El archivo no se creo con exito o ya exsiste ");
-            }
-
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-
-        }
+    }
 }
 
 
