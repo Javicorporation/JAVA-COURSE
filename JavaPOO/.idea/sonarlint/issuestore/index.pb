@@ -350,3 +350,9 @@ c
 3src/ArchivosDeTexto/ArchivoDeTexto/ArchivoText.java,e\2\e2b84c101d7a3346ab33b8f17284f5695caa6619
 B
 ArchivoDeTexto.txt,3\3\33477c7644769c0b8e402d2a0b71f1ccbebbeb23
+N
+src/ArchivosBinarios/Test.java,b\8\b8c55558dd890d31dcb062391808045ac5d3f2eb
+T
+$src/ArchivosBinarios/Tests/Test.java,9\7\97585639e41357d1f54684956353b52202a4a259
+Y
+)src/ArchivosBinarios/Persona/Persona.java,f\d\fd5942fc2669ca44a229a83a6c87985c039fa168
