@@ -356,3 +356,5 @@ T
 $src/ArchivosBinarios/Tests/Test.java,9\7\97585639e41357d1f54684956353b52202a4a259
 Y
 )src/ArchivosBinarios/Persona/Persona.java,f\d\fd5942fc2669ca44a229a83a6c87985c039fa168
+a
+1src/ArchivosBinarios/Persona/AnadirContenido.java,9\b\9bc3978376c90db8d369079f4f079541e2a5203e

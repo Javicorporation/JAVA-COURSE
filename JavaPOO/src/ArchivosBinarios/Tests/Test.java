@@ -22,6 +22,8 @@ public class Test {
             // creamos un objetos para hacer la escritura
             ObjectOutputStream escritura = new ObjectOutputStream(archivo);
             escritura.writeObject(new Persona("juan", "lopez", 21));
+            escritura.writeObject(new Persona("maria", "luz", 22));
+            escritura.writeObject(new Persona("carlos", "lopez", 23));
             System.out.println("Objeto creado");
             //no olvidar del Close
             escritura.close();
@@ -46,6 +48,7 @@ public class Test {
             e.printStackTrace(System.out);
         }
     }
+    private void anadirBinario(){}
 
 }
 
