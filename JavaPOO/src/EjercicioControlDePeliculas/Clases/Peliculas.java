@@ -40,6 +40,6 @@ public class Peliculas {
         return "\nPeliculas: " +
                 "\ntitulo='" + titulo +
                 ", \nautor='" + autor  +
-                ", \ngenero='" + genero ;
+                ", \ngenero='" + genero  ;
     }
 }

@@ -350,16 +350,12 @@ c
 3src/ArchivosDeTexto/ArchivoDeTexto/ArchivoText.java,e\2\e2b84c101d7a3346ab33b8f17284f5695caa6619
 B
 ArchivoDeTexto.txt,3\3\33477c7644769c0b8e402d2a0b71f1ccbebbeb23
-N
-src/ArchivosBinarios/Test.java,b\8\b8c55558dd890d31dcb062391808045ac5d3f2eb
 T
 $src/ArchivosBinarios/Tests/Test.java,9\7\97585639e41357d1f54684956353b52202a4a259
 Y
 )src/ArchivosBinarios/Persona/Persona.java,f\d\fd5942fc2669ca44a229a83a6c87985c039fa168
 a
 1src/ArchivosBinarios/Persona/AnadirContenido.java,9\b\9bc3978376c90db8d369079f4f079541e2a5203e
-_
-/src/EjercicioControlDePeliculas/Exceptions.java,6\9\69dcd7e04c74cc2d0e3b1609c1a9caa613515cc7
 e
 5src/EjercicioControlDePeliculas/Clases/Peliculas.java,3\7\371267c71a318ef48f42b1dbe32d86c0ef0429c9
 j
@@ -370,8 +366,6 @@ v
 Fsrc/EjercicioControlDePeliculas/exceptions/AccesoDatosExcepciones.java,4\8\48bb046bd9f22743d55ceed1ee38e9dfd1791ff4
 x
 Hsrc/EjercicioControlDePeliculas/exceptions/EscrituraDatosExceptions.java,6\c\6cf836c091385a20783bba5d70eef74a6cdf6f85
-d
-4src/EjercicioControlDePeliculas/Ejecutador/Test.java,1\4\14c1cfdc3ae5a2440b27da7db1b18920e11a85ab
 j
 :src/EjercicioControlDePeliculas/Ejecutador/Ejecutador.java,9\9\99c3cddea7778dca3b20ab09239c7c6c6983d871
 ^
@@ -380,3 +374,5 @@ s
 Csrc/EjercicioControlDePeliculas/servicios/IControlPeliculasDAO.java,c\e\ce4274d2b2da214124b33a1c93409c8a2b3e5200
 s
 Csrc/EjercicioControlDePeliculas/servicios/ControlPeliculasImpl.java,b\4\b4631c1a38e3ba1be9342c42b1a22ccb27960708
+v
+Fsrc/EjercicioControlDePeliculas/exceptions/LecturaDatosExceptions.java,9\6\96ddfe9c111e6f92fba1c860bb18cba96645761e
