@@ -59,6 +59,20 @@ public class AccesoDatosImpl implements  IAccesoDatos{
 
     @Override
     public void escribirPelicula(Peliculas pelicula, String nombreArchivo, boolean anexarUnir) throws EscrituraDatosExceptions {
+        File archivo = new File(nombreArchivo);
+        try {
+            // FileWriter sirve para esribir en un archivo, PrintWriter recibe lo que vamos a escribir
+            PrintWriter salida = new PrintWriter(new FileWriter(nombreArchivo,anexarUnir));
+            // imprimimos los datos de un archivo
+            salida.println(pelicula.toString());
+            salida.close();
+            System.out.println();
+            System.out.println("Se a añadido la pelicula "+pelicula);
+            System.out.println();
+        }catch (Exception e){
+            e.printStackTrace(System.out);
+            throw new EscrituraDatosExceptions("No se a podido escribir la pelicula: "+e.getMessage())  ;
+        }
 
     }
 
