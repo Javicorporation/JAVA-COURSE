@@ -4,6 +4,7 @@ import EjercicioControlDePeliculas.Clases.Peliculas;
 import EjercicioControlDePeliculas.exceptions.AccesoDatosExcepciones;
 import EjercicioControlDePeliculas.exceptions.EscrituraDatosExceptions;
 import EjercicioControlDePeliculas.exceptions.LecturaDatosExceptions;
+import com.sun.security.jgss.GSSUtil;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -53,6 +54,7 @@ public class AccesoDatosImpl implements  IAccesoDatos{
             entrada.close();
         }catch (IOException e){
             e.printStackTrace(System.out);
+            throw new LecturaDatosExceptions("Error al leer el archivo");
         }
         return peliculas;
     }
@@ -78,16 +80,51 @@ public class AccesoDatosImpl implements  IAccesoDatos{
 
     @Override
     public String BuscarPelicula(String nombreArchivo, String buscar) throws LecturaDatosExceptions {
-        return "";
+        File archivo = new File(nombreArchivo);
+        String resultado = null;
+
+        try {
+            BufferedReader entrada = new BufferedReader(new FileReader(archivo));
+            String linea = null;
+            linea = entrada.readLine();
+            int indice = 0;
+            while (linea != null){
+                if (buscar != null && buscar.equalsIgnoreCase(linea)) {
+                    System.out.println("");
+                    resultado = "El pelicula con el titulo es: "+linea+" fue encontrada";
+                    break;
+                }
+                linea = entrada.readLine();
+                indice++;
+            }
+            entrada.close();
+        }catch (IOException e){
+            e.printStackTrace(System.out);
+            throw new LecturaDatosExceptions("Error al buscar el archivo");
+        }
+        return resultado;
     }
 
     @Override
     public void crearPelicula(String nombrePelicula) throws AccesoDatosExcepciones {
+        File archivo = new File(nombrePelicula);
+        try {
+            PrintWriter salida = new PrintWriter(new FileWriter(archivo));
+            salida.close();
+            System.out.println("Se a creado el archivo");
 
+        }catch (Exception e){
+            e.printStackTrace(System.out);
+            throw  new AccesoDatosExcepciones("Error al crear el archivo");
+        }
     }
 
     @Override
     public void borrarPelicula(String nombrePelicula) throws AccesoDatosExcepciones {
-
+        File archivo = new File(nombrePelicula);
+        if (archivo.exists()) {
+            archivo.delete();
+        }
+        System.out.println("Se a borrado el archivo.");
     }
 }
