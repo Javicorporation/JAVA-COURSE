@@ -1,6 +1,7 @@
 package Colecciones.Listas;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class TestListas {
@@ -17,6 +18,18 @@ public class TestListas {
         listaDeNumeros.add(3);
         listaDeNumeros.add(4);
         listaDeNumeros.add(5);
+        listaDeNumeros.add(0,6);
+        for (int i : listaDeNumeros) {
+            System.out.println(i);
+        }
+        System.out.println("El tamaño de la lista es: "+listaDeNumeros.size());
+        System.out.println("agregado el numero : ");
+        System.out.println("Obtener el numero: "+listaDeNumeros.get(0));
+        //System.out.println("vaciamos la lista ");
+        //listaDeNumeros.clear();
+        System.out.println("La lista esta vacia "+listaDeNumeros.isEmpty());
+        //listaDeNumeros.remove(0);
+        Collections.reverse(listaDeNumeros);
 
         for (int i : listaDeNumeros) {
             System.out.println(i);
