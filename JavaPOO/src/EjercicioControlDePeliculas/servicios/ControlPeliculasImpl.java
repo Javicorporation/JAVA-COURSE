@@ -9,10 +9,13 @@ import java.util.List;
 
 public class ControlPeliculasImpl implements IControlPeliculasDAO{
 
-    private final IAccesoDatos accesoDatos;
+    private IAccesoDatos accesoDatos;
 
     public ControlPeliculasImpl(IAccesoDatos accesoDatos) {
         this.accesoDatos = accesoDatos;
+    }
+
+    public ControlPeliculasImpl() {
     }
 
     @Override
@@ -63,7 +66,7 @@ public class ControlPeliculasImpl implements IControlPeliculasDAO{
     @Override
     public void iniciarControlPeliculas() {
         try {
-            if (this.accesoDatos.comprobarSiExistearchivo(nombreRecurso)){
+            if (accesoDatos.comprobarSiExistearchivo(nombreRecurso)){
                 accesoDatos.borrarPelicula(nombreRecurso);
                 accesoDatos.crearPelicula(nombreRecurso);
             }else {
