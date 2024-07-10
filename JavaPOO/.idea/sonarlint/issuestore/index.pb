@@ -376,3 +376,5 @@ s
 Csrc/EjercicioControlDePeliculas/servicios/ControlPeliculasImpl.java,b\4\b4631c1a38e3ba1be9342c42b1a22ccb27960708
 v
 Fsrc/EjercicioControlDePeliculas/exceptions/LecturaDatosExceptions.java,9\6\96ddfe9c111e6f92fba1c860bb18cba96645761e
+V
+&src/Colecciones/Listas/TestListas.java,b\2\b24e0c4790b2b68ccc91a64ec43ac2c2b300c69b
