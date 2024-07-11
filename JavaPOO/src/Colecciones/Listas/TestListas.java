@@ -1,5 +1,7 @@
 package Colecciones.Listas;
 
+import Colecciones.Objetos.Empleado;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -8,32 +10,19 @@ public class TestListas {
     public static void main(String[] args) {
 
         // los nombres de los tipos de lista empiezan con mayuscula
+        List<Empleado> listaDeEmpleados = new ArrayList<>();
 
-        List<Integer> listaDeNumeros = new ArrayList<>();
-        List<String> listaDeStrig = new ArrayList<>();
-        List<Double> listaDeDouble = new ArrayList<>();
+        listaDeEmpleados.add(new Empleado("javier","carchi","mexico",24,200));
+        listaDeEmpleados.add(new Empleado("maria","paz","mexico",23,300));
+        listaDeEmpleados.add(new Empleado("juan","cali","mexico",22,400));
+        listaDeEmpleados.add(new Empleado("elber","cochi","mexico",21,500));
 
-        listaDeNumeros.add(1);
-        listaDeNumeros.add(2);
-        listaDeNumeros.add(3);
-        listaDeNumeros.add(4);
-        listaDeNumeros.add(5);
-        listaDeNumeros.add(0,6);
-        for (int i : listaDeNumeros) {
-            System.out.println(i);
+        for (Empleado empleado : listaDeEmpleados){
+            System.out.println(empleado);
         }
-        System.out.println("El tamaño de la lista es: "+listaDeNumeros.size());
-        System.out.println("agregado el numero : ");
-        System.out.println("Obtener el numero: "+listaDeNumeros.get(0));
-        //System.out.println("vaciamos la lista ");
-        //listaDeNumeros.clear();
-        System.out.println("La lista esta vacia "+listaDeNumeros.isEmpty());
-        //listaDeNumeros.remove(0);
-        Collections.reverse(listaDeNumeros);
 
-        for (int i : listaDeNumeros) {
-            System.out.println(i);
-        }
+
+
 
     }
 
