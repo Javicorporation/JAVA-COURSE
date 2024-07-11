@@ -380,3 +380,5 @@ V
 &src/Colecciones/Listas/TestListas.java,b\2\b24e0c4790b2b68ccc91a64ec43ac2c2b300c69b
 U
 %src/Colecciones/Objetos/Empleado.java,f\c\fcfaf53f5378cf793eb4620bc5134c2c88a04d12
+^
+.src/Colecciones/Comparar/CompararEmpleado.java,e\3\e313bba9c11bfec50703383e27d1d6a243171bc4

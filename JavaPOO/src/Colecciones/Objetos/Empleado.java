@@ -1,6 +1,7 @@
 package Colecciones.Objetos;
 
-public class Empleado {
+
+public class Empleado{
     private String nombre;
     private String apellido;
     private String pais;
@@ -67,4 +68,5 @@ public class Empleado {
                 ", \nedad: " + edad +
                 ", \nsueldo: " + sueldo;
     }
+
 }

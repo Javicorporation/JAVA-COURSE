@@ -1,5 +1,6 @@
 package Colecciones.Listas;
 
+import Colecciones.Comparar.CompararEmpleado;
 import Colecciones.Objetos.Empleado;
 
 import java.util.ArrayList;
@@ -12,10 +13,13 @@ public class TestListas {
         // los nombres de los tipos de lista empiezan con mayuscula
         List<Empleado> listaDeEmpleados = new ArrayList<>();
 
-        listaDeEmpleados.add(new Empleado("javier","carchi","mexico",24,200));
-        listaDeEmpleados.add(new Empleado("maria","paz","mexico",23,300));
-        listaDeEmpleados.add(new Empleado("juan","cali","mexico",22,400));
-        listaDeEmpleados.add(new Empleado("elber","cochi","mexico",21,500));
+        listaDeEmpleados.add(new Empleado("d-javier","carchi","mexico",24,200));
+        listaDeEmpleados.add(new Empleado("c-maria","paz","mexico",23,300));
+        listaDeEmpleados.add(new Empleado("b-juan","cali","mexico",27,400));
+        listaDeEmpleados.add(new Empleado("a-elber","cochi","mexico",21,500));
+
+
+        Collections.sort(listaDeEmpleados, new CompararEmpleado());
 
         for (Empleado empleado : listaDeEmpleados){
             System.out.println(empleado);
