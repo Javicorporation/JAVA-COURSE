@@ -1,4 +1,4 @@
-package Colecciones.Listas;
+package ColeccionesComparable;
 
 import Colecciones.Comparar.CompararEmpleado;
 import Colecciones.Objetos.Empleado;
@@ -18,8 +18,7 @@ public class TestListas {
         listaDeEmpleados.add(new Empleado("b-juan","cali","mexico",27,400));
         listaDeEmpleados.add(new Empleado("a-elber","cochi","mexico",21,500));
 
-
-        Collections.sort(listaDeEmpleados, new CompararEmpleado());
+        Collections.sort(listaDeEmpleados);
 
         for (Empleado empleado : listaDeEmpleados){
             System.out.println(empleado);

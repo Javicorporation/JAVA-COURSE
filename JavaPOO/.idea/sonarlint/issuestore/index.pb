@@ -382,3 +382,13 @@ U
 %src/Colecciones/Objetos/Empleado.java,f\c\fcfaf53f5378cf793eb4620bc5134c2c88a04d12
 ^
 .src/Colecciones/Comparar/CompararEmpleado.java,e\3\e313bba9c11bfec50703383e27d1d6a243171bc4
+_
+/src/ColeccionesComparable/CompararEmpleado.java,a\8\a8508b2e61a17dc677ec08d510c71e274e66aebd
+W
+'src/Colecciones/Objetos/TestListas.java,d\0\d0653e2094b5ad10331bcb9c5b52ab64e37a28a1
+]
+-src/Colecciones/Objetos/CompararEmpleado.java,3\3\33032afc917e5b5ee23d3fcbecea2bcd46bc30d5
+Y
+)src/ColeccionesComparable/TestListas.java,d\5\d56606e929f38b8f68191511f1993ce54989999c
+W
+'src/ColeccionesComparable/Empleado.java,7\9\79f386db7f38618d759193a62e839a0d80c2dc3e
