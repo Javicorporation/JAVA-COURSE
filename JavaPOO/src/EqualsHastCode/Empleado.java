@@ -67,6 +67,18 @@ public class Empleado {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Empleado empleado)) return false;
+        return edad == empleado.edad && Double.compare(sueldo, empleado.sueldo) == 0 && Objects.equals(nombre, empleado.nombre) && Objects.equals(apellido, empleado.apellido) && Objects.equals(pais, empleado.pais);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(nombre, apellido, pais, edad, sueldo);
+    }
+
+    @Override
     public String toString() {
         return "\nEmpleado: " +
                 "\nnombre: " + nombre +
