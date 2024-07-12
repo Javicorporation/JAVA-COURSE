@@ -390,3 +390,13 @@ P
  src/EqualsHastCode/Empleado.java,0\c\0caf2475c9c414d014904426e6f0d4dd66295ed5
 R
 "src/EqualsHastCode/TestListas.java,0\a\0aa6690c666250aca4248333d3521929902513af
+Z
+*src/EjercicioDeListas/Ejecutador/Test.java,1\9\1971109c4c8520b8a0fae4362ccbac06f15f2f42
+`
+0src/EjercicioDeListas/Ejecutador/Ejecutador.java,e\b\eb696a02bf66957905d144bc13d20bd21f5b7427
+]
+-src/EjercicioDeListas/Clases/Entregables.java,6\2\6271304c8c7199928d59146536d4fafb52497b9e
+W
+'src/EjercicioDeListas/Clases/Serie.java,c\6\c62cbacfc34abb657d245370f44c5164aa1b236c
+\
+,src/EjercicioDeListas/Clases/VideoJuego.java,9\a\9aa5f4ad1638190977fed6c0ada3ba17f4b1d339
