@@ -1,8 +1,8 @@
 package EjercicioDeListas.Clases;
 
-import java.util.Objects;
 
-public class Serie  implements Entregables{
+
+public class Serie implements Entregables {
 
     public static final int mayor= 1;
     public static final int menor= -1;
@@ -73,6 +73,21 @@ public class Serie  implements Entregables{
                 ", creador='" + creador + '\'' +
                 '}';
     }
+
+    @Override
+    public boolean equals(VideoJuego videoJuego) {
+        return false;
+    }
+
+    @Override
+    public boolean equals(Serie serie){
+        if(titulo.equalsIgnoreCase(serie.getTitulo()) && creador.equalsIgnoreCase(serie.getCreador())){
+            return true;
+        }
+        return false;
+    }
+
+
 
 
 
