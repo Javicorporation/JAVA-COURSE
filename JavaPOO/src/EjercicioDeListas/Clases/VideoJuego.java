@@ -62,13 +62,12 @@ public class VideoJuego implements Entregables {
 
     @Override
     public String toString() {
-        return "VideoJuego{" +
-                "titulo='" + titulo + '\'' +
-                ", horasEstimadas=" + horasEstimadas +
-                ", entregado=" + entregado +
-                ", genero='" + genero + '\'' +
-                ", campania='" + campania + '\'' +
-                '}';
+        return "\nVideoJuego: " +
+                "\ntitulo= " + titulo +
+                "\nhorasEstimadas= " + horasEstimadas +
+                "\nentregado= " + entregado +
+                "\ngenero= " + genero +
+                "\ncampania= " + campania ;
     }
 
     @Override

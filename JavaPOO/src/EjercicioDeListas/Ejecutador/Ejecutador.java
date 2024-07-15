@@ -13,7 +13,7 @@ public class Ejecutador {
         List<VideoJuego> listaVideoJuego = new ArrayList<>();
 
         listaSerie.add(new Serie("Game of Thrones", 8, "fantasia", "David Benioff"));
-        listaSerie.add(new Serie("Breaking Bad", 5, "drama", "Vince Gilligan"));
+        listaSerie.add(new Serie("Breaking Bad", 1, "drama", "Vince Gilligan"));
         listaSerie.add(new Serie("Friends", 10, "comedia", "Marta Kauffman"));
         listaSerie.add(new Serie("The Wire", 5, "drama", "David Simon"));
 
@@ -50,6 +50,54 @@ public class Ejecutador {
         }
         System.out.println("Hay " + entregado + " articulos entregados");
         System.out.println("");
+
+
+        // averiguamos la serie mayor de una lista
+        Serie serieMayor = listaSerie.get(0);
+        VideoJuego videoJuegoMayor = listaVideoJuego.get(0);
+
+        for (int i = 0; i < listaSerie.size(); i++) {
+            if (listaSerie.get(i).compareTo(serieMayor) == Serie.mayor) {
+                serieMayor = listaSerie.get(i);
+            }
+        }
+
+        for (int i = 0; i < listaVideoJuego.size(); i++) {
+            if (listaVideoJuego.get(i).compareTo(videoJuegoMayor) == VideoJuego.mayor) {
+                videoJuegoMayor = listaVideoJuego.get(i);
+            }
+        }
+
+        // averiguamos la serie o video juego menor de una lista
+
+        VideoJuego videoJuegoMenor = listaVideoJuego.get(0);
+        Serie serieMenor = listaSerie.get(0);
+
+        for (int i = 0; i < listaVideoJuego.size(); i++) {
+            if (listaVideoJuego.get(i).compareTo(videoJuegoMenor) == Serie.menor) {
+                videoJuegoMenor = listaVideoJuego.get(i);
+            }
+        }
+
+        for (int i = 0; i < listaSerie.size(); i++) {
+            if (listaSerie.get(i).compareTo(serieMenor) == Serie.menor) {
+                serieMenor = listaSerie.get(i);
+            }
+        }
+
+        System.out.println("articulos Mayores");
+        System.out.println("---------------------");
+        System.out.println(serieMayor);
+        System.out.println(videoJuegoMayor);
+        System.out.println("\nArticulos Menores");
+        System.out.println("----------------------");
+        System.out.println(serieMenor);
+        System.out.println(videoJuegoMenor);
+
+
+
+
+
 
 
 

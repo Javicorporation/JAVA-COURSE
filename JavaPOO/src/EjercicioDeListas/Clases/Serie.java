@@ -65,13 +65,12 @@ public class Serie implements Entregables {
 
     @Override
     public String toString() {
-        return "\nSerie{" +
-                "titulo='" + titulo + '\'' +
-                ", numeroDeTemporadas=" + numeroDeTemporadas +
-                ", esEntregado=" + esEntregado +
-                ", genero='" + genero + '\'' +
-                ", creador='" + creador + '\'' +
-                '}';
+        return "\nSerie: " +
+                "\ntitulo= " + titulo +
+                "\nnumeroDeTemporadas= " + numeroDeTemporadas +
+                "\nesEntregado= " + esEntregado +
+                "\ngenero= " + genero +
+                "\ncreador= " + creador ;
     }
 
     @Override
