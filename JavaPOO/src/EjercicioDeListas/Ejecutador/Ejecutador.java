@@ -5,23 +5,65 @@ import EjercicioDeListas.Clases.VideoJuego;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class Ejecutador {
+    public final Scanner getting = new Scanner(System.in);
+
     public void ejecutador(){
 
         List<Serie> listaSerie = new ArrayList<>();
         List<VideoJuego> listaVideoJuego = new ArrayList<>();
+        int opcion = 0;
+        boolean loopMenu = false;
 
-        listaSerie.add(new Serie("Game of Thrones", 8, "fantasia", "David Benioff"));
-        listaSerie.add(new Serie("Breaking Bad", 1, "drama", "Vince Gilligan"));
-        listaSerie.add(new Serie("Friends", 10, "comedia", "Marta Kauffman"));
-        listaSerie.add(new Serie("The Wire", 5, "drama", "David Simon"));
+        do {
+            System.out.println("\nMENU");
+            System.out.println("1. Agregar Serie");
+            System.out.println("2. Agregar Video Juego");
+            System.out.println("3. Salir");
+            System.out.println("Escribe una opcion:");
+            opcion = getting.nextInt();
+            switch (opcion){
+                case 1:
+                    System.out.print("Titulo: ");
+                    String nombre = getting.next();
+                    System.out.print("Numero de temporadas: ");
+                    int numTemp = getting.nextInt();
+                    System.out.print("Genero: ");
+                    String genero = getting.next();
+                    System.out.print("Creador: ");
+                    String creador = getting.next();
+                    listaSerie.add(new Serie(nombre,numTemp,genero,creador));
+                    break;
+                case 2:
+                    System.out.print("Titulo: ");
+                    String nombreV = getting.next();
+                    System.out.print("Numero de temporadas: ");
+                    int horasEstimV = getting.nextInt();
+                    System.out.print("Genero: ");
+                    String generoV = getting.next();
+                    System.out.print("Creador: ");
+                    String campania = getting.next();
+                    listaVideoJuego.add(new VideoJuego(nombreV,horasEstimV,generoV,campania));
+                    break;
+                case 3:
+                    loopMenu = true;
+                    break;
+                default:
+                    System.out.println("La opcion no esta dismonible");
+            }
+        }while (!loopMenu);
 
-
-        listaVideoJuego.add(new VideoJuego("The Legend of Zelda", 30, "aventura", "Shigeru Miyamoto"));
-        listaVideoJuego.add(new VideoJuego("Grand Theft Auto V", 60, "acción", "Sam Houser"));
-        listaVideoJuego.add(new VideoJuego("Minecraft", 25, "sandbox", "Markus Persson"));
-        listaVideoJuego.add(new VideoJuego("Fortnite", 0, "battle royale", "Epic Games"));
+//        listaSerie.add(new Serie("Game of Thrones", 8, "fantasia", "David Benioff"));
+//        listaSerie.add(new Serie("Breaking Bad", 1, "drama", "Vince Gilligan"));
+//        listaSerie.add(new Serie("Friends", 10, "comedia", "Marta Kauffman"));
+//        listaSerie.add(new Serie("The Wire", 5, "drama", "David Simon"));
+//
+//        listaVideoJuego.add(new VideoJuego("The Legend of Zelda", 30, "aventura", "Shigeru Miyamoto"));
+//        listaVideoJuego.add(new VideoJuego("Grand Theft Auto V", 60, "acción", "Sam Houser"));
+//        listaVideoJuego.add(new VideoJuego("Minecraft", 25, "sandbox", "Markus Persson"));
+//        listaVideoJuego.add(new VideoJuego("Fortnite", 0, "battle royale", "Epic Games"));
 
         // entregamos los elemento de la lista de series
         for (int i = 0; i < listaSerie.size(); i++) {
