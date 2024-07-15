@@ -400,3 +400,5 @@ W
 'src/EjercicioDeListas/Clases/Serie.java,c\6\c62cbacfc34abb657d245370f44c5164aa1b236c
 \
 ,src/EjercicioDeListas/Clases/VideoJuego.java,9\a\9aa5f4ad1638190977fed6c0ada3ba17f4b1d339
+N
+src/ColeccionHashSet/Test.java,e\5\e5eea29faeb9a21dd7c5a9d933d81908be054297
