@@ -402,3 +402,5 @@ W
 ,src/EjercicioDeListas/Clases/VideoJuego.java,9\a\9aa5f4ad1638190977fed6c0ada3ba17f4b1d339
 N
 src/ColeccionHashSet/Test.java,e\5\e5eea29faeb9a21dd7c5a9d933d81908be054297
+U
+%src/Diccionarios/TestDiccionario.java,7\7\7763e85a14c17d1acab8686feb6fa004dd6e2fba
