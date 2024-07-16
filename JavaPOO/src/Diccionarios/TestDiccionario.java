@@ -19,6 +19,23 @@ public class TestDiccionario {
         for (Map.Entry<Integer, String> nombreX: diccionarioHash.entrySet()){
             System.out.println("Este es el valor: "+nombreX.getValue()+", Esta es la llave: "+nombreX.getKey());
         }
+        System.out.println();
+
+
+
+        // Implementación de TreeMap
+        // normalmente, necesita una llave y un valor
+        // esta coleccion ordena las llaves  y pasa lo mismo con los valores de llaves repetidas
+        Map<Integer, String> diccionarioTreeMap = new TreeMap<>();
+        diccionarioTreeMap.put(1,"hola");
+        diccionarioTreeMap.put(2,"que tal");
+        diccionarioTreeMap.put(3,"como estas");
+        diccionarioTreeMap.put(4,"babosa");
+
+        for(Map.Entry<Integer, String> nombre: diccionarioTreeMap.entrySet()){
+            System.out.println("Clave: "+nombre.getKey()+", valor: "+nombre.getValue());
+
+        }
 
 
 
