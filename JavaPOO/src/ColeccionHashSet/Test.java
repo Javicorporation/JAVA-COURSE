@@ -1,11 +1,15 @@
 package ColeccionHashSet;
 
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
 public class Test {
     public static void main(String[] args) {
+
+        // todos estas listas se deben de implementar en objetso o cualquier tipo de dato
+
 
         // esta inteface no permite datos repetidos
         // al momento de imprimirlos los omite.
@@ -34,6 +38,22 @@ public class Test {
 
         for (String nombres: conjuntoTree){
             System.out.println("Nombre: "+nombres);
+        }
+
+        // uso de LinkedHashSet
+        // no ordena los objetos pero si evita los valores dupilicados
+        Set<Character> letras = new LinkedHashSet<>();
+        letras.add('e');
+        letras.add('f');
+        letras.add('a');
+        letras.add('d');
+        letras.add('b');
+        letras.add('c');
+
+
+        System.out.println();
+        for (Character letra: letras){
+            System.out.println("Letra: "+letra);
         }
 
 
