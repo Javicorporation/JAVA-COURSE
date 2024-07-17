@@ -27,16 +27,26 @@ public class TestDiccionario {
         // normalmente, necesita una llave y un valor
         // esta coleccion ordena las llaves  y pasa lo mismo con los valores de llaves repetidas
         Map<Integer, String> diccionarioTreeMap = new TreeMap<>();
-        diccionarioTreeMap.put(1,"hola");
+        diccionarioTreeMap.put(4,"hola");
         diccionarioTreeMap.put(2,"que tal");
         diccionarioTreeMap.put(3,"como estas");
         diccionarioTreeMap.put(4,"babosa");
 
         for(Map.Entry<Integer, String> nombre: diccionarioTreeMap.entrySet()){
             System.out.println("Clave: "+nombre.getKey()+", valor: "+nombre.getValue());
-
         }
 
+        // Implementación de LinkedHashMap
+        //
+        Map<Integer,String> diccionarioLinkedHashMap = new LinkedHashMap<>();
+        diccionarioLinkedHashMap.put(4,"hola");
+        diccionarioLinkedHashMap.put(2,"que tal");
+        diccionarioLinkedHashMap.put(3,"como estas");
+        diccionarioLinkedHashMap.put(4,"babosa");
+
+        for (Map.Entry<Integer, String> nombres: diccionarioHash.entrySet()){
+            System.out.println("Clave: "+nombres.getKey()+", valor: "+nombres.getValue());
+        }
 
 
     }

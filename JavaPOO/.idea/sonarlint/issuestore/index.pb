@@ -408,3 +408,5 @@ e
 0src/EjercicioDeListas/Clases/Serie-JavierCS.java,4\c\4c9626380308bd75f9307f5f9bce9bc0fff0aaba
 i
 9src/EjercicioDeListas/Ejecutador/Ejecutador-JavierCS.java,6\a\6af8557d10b11607c0d66ec70fea5a2e6ee396dd
+N
+src/ColeccionHashSet/Test.java,e\5\e5eea29faeb9a21dd7c5a9d933d81908be054297
