@@ -400,3 +400,11 @@ W
 'src/EjercicioDeListas/Clases/Serie.java,c\6\c62cbacfc34abb657d245370f44c5164aa1b236c
 \
 ,src/EjercicioDeListas/Clases/VideoJuego.java,9\a\9aa5f4ad1638190977fed6c0ada3ba17f4b1d339
+U
+%src/Diccionarios/TestDiccionario.java,7\7\7763e85a14c17d1acab8686feb6fa004dd6e2fba
+e
+5src/EjercicioDeListas/Clases/VideoJuego-JavierCS.java,5\7\57e2cec9d6420641156cf388ee5b388e30f69a7d
+`
+0src/EjercicioDeListas/Clases/Serie-JavierCS.java,4\c\4c9626380308bd75f9307f5f9bce9bc0fff0aaba
+i
+9src/EjercicioDeListas/Ejecutador/Ejecutador-JavierCS.java,6\a\6af8557d10b11607c0d66ec70fea5a2e6ee396dd

@@ -52,6 +52,33 @@ public class Ejecutador {
         System.out.println("");
 
 
+        // averiguamos la serie mayor de una lista
+        Serie serieMayor = listaSerie.get(0);
+        VideoJuego videoJuegoMayor = listaVideoJuego.get(0);
+
+        for (int i = 0; i < listaSerie.size(); i++) {
+            if (listaSerie.get(i).compareTo(serieMayor) == Serie.mayor) {
+                serieMayor = listaSerie.get(i);
+            }
+        }
+
+        for (int i = 0; i < listaVideoJuego.size(); i++) {
+            if (listaVideoJuego.get(i).compareTo(videoJuegoMayor) == VideoJuego.mayor) {
+                videoJuegoMayor = listaVideoJuego.get(i);
+            }
+        }
+
+        VideoJuego videoJuegoMenor = listaVideoJuego.get(0);
+        Serie serieMenor = listaSerie.get(0);
+
+        for (int i = 0; i < listaVideoJuego.size(); i++) {
+            if (listaVideoJuego.get(i).compareTo(videoJuegoMenor) == Serie.menor) {
+            }
+        }
+
+
+
+
 
 
 
