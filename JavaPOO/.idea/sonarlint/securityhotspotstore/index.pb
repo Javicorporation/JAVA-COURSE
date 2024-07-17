@@ -410,3 +410,11 @@ i
 9src/EjercicioDeListas/Ejecutador/Ejecutador-JavierCS.java,6\a\6af8557d10b11607c0d66ec70fea5a2e6ee396dd
 N
 src/ColeccionHashSet/Test.java,e\5\e5eea29faeb9a21dd7c5a9d933d81908be054297
+i
+9src/EjercicioInventarioProductos/Ejecutador/TestMain.java,e\d\ed5b0b9b6af23f37e6ec1a3633bf2a3d69e82f04
+k
+;src/EjercicioInventarioProductos/Ejecutador/Ejecutador.java,d\6\d6b5085ae38ab5813e6525c0057d88062e1280c2
+u
+Esrc/EjercicioInventarioProductos/Clases/OrdenProductosAccendente.java,4\3\4358422c62b7e0a484bfb1b6a873783883a1e2c0
+u
+Esrc/EjercicioInventarioProductos/Clases/OrdenProductosDecendente.java,3\e\3e55d752e2123adfdaf7ff4306ba264c6737d6f2
