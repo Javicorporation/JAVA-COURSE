@@ -1,5 +1,8 @@
 package EjercicioInventarioProductos.Ejecutador;
 
+import EjercicioInventarioProductos.Clases.OrdenProductosAccendente;
+import EjercicioInventarioProductos.Clases.OrdenProductosDecendente;
+
 import java.util.HashMap;
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -8,7 +11,7 @@ import java.util.TreeMap;
 public class Ejecutador {
     private final Scanner getting = new Scanner(System.in);
     HashMap<String,Integer> inventario = new HashMap<>();
-    TreeMap<String,Integer> tree;
+    TreeMap<String,Integer> inventarioOrdenado;
 
 
     public void ejecutar() {
@@ -91,10 +94,35 @@ public class Ejecutador {
                         }
                         break;
                     case 5:
+                        System.out.println("ingrese el nombre del producto: ");
+                        producto = getting.next();
+                        if (inventario.containsKey(producto)) {
+                            inventario.remove(producto);
+                            System.out.println("El producto fue eliminado con exito");
+                        }else{
+                            System.out.println("el producto no existe");
+                        }
                         break;
                     case 6:
+                        inventarioOrdenado = new TreeMap<>(new OrdenProductosAccendente());
+                        inventarioOrdenado.putAll(inventario);
+
+                        for (String i: inventarioOrdenado.keySet() ){
+                            stock = inventarioOrdenado.get(i);
+                            System.out.println();
+                            System.out.println("clave: "+i);
+                            System.out.println("stock: "+stock);
+                        }
                         break;
                     case 7:
+                        inventarioOrdenado = new TreeMap<>(new OrdenProductosDecendente());
+                        inventarioOrdenado.putAll(inventario);
+                        for (String i: inventarioOrdenado.keySet() ){
+                            stock = inventarioOrdenado.get(i);
+                            System.out.println();
+                            System.out.println("clave: "+i);
+                            System.out.println("stock: "+stock);
+                        }
                         break;
                     case 8:
                         System.out.println("Gracias");
