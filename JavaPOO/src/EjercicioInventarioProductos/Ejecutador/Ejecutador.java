@@ -7,8 +7,8 @@ import java.util.TreeMap;
 
 public class Ejecutador {
     private final Scanner getting = new Scanner(System.in);
-    HashMap<Integer,String> inventario = new HashMap<>();
-    TreeMap<Integer,String> tree;
+    HashMap<String,Integer> inventario = new HashMap<>();
+    TreeMap<String,Integer> tree;
 
 
     public void ejecutar() {
@@ -32,12 +32,35 @@ public class Ejecutador {
                 opcion = getting.nextInt();
 
                 String producto;
-                int stock, stockActual;
+                int stock;
+                int stockActual = 0;
 
                 switch (opcion) {
                     case 1:
+                        System.out.println("Ingrese un producto: ");
+                        producto = getting.next();
+                        // el .containsKey sirve para verificar si algo ya existe
+                        if (inventario.containsKey(producto)) {
+                            System.out.println("El producto ya existe");
+                        }else {
+                            inventario.put(producto,0);
+                            System.out.println("El producto no existe");
+                        }
                         break;
                     case 2:
+                        System.out.println("Escriba el nombre del producto: ");
+                        producto = getting.next();
+                        if (inventario.containsKey(producto)) {
+                            System.out.println("Digite la contidad: ");
+                            stock = getting.nextInt();
+                            if (stock > 0) {
+                                stockActual = inventario.get(producto);
+                                inventario.put(producto,stockActual + stock);
+                                System.out.println("Se a añadido "+stock+" de stock "+stockActual);
+                            }else {
+                                System.out.println("no se puede añadir un stock negativo");
+                            }
+                        }
                         break;
                     case 3:
                         break;
