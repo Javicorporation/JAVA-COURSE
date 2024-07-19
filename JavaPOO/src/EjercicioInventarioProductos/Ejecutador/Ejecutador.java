@@ -63,8 +63,32 @@ public class Ejecutador {
                         }
                         break;
                     case 3:
+                        System.out.println("ingrese el nombre del producto: ");
+                        producto = getting.next();
+                        if (inventario.containsKey(producto)) {
+                            System.out.println("digite el stok a eliminar: ");
+                            stock = getting.nextInt();
+                            if (stock > 0) {
+                                stockActual = inventario.get(producto);
+                                if (stockActual > stock) {
+                                    inventario.put(producto, stockActual-stock);
+                                }else{
+                                    System.out.println("No hay stok a eliminar");
+                                }
+                            }else{
+                                System.out.println("no se puede eliminar un stock negativo");
+                            }
+                        }else{
+                            System.out.println("no exisste producto");
+                        }
                         break;
                     case 4:
+                        for (String product: inventario.keySet()){
+                            stock = inventario.get(product);
+                            System.out.println();
+                            System.out.println("clave: "+product);
+                            System.out.println("stock: "+stock);
+                        }
                         break;
                     case 5:
                         break;
