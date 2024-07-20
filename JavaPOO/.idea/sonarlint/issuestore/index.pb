@@ -412,3 +412,7 @@ u
 Esrc/EjercicioInventarioProductos/Clases/OrdenProductosAccendente.java,4\3\4358422c62b7e0a484bfb1b6a873783883a1e2c0
 u
 Esrc/EjercicioInventarioProductos/Clases/OrdenProductosDecendente.java,3\e\3e55d752e2123adfdaf7ff4306ba264c6737d6f2
+X
+(src/Ejercicio01Cuenta/clases/Cuenta.java,5\a\5a6de83eddc500bd672106202df50d0e19a73e8d
+Y
+)src/Ejercicio01Cuenta/clases/Metodos.java,2\3\231285bda14312074ce516ec9924d9447bcb6a77
