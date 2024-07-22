@@ -10,7 +10,12 @@ public class Ejecutador {
 //        }
 
         // imprimir una lista utilizando expreciones lambda
-        Arrays.asList(1,2,3,4,5,6,7,8,9,10).forEach(
-                n -> System.out.println(n+" "));
+//        Arrays.asList(1,2,3,4,5,6,7,8,9,10).forEach(
+//                n -> System.out.println(n+" "));
+
+
+//        tambien podemos hacerlo de esta manera
+
+        Arrays.asList(1,2,3,4,5,6).forEach(System.out :: println);
     }
 }
