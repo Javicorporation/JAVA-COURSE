@@ -416,3 +416,9 @@ X
 (src/Ejercicio01Cuenta/clases/Cuenta.java,5\a\5a6de83eddc500bd672106202df50d0e19a73e8d
 Y
 )src/Ejercicio01Cuenta/clases/Metodos.java,2\3\231285bda14312074ce516ec9924d9447bcb6a77
+[
++src/Ejercicio02Personas/Clases/Persona.java,7\9\79b1e041ccc20168f1fbee65fca9666b7c695244
+\
+,src/ExpresionesLambda/Clases/Ejecutador.java,2\1\21509a0fb1ad8cc61983f3ef2ea855ef649f32ff
+`
+0src/ExpresionesLambda/Clases/EjemplosLambda.java,9\2\924d242f56f9ed8ae2e800411f71b27c0ea9bd38
