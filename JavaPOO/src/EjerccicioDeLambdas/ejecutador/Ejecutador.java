@@ -12,12 +12,12 @@ public class Ejecutador {
         // cracion de lista
         List<Alumnos> listaDeAlumnos = new ArrayList<>();
         listaDeAlumnos.add(new Alumnos(1,"948494689","Juanin","carlo","fisica",7.0,21));
-        listaDeAlumnos.add(new Alumnos(2, "123456789", "María", "Gómez", "Matemáticas", 8.5, 22));
+        listaDeAlumnos.add(new Alumnos(2, "123456789", "María", "Gómez", "MatemáticasT", 8.5, 22));
         listaDeAlumnos.add(new Alumnos(3, "987654321", "Luis", "Pérez", "Química", 9.0, 20));
-        listaDeAlumnos.add(new Alumnos(4, "456789123", "lna", "Martínez", "Biología", 6.5, 23));
+        listaDeAlumnos.add(new Alumnos(4, "456789123", "lna", "Martínez", "BiologíaT", 6.5, 23));
         listaDeAlumnos.add(new Alumnos(5, "321654987", "Carlos", "Hernández", "Historia", 7.5, 21));
         listaDeAlumnos.add(new Alumnos(6, "654321789", "gofía", "López", "Literatura", 8.0, 22));
-        listaDeAlumnos.add(new Alumnos(7, "789123456", "ledro", "Ramírez", "Filosofía", 7.8, 42));
+        listaDeAlumnos.add(new Alumnos(7, "789123456", "ledro", "Ramírez", "FilosofíaT", 7.8, 42));
 
         System.out.println("lista de alumnos: ");
 
@@ -51,9 +51,17 @@ public class Ejecutador {
         System.out.println(listaDeAlumnos.stream().min((a1,a2) -> a1.getEdad() - a2.getEdad()));
                                                       // se crean 2 variables y se restan
 
-        // obtener el alumno con menor edad de la lista
+        // obtener el alumno con mayor edad de la lista
         System.out.println("\n------------------");
-        System.out.println("alumno con menor edad de la lista");
+        System.out.println("alumno con mayor edad de la lista");
         System.out.println(listaDeAlumnos.stream().max((x,y) -> x.getEdad() -y.getEdad()));
+
+
+        // obtener el nombre de los cursos que termina con t en la lista
+        System.out.println("\n------------------");
+        System.out.println("nombre de los cursos que termina con t en la lista");
+        listaDeAlumnos.stream()
+                .filter(c -> c.getNombreCurso().toLowerCase().endsWith("t"))
+                .forEach(System.out::println);
     }
 }
