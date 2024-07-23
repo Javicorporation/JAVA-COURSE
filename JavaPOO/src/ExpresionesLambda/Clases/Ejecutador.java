@@ -2,6 +2,7 @@ package ExpresionesLambda.Clases;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Ejecutador {
@@ -41,14 +42,37 @@ public class Ejecutador {
 
         //filtrar loas numero de una lista utilizando programacion funcional
                                          // casteamos el arrayList, osea llenamos el arrayList creado con Arrays.asList
-        ArrayList<Integer> listamenor = (ArrayList<Integer>)Arrays.asList(1,2,3,4,5,6,7,8,9)
-                // convertimos en un flujo de elementos al arrayList por medio del stream
-                .stream()
-                // filtro para obtener los numeros mayores a 5
-                .filter(x -> x >5)
-                // pone los elementos fitrados dentro de una nueva lista, dentro utilizamos una expresion lambda
-                .collect(Collectors.toCollection(() -> new ArrayList<Integer>()));
-        listamenor.forEach(e -> System.out.println(e));
+//        ArrayList<Integer> listamenor = (ArrayList<Integer>)Arrays.asList(1,2,3,4,5,6,7,8,9)
+//                // convertimos en un flujo de elementos al arrayList por medio del stream
+//                .stream()
+//                // filtro para obtener los numeros mayores a 5
+//                .filter(x -> x >5)
+//                // pone los elementos fitrados dentro de una nueva lista, dentro utilizamos una expresion lambda
+//                .collect(Collectors.toCollection(() -> new ArrayList<Integer>()));
+//        listamenor.forEach(e -> System.out.println(e));
 
+
+
+
+
+
+
+
+        ///ejemplo de funcion lambda
+
+        // Un parámetro de entrada y retorno
+        // x -> x.length();
+
+        // Dos parámetros de entrada y retorno
+        // (x,y) -> x * y;
+
+        // Mas de una operación
+//        (x, y) -> {
+//            System.out.println(x + “ + “ + y);
+//            return x + y;
+//        };
+
+        // Sin parámetros ni retorno
+        // () -> {}
     }
 }
