@@ -59,11 +59,23 @@ public class Ejecutar {
         vehiculoOrdenado.forEach(System.out::println);
 
         // Listar todos los modelos sin que se repitan
-        System.out.println("");
+        System.out.println();
+        System.out.println("Listar todos los modelos sin que se repitan");
+        List<Modelo> vehiculosNoRepetidos = listaVehiculos.stream()
+                .map(vehiculo -> vehiculo.getModelo())
+                .distinct().collect(Collectors.toList());
+        vehiculosNoRepetidos.forEach(System.out::println);
 
         // Listar los vehículos con más de 20000 kilómetros e imprimir el objeto
-        System.out.println("");
-
+        System.out.println();
+        System.out.println("Listar los vehículos con más de 20000 kilómetros e imprimir el objeto");
+        List<String> masKill = listaVehiculos.stream()
+                .filter(v -> v.getKilometro() > 20000)
+                .peek(v -> System.out.println(v))
+                .map(Vehiculo ::getMatricula)
+                .peek(v -> System.out.println(v))
+                .collect(Collectors.toList());
+        masKill.forEach(e -> System.out.println());
         // Agrupar a los vehículos por modelo
         System.out.println("");
 
