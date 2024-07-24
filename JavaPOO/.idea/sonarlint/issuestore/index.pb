@@ -428,3 +428,11 @@ b
 2src/EjerccicioDeLambdas/ejecutador/Ejecutador.java,4\5\45940196e4b92a991a67a2db6caabafeea250157
 \
 ,src/EjerccicioDeLambdas/ejecutador/Test.java,d\8\d802863ba8c1df77426865b4fcb027ee7cb58541
+^
+.src/EjercicioDeLambdas2/Ejecutar/Ejecutar.java,6\6\66f6233d5c617a2706dcffde93187dfbd0643ebb
+Z
+*src/EjercicioDeLambdas2/Ejecutar/Test.java,8\c\8cac8278104004483b13407a7faaf173617742d6
+\
+,src/EjercicioDeLambdas2/Clases/Vehiculo.java,7\3\73a860924a3f561bf377dc228301eb58301fe7b3
+Z
+*src/EjercicioDeLambdas2/Clases/Modelo.java,6\3\631cf90d45cde25a5eb076c1af9a042c8f61407c
