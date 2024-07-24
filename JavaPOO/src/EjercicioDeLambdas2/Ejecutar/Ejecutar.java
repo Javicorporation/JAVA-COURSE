@@ -20,9 +20,11 @@ public class Ejecutar {
         listaVehiculos.add(new Vehiculo("7777AAA", Modelo.CITROEN, 0));
         listaVehiculos.add(new Vehiculo("8888AAA", Modelo.AUDI, 90000));
 
-        // .stream =
-        // .map =
-        // .collect =
+        // .stream = Este método convierte una colección o array en un flujo (stream) de elementos. Un stream permite realizar operaciones como filtrado, mapeo, reducción, y más de manera eficiente y funcional.
+        // .map = Es una operación del stream que transforma cada elemento del flujo aplicando una función a cada uno de ellos. Por ejemplo, puedes convertir un stream de objetos a un stream de ciertos atributos de esos objetos.
+
+        // .collect = Este método termina un stream y recopila los elementos del flujo en una colección o valor. Puedes especificar cómo quieres recoger los elementos, como en una lista, un conjunto, un mapa, etc.
+        // Collectors =
         // .toList =
 
         // presentar todos los vehiculos multiplicados por 2
@@ -45,10 +47,16 @@ public class Ejecutar {
         listadoKilom.forEach(e -> System.out.println(e));
 
         // Listar los vehículos solo con modelo AUDI
-        System.out.println("");
+        System.out.println();
+        System.out.println("Listar los vehículos solo con modelo AUDI");
+        List<Vehiculo> vehiAUDI = listaVehiculos.stream().filter(e -> e.getModelo().equals(Modelo.AUDI)).collect(Collectors.toList());
+        vehiAUDI.forEach(System.out::println);
 
         // Ordenar los vehículos por la cantidad de kilómetros
-        System.out.println("");
+        System.out.println();
+        System.out.println("Ordenar los vehículos por la cantidad de kilómetros");
+        List<Vehiculo> vehiculoOrdenado = listaVehiculos.stream().sorted((v1, v2)-> Double.compare(v1.getKilometro(), v2.getKilometro())).collect(Collectors.toList());
+        vehiculoOrdenado.forEach(System.out::println);
 
         // Listar todos los modelos sin que se repitan
         System.out.println("");
