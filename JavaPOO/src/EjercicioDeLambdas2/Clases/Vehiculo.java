@@ -45,7 +45,6 @@ public class Vehiculo {
         return "\nVehiculo: " +
                 "\nmatricula: " + matricula +
                 "\nmodelo: " + modelo +
-                "\nkilometro: " + kilometro +
-                '}';
+                "\nkilometro: " + kilometro ;
     }
 }

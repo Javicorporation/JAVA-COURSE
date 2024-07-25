@@ -5,6 +5,7 @@ import EjercicioDeLambdas2.Clases.Vehiculo;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Ejecutar {
@@ -76,15 +77,39 @@ public class Ejecutar {
                 .peek(v -> System.out.println(v))
                 .collect(Collectors.toList());
         masKill.forEach(e -> System.out.println());
+
+
         // Agrupar a los vehículos por modelo
-        System.out.println("");
+        System.out.println();
+        System.out.println("Agrupar a los vehículos por modelo");
+        Map<Modelo, List<Vehiculo>> groupByModel = listaVehiculos.stream()
+                .collect(Collectors.groupingBy(Vehiculo:: getModelo));
+
+        groupByModel.forEach((clave, valor) -> {
+            System.out.println();
+            System.out.println("modelo: " + clave);
+            valor.forEach(System.out::println);
+        });
+
 
         // Sumar los kilómetros de los vehículos
-        System.out.println("");
+        System.out.println();
+        System.out.println("Sumar los kilómetros de los vehículos");
+
+        Double sumaKilo = listaVehiculos.stream()
+                .mapToDouble(v -> v.getKilometro())
+                .reduce(0, Double::sum);
+
+        System.out.println(sumaKilo);
+
 
         // Listar 2 vehículos con kilómetros menores o iguales a 100000
-        System.out.println("");
+        System.out.println();
+        System.out.println("Listar 2 vehículos con kilómetros menores o iguales a 100000");
 
+        listaVehiculos.stream().filter(v -> v.getKilometro() <= 10000)
+                .map(Vehiculo :: getModelo).distinct().limit(2)
+                .forEach(System.out::println);
 
 
 
