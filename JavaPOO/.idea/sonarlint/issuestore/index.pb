@@ -436,3 +436,9 @@ Z
 ,src/EjercicioDeLambdas2/Clases/Vehiculo.java,7\3\73a860924a3f561bf377dc228301eb58301fe7b3
 Z
 *src/EjercicioDeLambdas2/Clases/Modelo.java,6\3\631cf90d45cde25a5eb076c1af9a042c8f61407c
+_
+/src/EjercicioDeLambdas3/metodos/Ejecutador.java,3\3\33a56166450dcd2cea87682d7af004c6b71c6d5c
+Y
+)src/EjercicioDeLambdas3/metodos/Main.java,0\a\0a91f01a676245f2cd5f28df61a32c700f46df5e
+\
+,src/EjercicioDeLambdas3/clases/Pelicula.java,0\c\0c3e40cc3373b115e0026551b34b1bb136d419db
